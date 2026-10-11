@@ -51,25 +51,38 @@ content:
     type: collection
     path: content/cms-pages
     format: json
+    filename: "{primary}.json"
+
+    operations:
+      create: false
+      rename: false
+      delete: false
+
     view:
       fields: [titre, accroche]
       primary: titre
+
     fields:
       - name: titre
-        label: Titre principal (conserver le HTML décoratif sur l'accueil)
+        label: Titre principal
         type: string
+
       - name: surtitre
         label: Surtitre
         type: string
+
       - name: accroche
         label: Texte d'introduction sous le titre
         type: text
+
       - name: titre_seo
         label: Titre SEO
         type: string
+
       - name: description_seo
         label: Description SEO
         type: text
+
       - name: introduction
         label: Nouveau bloc d'introduction facultatif
         type: rich-text
