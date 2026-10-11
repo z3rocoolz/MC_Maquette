@@ -4,6 +4,6 @@
   "resume": "test2",
   "titre_seo": "test2",
   "description_seo": "test2",
-  "publie": false,
+  "publie": true,
   "contenu": "test2"
 }
