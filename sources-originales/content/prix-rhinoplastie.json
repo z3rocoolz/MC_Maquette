@@ -1,0 +1,465 @@
+{
+  "slug": "prix-rhinoplastie",
+  "url": "/prix-rhinoplastie/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83da58058bda"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Prix Rhinoplastie Marseille Nice – Tarifs et Devis",
+    "description": "Tarifs rhinoplastie à Marseille et Nice avec le Dr Mattia Coda. Prix selon la technique, de 4 000 à 11 000 €. Devis personnalisé après consultation.",
+    "keywords": "prix rhinoplastie, tarif rhinoplastie Marseille, coût rhinoplastie Nice, prix rhinoplastie ultrasonique, tarif rhinoplastie secondaire, rhinoplastie remboursée",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/prix-rhinoplastie/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Prix Rhinoplastie Marseille Nice – Tarifs et Devis",
+        "description": "Tarifs rhinoplastie à Marseille et Nice avec le Dr Mattia Coda. Prix selon la technique : primaire 4 000-7 000 €, ultrasonique 5 000-9 000 €, secondaire 6 000-11 000 €. Devis personnalisé après consultation.",
+        "url": "https://www.drmattiacoda.fr/prix-rhinoplastie/",
+        "lastReviewed": "2026-01",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Quel est le prix d'une rhinoplastie à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Entre 4 000 € et 9 000 € selon la technique et la complexité. Rhinoplastie primaire esthétique : 4 000-7 000 €. Rhinoplastie ultrasonique : 5 000-9 000 €. Rhinoplastie secondaire : 6 000-11 000 €. Un devis personnalisé est remis après consultation à Marseille (04 91 12 11 12)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Que comprend le prix d'une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le tarif global comprend les honoraires du chirurgien (incluant toutes les consultations de suivi sur 12-18 mois), les honoraires de l'anesthésiste, les frais de bloc opératoire et d'hospitalisation, et les examens préopératoires. Tout est détaillé dans le devis remis lors de la consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie est-elle remboursée par la Sécurité Sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie purement esthétique n'est pas remboursée. La composante fonctionnelle (déviation de cloison, obstruction respiratoire documentée) peut faire l'objet d'une prise en charge partielle ou totale. Le Dr Coda évalue cette possibilité lors de la consultation. RPPS 10100805174."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on payer une rhinoplastie en plusieurs fois ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les modalités de paiement sont définies lors de la consultation préopératoire et précisées dans le devis. Pour toute question, contactez le secrétariat médical au 04 91 12 11 12 (Marseille) ou 06 42 76 26 12 (Nice)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Pourquoi le prix d'une rhinoplastie secondaire est-il plus élevé ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie secondaire est techniquement plus complexe — fibrose cicatricielle, capital cartilagineux souvent réduit, durée opératoire plus longue (2h30 à 3h). Ces facteurs justifient une fourchette tarifaire plus élevée, entre 6 000 € et 11 000 €."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Y a-t-il une différence de prix entre Marseille, Nice et Draguignan ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les honoraires sont identiques dans les trois cabinets. La différence de coût global peut venir des frais de clinique selon l'établissement. Le devis précis est établi lors de la consultation préopératoire."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Prix & Tarifs de la Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/prix-rhinoplastie/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Transparence tarifaire · Devis personnalisé",
+    "title": "Prix &amp; Tarifs de la Rhinoplastie",
+    "lead": "Le prix d'une rhinoplastie varie selon la technique et la complexité du cas. Une transparence totale est garantie sur les honoraires, avec devis détaillé remis obligatoirement lors de la consultation préopératoire.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Prix & Tarifs de la Rhinoplastie",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "tarifs",
+      "variant": null,
+      "eyebrow": "Transparence tarifaire",
+      "title": "Tarifs de la rhinoplastie — ce que comprend le prix",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le prix d'une rhinoplastie comprend plusieurs postes distincts. La composition des honoraires est détaillée avec transparence, conformément à la réglementation française sur la chirurgie esthétique qui impose la remise d'un devis lors de la consultation préopératoire.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Composition du tarif global</span>\n        <ul class=\"liste\">\n          <li><strong>Honoraires du chirurgien</strong> — incluent la consultation préopératoire, la simulation morphologique, l'intervention et toutes les consultations de suivi post-opératoire sur 12 à 18 mois</li>\n          <li><strong>Honoraires de l'anesthésiste</strong> — variables selon la durée opératoire</li>\n          <li><strong>Frais de bloc opératoire et d'hospitalisation</strong> — incluent la salle d'opération, le matériel chirurgical, le personnel paramédical et l'éventuelle nuit d'hospitalisation</li>\n          <li><strong>Examens préopératoires</strong> — bilan biologique, consultation d'anesthésie (généralement à la charge du patient ou remboursés partiellement)</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "fourchettes",
+      "variant": null,
+      "eyebrow": "Fourchettes tarifaires",
+      "title": "Prix indicatifs selon la technique",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>Les tarifs ci-dessous sont indicatifs. Le devis définitif est établi lors de la consultation préopératoire, après analyse morphologique complète et définition du plan chirurgical.</p>"
+            },
+            {
+              "type": "table",
+              "head": [
+                "Type d'intervention",
+                "Fourchette indicative"
+              ],
+              "rows": [
+                [
+                  "<strong><a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">Rhinoplastie primaire esthétique</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Correction bosse, pointe, déviation axe — première intervention</span>",
+                  "<strong>4 000 € – 7 000 €</strong>"
+                ],
+                [
+                  "<strong><a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">Rhinoplastie ultrasonique</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Technique piézoélectrique — précision maximale, suites allégées</span>",
+                  "<strong>5 000 € – 9 000 €</strong>"
+                ],
+                [
+                  "<strong><a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">Rhinoplastie de préservation</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Push-Down, Let-Down — résultat naturel sans résection</span>",
+                  "<strong>5 000 € – 8 000 €</strong>"
+                ],
+                [
+                  "<strong><a href=\"/rhinoplastie-secondaire/\" style=\"color:var(--gold);\">Rhinoplastie secondaire</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Révision d'une première intervention — techniquement plus complexe</span>",
+                  "<strong>6 000 € – 11 000 €</strong>"
+                ],
+                [
+                  "<strong><a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">Septorhinoplastie mixte</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Esthétique + fonctionnelle — prise en charge SS partielle possible</span>",
+                  "<strong>5 500 € – 9 000 €</strong>"
+                ],
+                [
+                  "<strong><a href=\"/profiloplastie/\" style=\"color:var(--gold);\">Profiloplastie</a></strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Rhinoplastie + génioplastie — harmonie complète du profil</span>",
+                  "<strong>7 000 € – 13 000 €</strong>"
+                ],
+                [
+                  "<strong>Septoplastie fonctionnelle isolée</strong><br><span style=\"font-size:.76rem;color:var(--muted);\">Correction déviation cloison uniquement — prise en charge SS possible</span>",
+                  "<strong>Selon prise en charge</strong>"
+                ]
+              ],
+              "className": "tarif-table"
+            },
+            {
+              "type": "note",
+              "variant": "avertissement",
+              "title": "",
+              "html": "<strong>Devis obligatoire :</strong> Conformément à la réglementation française, un devis détaillé et personnalisé est remis obligatoirement lors de la consultation préopératoire. Un délai de réflexion légal de 15 jours est ensuite respecté avant toute intervention de chirurgie esthétique.",
+              "className": "note-warn"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "remboursement",
+      "variant": null,
+      "eyebrow": "Prise en charge",
+      "title": "La rhinoplastie est-elle remboursée ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie <strong>purement esthétique</strong> n'est pas prise en charge par l'Assurance maladie. Le patient règle l'intégralité du tarif.</p>\n      <p>Une prise en charge <strong>partielle ou totale</strong> est possible uniquement pour la composante fonctionnelle documentée :</p>\n      <ul class=\"liste\">\n        <li>Déviation de cloison nasale entraînant une obstruction respiratoire chronique documentée</li>\n        <li>Hypertrophie des cornets associée</li>\n        <li>Malformation congénitale du nez</li>\n        <li>Séquelles de traumatisme nasal</li>\n      </ul>\n      <p>Dans ces cas, une demande d'entente préalable est rédigée auprès de l'Assurance maladie. La partie esthétique, si elle est associée, reste toujours à la charge du patient. <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">En savoir plus sur la rhinoplastie fonctionnelle →</a></p>\n      <div class=\"note-med\">\n        <strong>Mutuelle :</strong> Certaines mutuelles complémentaires prennent en charge une partie des honoraires de chirurgie esthétique. Renseignez-vous auprès de votre organisme complémentaire avant la consultation.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "financement",
+      "variant": null,
+      "eyebrow": "Facilités de paiement",
+      "title": "Modalités de règlement",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les modalités de paiement (échéancier, facilités) sont précisées lors de la consultation préopératoire et figurent dans le devis remis au patient. Pour toute question relative aux tarifs, contactez directement le secrétariat médical.</p>\n      <ul class=\"liste\">\n        <li>Marseille : <a href=\"tel:0491121112\" style=\"color:var(--gold);\">04 91 12 11 12</a></li>\n        <li>Nice : <a href=\"tel:0642762612\" style=\"color:var(--gold);\">06 42 76 26 12</a></li>\n        <li>Draguignan : <a href=\"tel:0494395772\" style=\"color:var(--gold);\">04 94 39 57 72</a></li>\n      </ul>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur Prix &amp; Tarifs de la Rhinoplastie",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Quel est le prix d'une rhinoplastie à Marseille ?",
+              "answer": "Entre 4 000 € et 9 000 € selon la technique et la complexité. Rhinoplastie primaire esthétique : 4 000-7 000 €. Rhinoplastie ultrasonique : 5 000-9 000 €. Rhinoplastie secondaire : 6 000-11 000 €. Un devis personnalisé est remis après consultation à Marseille (04 91 12 11 12)."
+            },
+            {
+              "question": "Que comprend le prix d'une rhinoplastie ?",
+              "answer": "Le tarif global comprend les honoraires du chirurgien (incluant toutes les consultations de suivi sur 12-18 mois), les honoraires de l'anesthésiste, les frais de bloc opératoire et d'hospitalisation, et les examens préopératoires. Tout est détaillé dans le devis remis lors de la consultation."
+            },
+            {
+              "question": "La rhinoplastie est-elle remboursée par la Sécurité Sociale ?",
+              "answer": "La rhinoplastie purement esthétique n'est pas remboursée. La composante fonctionnelle (déviation de cloison, obstruction respiratoire documentée) peut faire l'objet d'une prise en charge partielle ou totale. Cette possibilité est évaluée lors de la consultation. RPPS 10100805174."
+            },
+            {
+              "question": "Peut-on payer une rhinoplastie en plusieurs fois ?",
+              "answer": "Les modalités de paiement sont définies lors de la consultation préopératoire et précisées dans le devis. Pour toute question, contactez le secrétariat médical au 04 91 12 11 12 (Marseille) ou 06 42 76 26 12 (Nice)."
+            },
+            {
+              "question": "Pourquoi le prix d'une rhinoplastie secondaire est-il plus élevé ?",
+              "answer": "La rhinoplastie secondaire est techniquement plus complexe — fibrose cicatricielle, capital cartilagineux souvent réduit, durée opératoire plus longue (2h30 à 3h). Ces facteurs justifient une fourchette tarifaire plus élevée, entre 6 000 € et 11 000 €."
+            },
+            {
+              "question": "Y a-t-il une différence de prix entre Marseille, Nice et Draguignan ?",
+              "answer": "Les honoraires sont identiques dans les trois cabinets. La différence de coût global peut venir des frais de clinique selon l'établissement. Le devis précis est établi lors de la consultation préopératoire."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Prendre rendez-vous",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Consultations à Marseille, Nice et Draguignan. Devis personnalisé remis après consultation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Chirurgien Maxillo-Facial",
+      "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle avec simulation préopératoire et devis personnalisé.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "75528eafc8e2bd27",
+    "date": "2026-09-18"
+  }
+}

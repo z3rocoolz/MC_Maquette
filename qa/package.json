@@ -1,0 +1,13 @@
+{
+  "name": "coda-quality-checks",
+  "private": true,
+  "engines": {"node": ">=22"},
+  "scripts": {"browser": "playwright test", "lighthouse": "lhci autorun"},
+  "devDependencies": {
+    "@playwright/test": "1.64.0",
+    "@axe-core/playwright": "4.13.0",
+    "@lhci/cli": "0.15.1",
+    "linkedom": "0.18.12",
+    "vnu-jar": "23.4.11"
+  }
+}

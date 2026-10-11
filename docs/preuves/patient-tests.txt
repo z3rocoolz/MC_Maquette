@@ -1,0 +1,12 @@
+✔ La fiche de préparation reste utilisable sans JavaScript, puis annonce les cases cochées et imprime (28.38275ms)
+✔ Les nouvelles pages de lieu utilisent leur adresse de consultation canonique (6.06523ms)
+✔ Les liens pratiques conservent leur regroupement et les boutons leur présentation (10.881101ms)
+✔ Une adresse de lieu conserve sa sémantique après enregistrement administratif (2.566327ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 248.247212

@@ -1,0 +1,202 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Corrections de lisibilité
+
+   Le site d'origine décline ses textes clairs jusqu'à 14 % d'opacité :
+   sur fond noir, cela donne un rapport de contraste de 1,5 pour 1 là où
+   la norme WCAG AA en demande 4,5. Cette feuille remonte les valeurs au
+   strict nécessaire, sans toucher ni aux teintes ni à la mise en page.
+
+   Chaque règle indique le rapport mesuré avant et après.
+   Pour revenir au rendu d'origine : supprimer ce fichier et relancer
+   `npm run build`.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* ── Pied de page ──────────────────────────────────────────────────
+   La feuille de l'accueil, refaite en v8, a perdu la règle `.footer-name` :
+   le nom du praticien s'affichait en noir sur noir, invisible (1,02:1). */
+.footer-name,
+.footer .footer-name {
+  color: #fff; /* 1,02 → 18,9 */
+}
+
+/* Meme oubli que `.footer-name` sur la ligne suivante du pied de page. */
+.footer-sub,
+.footer .footer-sub {
+  color: rgba(255, 255, 255, 0.72); /* 1,02 → 10,1 */
+}
+
+.footer-bottom,
+.footer-bottom span {
+  color: rgba(255, 255, 255, 0.62); /* 1,50 → 7,6 */
+}
+
+.footer-col ul a {
+  color: rgba(255, 255, 255, 0.72); /* 2,18 → 10,1 */
+}
+
+.footer-desc {
+  color: rgba(255, 255, 255, 0.66); /* 1,75 → 8,6 */
+}
+
+/* ── En-tête et fil d'Ariane ───────────────────────────────────────
+   Le fil d'Ariane porte la navigation : il doit rester lisible. */
+.breadcrumb,
+.breadcrumb a {
+  color: rgba(255, 255, 255, 0.7); /* 2,55 → 9,5 */
+}
+
+.breadcrumb .cur {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+/* L'accroche est le premier texte lu : confort avant tout. */
+.hero-lead {
+  color: rgba(255, 255, 255, 0.78); /* 4,20 → 12,0 */
+}
+
+/* ── Bloc de prise de rendez-vous ──────────────────────────────────
+   Texte porteur d'information pratique (lieux, devis). */
+.cta p {
+  color: rgba(255, 255, 255, 0.72); /* 3,45 → 10,1 */
+}
+
+/* ── Menu mobile ───────────────────────────────────────────────────
+   Seule navigation disponible sous 900 px. */
+.mm-a {
+  color: rgba(255, 255, 255, 0.82); /* 5,95 → 13,3 */
+}
+
+.mm-sub {
+  color: rgba(255, 255, 255, 0.66); /* 2,95 → 8,6 */
+}
+
+/* ── L'or sur fond clair ───────────────────────────────────────────
+   L'or de la charte (#c9a96e) tombe à 1,9:1 sur les fonds crème : illisible
+   pour du texte. Il est assombri là où il sert à écrire, et laissé intact
+   partout où il est décoratif — filets, bordures, fonds de boutons — ainsi
+   que sur les fonds sombres, où il atteint déjà 8,9:1.
+
+   La règle est posée largement puis rétablie dans les zones sombres : c'est
+   plus sûr que d'énumérer les conteneurs clairs, qui diffèrent d'une page à
+   l'autre. */
+.eyebrow,
+.sec-eyebrow,
+.mesh-eyebrow,
+.mesh-v8-eyebrow,
+.info-box-title,
+.ibox-title,
+.sb-title,
+.diplomes-label,
+.refs-label,
+.sommaire-title,
+.cred-tag,
+.sec-cat,
+a.mesh-link {
+  color: #7d6944; /* 2,07 → 4,5 sur tous les fonds clairs */
+}
+
+/* Liens dorés posés dans le corps du texte.
+   Leur couleur vient d'un attribut `style="color:var(--gold)"` écrit dans la
+   page : une règle ordinaire ne peut pas l'emporter. Plutôt que de forcer le
+   passage avec `!important`, on redéfinit la variable sur ces liens — le style
+   inline se résout alors avec la teinte lisible. */
+a[style*="--gold"] {
+  --gold: #7d6944;
+}
+
+/* Zones sombres : l'or d'origine y est parfaitement lisible, on le rétablit. */
+.hero,
+.hero *,
+.cta,
+.cta *,
+footer,
+footer *,
+nav#nav,
+nav#nav *,
+#menu,
+#menu *,
+#mobile-menu,
+#mobile-menu *,
+.sec-noir,
+.sec-noir *,
+.tech-card,
+.tech-card *,
+.sb-card.dark,
+.sb-card.dark *,
+.etape-num,
+.ville-btn,
+th {
+  --gold: #c9a96e;
+}
+
+/* Ces éléments portent eux-mêmes un fond sombre : l'or clair y est lisible
+   (3,6:1 une fois assombri contre 8,9:1 d'origine — la correction les
+   dégradait au lieu de les aider). */
+.tech-label,
+.sb-card.dark .sb-title,
+.etape-num,
+.ville-badge,
+.ville-btn,
+th,
+a.sb-city-tel,
+.tech-card .tech-label {
+  color: #c9a96e;
+}
+
+.hero .eyebrow,
+.hero .hero-eyebrow,
+.cta .eyebrow,
+.cta .cta-eyebrow,
+.sec-noir .eyebrow,
+footer .eyebrow,
+footer .ville-badge,
+.hero .ville-badge {
+  color: #c9a96e;
+}
+
+/* ── Textes secondaires sur fond clair ───────────────────────────
+   `--muted` (#888) est la couleur des textes d'accompagnement : 3,5:1 sur
+   blanc, sous le seuil. Assombrie juste ce qu'il faut. */
+:root {
+  --muted: #6c6c6c; /* 3,54 → 4,5 */
+}
+
+/* Certains textes portent leur couleur en attribut `style` directement dans la
+   page. Aucune règle ne peut l'emporter : `!important` est ici le seul moyen,
+   et il reste cantonné aux opacités trop faibles, énumérées une à une. */
+[style*="color:rgba(255,255,255,.2)"],
+[style*="color:rgba(255,255,255,.25)"],
+[style*="color:rgba(255,255,255,.3)"],
+[style*="color:rgba(255,255,255,.35)"],
+[style*="color:rgba(255,255,255,.4)"],
+[style*="color:rgba(255,255,255,.45)"],
+[style*="color:rgba(255,255,255,.5)"],
+[style*="color: rgba(255, 255, 255, 0.4)"] {
+  color: rgba(255, 255, 255, 0.75) !important; /* 3,82 → 11,1 */
+}
+
+/* Accroche des sections à fond noir : le gris clair n'y a pas sa place. */
+.sec-noir .sec-lead,
+.sec-noir p {
+  color: rgba(255, 255, 255, 0.75); /* 3,82 → 11,1 */
+}
+
+/* Adresses des cabinets dans la barre latérale sombre. */
+.sb-city-addr {
+  color: rgba(255, 255, 255, 0.72); /* 2,59 → 10,3 */
+}
+
+.sec-lead,
+.footer-legal,
+.last-update,
+.sb-note,
+.mesh-desc {
+  color: #6c6c6c; /* 3,28 → 4,5 sur tous les fonds clairs */
+}
+
+/* Les surtitres font 9 px : sous cette taille, aucun contraste ne rend
+   un texte confortable. Un point de plus, sans toucher à la mise en page. */
+.sec .eyebrow,
+.sec-eyebrow {
+  font-size: 0.68rem;
+}

@@ -1,0 +1,46 @@
+{
+  "width": 1280,
+  "page": "Rhinoplastie & chirurgie plastique — Maison Aélis",
+  "documentWidth": 1265,
+  "noHorizontalOverflow": true,
+  "viewportClientWidth": 1265,
+  "headingCount": 1,
+  "images": [
+    {
+      "src": "/assets/portrait.webp",
+      "loaded": true,
+      "alt": "Portrait de profil d’une femme, en lumière naturelle. Photographie d’illustration."
+    },
+    {
+      "src": "/assets/consultation.webp",
+      "loaded": true,
+      "alt": "Scène d’illustration : une praticienne échange avec une patiente dans un espace de consultation."
+    },
+    {
+      "src": "/assets/cabinet.webp",
+      "loaded": true,
+      "alt": "Illustration d’un cabinet lumineux, avec comptoir en bois et fauteuils prune."
+    }
+  ],
+  "externalResources": [],
+  "fontSize": "32px",
+  "axeVersion": "4.13.0",
+  "passes": 42,
+  "violations": [],
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "nodes": [
+        [
+          ".round-link > span[aria-hidden=\"true\"]"
+        ],
+        [
+          ".photo-mark"
+        ],
+        [
+          ".back-top > span[aria-hidden=\"true\"]"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "slug": "blepharoplastie",
+  "url": "/blepharoplastie/",
+  "template": "standard",
+  "style": "style-7bb1637a0f0e.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "28ff808ae9d9",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "85a7e93c2810"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Blépharoplastie Marseille & Nice | Dr Mattia Coda",
+    "description": "Blépharoplastie supérieure et inférieure à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Technique transconjonctivale, résultat naturel.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/blepharoplastie/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Blépharoplastie Marseille Nice Draguignan",
+        "description": "Blépharoplastie supérieure et inférieure à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial.",
+        "url": "https://www.drmattiacoda.fr/blepharoplastie/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "La blépharoplastie est-elle remboursée ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La blépharoplastie esthétique n'est pas remboursée. La blépharoplastie supérieure fonctionnelle peut faire l'objet d'une prise en charge partielle si le ptosis de la paupière gêne le champ visuel, sous conditions de bilan ophtalmologique."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on associer blépharoplastie et lifting ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. La blépharoplastie est fréquemment associée au lifting cervico-facial dans le même temps opératoire pour un rajeunissement global harmonieux du visage."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Blépharoplastie",
+            "item": "https://www.drmattiacoda.fr/blepharoplastie/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie du Visage · Paupières",
+    "title": "Blépharoplastie",
+    "lead": "Correction chirurgicale des paupières supérieures et inférieures. Technique transconjonctivale pour les indications sans excès cutané. Consultations à Marseille, Nice et Draguignan — interventions à Marseille et Nice.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Lifting Cervico-Facial",
+        "href": "/lifting-cervico-facial/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Blépharoplastie",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la blépharoplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>blépharoplastie</strong> est une intervention chirurgicale de correction des paupières. Elle traite l'excès cutané, la hernie graisseuse et le relâchement musculaire qui donnent un aspect fatigué, lourd ou vieilli au regard. Elle peut concerner les paupières supérieures, les paupières inférieures, ou les deux dans le même temps opératoire.</p>\n      <p>C'est l'une des interventions de chirurgie esthétique du visage les plus réalisées en France en raison de son efficacité et de la discrétion de ses cicatrices. Elle peut être pratiquée sous <strong>anesthésie locale</strong> pour les cas simples, ou sous <strong>anesthésie générale</strong> lorsqu'elle est associée à d'autres interventions ou que le patient le souhaite.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Paupières supérieures et inférieures",
+      "title": "Blépharoplastie supérieure et inférieure",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n        </p><p>\n          Paupière supérieure\n          </p><p>La blépharoplastie supérieure corrige l'excès cutané de la paupière supérieure — peau tombante qui alourdit le regard et peut, dans les cas importants, gêner le champ visuel. L'incision est placée dans le pli naturel de la paupière et devient invisible une fois cicatrisée. L'excès de peau et, si nécessaire, la hernie graisseuse sont réséqués. Réalisable sous anesthésie locale en ambulatoire.</p>\n        <p></p>\n        <p>\n          Paupière inférieure\n          </p><p>La blépharoplastie inférieure traite les poches sous les yeux (hernies graisseuses) et l'excès cutané de la paupière inférieure. Selon l'indication — présence ou non d'un excès cutané important — deux voies d'abord sont possibles : la voie cutanée classique ou la voie transconjonctivale.</p>\n        <p></p>\n      <p></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "transconjonctivale",
+      "variant": null,
+      "eyebrow": "Technique sans cicatrice externe",
+      "title": "Blépharoplastie transconjonctivale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Pour les patients présentant des hernies graisseuses inférieures sans excès cutané important, la <strong>blépharoplastie transconjonctivale</strong> est une alternative chirurgicale particulièrement élégante. L'incision est réalisée à l'intérieur de la paupière, sur la conjonctive — aucune cicatrice n'est visible sur la peau.</p>\n      <p>\n        <span class=\"ibox-title\">Avantages de la voie transconjonctivale</span>\n        </p><ul>\n          <li><strong>Aucune cicatrice externe</strong> — l'incision est interne, invisible</li>\n          <li>Accès direct aux hernies graisseuses pour une résection ou redistribution précise</li>\n          <li>Suites opératoires généralement plus légères qu'avec la voie cutanée</li>\n          <li>Préserve le tonus de la paupière inférieure</li>\n        </ul>\n      <p></p>\n      <p>\n        <strong>Indication :</strong> La blépharoplastie transconjonctivale est indiquée lorsque les hernies graisseuses sont le problème principal, sans excès cutané significatif associé. L'évaluation de l'indication est réalisée lors de la consultation morphologique — examen du tonus palpébral, de la quantité d'excès cutané, de la position du globe oculaire.\n      </p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "association",
+      "variant": null,
+      "eyebrow": "Interventions combinées",
+      "title": "Association avec le lifting cervico-facial",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La blépharoplastie est fréquemment associée au <a href=\"/lifting-cervico-facial/\" style=\"color:var(--gold);\">lifting cervico-facial</a> dans le même temps opératoire. Cette association permet d'obtenir un rajeunissement global et harmonieux du visage — le lifting traite le bas du visage et le cou, la blépharoplastie rajeunit le regard. Un seul temps anesthésique, une seule convalescence.</p>\n      <p>D'autres associations sont possibles selon les besoins individuels — lipofilling des cernes, correction du ptosis des sourcils. Ces combinaisons sont évaluées lors de la consultation morphologique.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "Suites opératoires",
+      "title": "Convalescence après blépharoplastie",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "chrono",
+              "items": [
+                {
+                  "badge": "J+1 à J+3",
+                  "html": "Œdème et ecchymoses péri-oculaires au maximum. Compresses froides. Légère gêne visuelle possible les premières heures. Repos recommandé, tête surélevée."
+                },
+                {
+                  "badge": "J+5 à J+7",
+                  "html": "Ablation des fils pour la voie cutanée. Nette diminution de l'œdème. Les ecchymoses passent du violacé au jaunâtre et s'estompent progressivement."
+                },
+                {
+                  "badge": "J+10 à J+12",
+                  "html": "Reprise possible des activités sociales et professionnelles. La majorité des patients est présentable à 10-12 jours. Maquillage autorisé après ablation des fils."
+                },
+                {
+                  "badge": "1 mois",
+                  "html": "Résultat déjà très visible. Les cicatrices s'estompent progressivement sur 6 à 12 mois. Protection solaire SPF50+ recommandée."
+                },
+                {
+                  "badge": "6 à 12 mois",
+                  "html": "Résultat définitif. Les cicatrices sont matures et pratiquement invisibles dans le pli naturel de la paupière."
+                }
+              ],
+              "className": "chrono"
+            },
+            {
+              "type": "note",
+              "variant": "avertissement",
+              "title": "",
+              "html": "<strong>Port de lentilles :</strong> Les lentilles de contact doivent être évitées pendant 2 à 3 semaines après l'intervention. Les lunettes peuvent être portées normalement.",
+              "className": "note-warn"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consultation à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La consultation préopératoire comprend un examen morphologique complet des paupières, l'évaluation du tonus palpébral et de la quantité d'excès cutané, et la détermination de la technique la plus adaptée. Un devis détaillé est remis lors de la consultation. Le délai légal de réflexion de <strong>15 jours minimum</strong> est respecté avant toute intervention esthétique.</p>\n<p>Les interventions se déroulent à l'<strong>Hôpital Privé Beauregard de Marseille</strong> et à la <strong>Clinique Saint-François de Nice</strong>. Le patient choisit l'établissement le plus pratique selon son lieu de résidence.</p>\n<p>Les consultations sont disponibles en <strong>français, italien et anglais</strong>.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012<br><span>Consultations + Interventions</span>",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000<br><span>Consultations — Interventions à la Clinique Saint-François</span>",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300<br><span>Consultations</span>",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Blépharoplastie",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La blépharoplastie est-elle remboursée par la Sécurité Sociale ?",
+              "answer": "La blépharoplastie esthétique n'est pas remboursée. La blépharoplastie supérieure fonctionnelle peut faire l'objet d'une prise en charge partielle si le ptosis de la paupière supérieure gêne significativement le champ visuel — sous conditions d'un bilan ophtalmologique documenté. Cette possibilité est évaluée lors de la consultation."
+            },
+            {
+              "question": "Quelle est la différence entre blépharoplastie transconjonctivale et voie cutanée ?",
+              "answer": "La voie cutanée classique permet de traiter à la fois les hernies graisseuses et l'excès de peau, avec une incision sous la paupière inférieure. La voie transconjonctivale est réalisée à l'intérieur de la paupière, sans cicatrice externe — elle est indiquée lorsque les hernies graisseuses sont le problème principal, sans excès cutané important associé."
+            },
+            {
+              "question": "Peut-on associer blépharoplastie et lifting cervico-facial ?",
+              "answer": "Oui, c'est même une association fréquente et logique. Le lifting traite le bas du visage et le cou, la blépharoplastie rajeunit le regard. Réalisées dans le même temps opératoire, ces deux interventions permettent un rajeunissement global harmonieux avec un seul temps anesthésique et une seule convalescence."
+            },
+            {
+              "question": "Combien de temps dure la convalescence après une blépharoplastie ?",
+              "answer": "La reprise des activités sociales est possible à 10-12 jours pour la majorité des patients. L'œdème et les ecchymoses péri-oculaires s'estompent progressivement en 2 à 3 semaines. Le résultat définitif est visible à 6-12 mois, une fois les cicatrices pleinement maturées."
+            },
+            {
+              "question": "La blépharoplastie laisse-t-elle des cicatrices visibles ?",
+              "answer": "Pour la paupière supérieure, la cicatrice est placée dans le pli naturel — elle est pratiquement invisible une fois cicatrisée. Pour la voie transconjonctivale inférieure, aucune cicatrice externe. Pour la voie cutanée inférieure, la cicatrice est placée sous les cils et s'estompe en 6 à 12 mois."
+            },
+            {
+              "question": "Peut-on opérer les deux paupières en même temps ?",
+              "answer": "Oui. La blépharoplastie supérieure et inférieure sont fréquemment réalisées dans le même temps opératoire — une seule anesthésie, une seule convalescence. La durée opératoire est alors légèrement plus longue mais reste courte."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial",
+      "title": "Consultation blépharoplastie<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Examen morphologique complet, choix de la technique et devis personnalisé lors de la consultation préopératoire.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "6632e61bab2468b5",
+    "date": "2026-09-18"
+  }
+}

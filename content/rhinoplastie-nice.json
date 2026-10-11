@@ -1,0 +1,84 @@
+{
+  "slug": "rhinoplastie-nice",
+  "url": "/rhinoplastie-nice/",
+  "template": "standard",
+  "style": "style-52f7e740ebbe.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "95e1c0db48b5",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "0d1ed28e7d20"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Consulter à Nice | Dr Mattia Coda",
+    "description": "Retrouver le lieu et préparer votre consultation avec le Dr Mattia Coda à Nice.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Consulter à Nice",
+    "lead": "Retrouver le lieu et préparer votre consultation avec le Dr Mattia Coda à Nice.",
+    "eyebrow": "Informations pratiques"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "rhinoplasties-nice",
+      "title": "Le lieu de consultation",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<address>4 avenue Georges Clemenceau, 06000 Nice</address><p>Pour préparer votre déplacement, vérifiez les conditions d’accès à cette adresse lors de la réservation.</p>"
+        }
+      ]
+    },
+    {
+      "id": "rendez-vous",
+      "title": "Vérifier les disponibilités",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a class=\"button\" href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Choisir mon rendez-vous sur Doctolib ↗</a></p><p>Adresses relevées sur la fiche professionnelle le 10 octobre 2026. Votre confirmation de rendez-vous prévaut ; un lieu de consultation ne désigne pas nécessairement un lieu opératoire.</p>"
+        }
+      ]
+    },
+    {
+      "id": "preparer",
+      "title": "Préparer votre venue",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"preparer-consultation.html\">Réunir les documents et imprimer ma fiche de questions</a>. Signalez vos éventuels besoins d’accessibilité avant le déplacement.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "243dfd28a41ff6f3",
+    "date": "2026-09-18"
+  },
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  },
+  "output": "consultation-nice.html"
+}

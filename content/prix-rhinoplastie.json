@@ -1,0 +1,104 @@
+{
+  "slug": "prix-rhinoplastie",
+  "url": "/prix-rhinoplastie/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83da58058bda"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Comprendre les honoraires | Mattia Coda",
+    "description": "Informations sur le devis, les honoraires et les questions à poser avant une rhinoplastie avec Mattia Coda.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "Comprendre les honoraires",
+    "lead": "Un devis personnalisé permet de comprendre les frais associés au projet d’intervention.",
+    "eyebrow": "Informations pratiques",
+    "buttons": [],
+    "blocks": [],
+    "breadcrumb": []
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "title": "Un devis adapté à votre situation",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Le montant d’une intervention dépend du projet défini après l’examen : gestes envisagés, complexité, modalités d’anesthésie et établissement de soins.</p><p>Un tarif présenté sans consultation ne permet pas de décrire précisément votre prise en charge.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Les points à clarifier",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<ul><li>Les honoraires du chirurgien et de l’anesthésiste.</li><li>Les frais liés à l’établissement de soins.</li><li>Les consultations et le suivi inclus dans le devis.</li><li>Les conditions d’une éventuelle prise en charge.</li></ul>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Esthétique et fonction",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Une demande esthétique et une indication fonctionnelle peuvent relever de modalités de prise en charge différentes. La situation doit être étudiée par le chirurgien et, le cas échéant, confirmée auprès des organismes concernés.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "id": "reflexion",
+      "title": "Le temps de réflexion",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Pour une intervention de chirurgie esthétique relevant de ce cadre, un délai minimal de quinze jours s’applique après la remise du devis détaillé, daté et signé. Il ne se calcule pas simplement depuis la première consultation.</p><p><a href=\"https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006919322\">Article D6322-30 du Code de la santé publique</a>.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Préparer vos questions",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Vous pouvez noter vos questions avant la consultation et demander une explication des différents postes du devis. Ce temps d’échange participe à une décision éclairée.</p><p><a href=\"consultation.html\">Préparer ma consultation</a></p>",
+          "enveloppe": false
+        }
+      ]
+    }
+  ]
+}

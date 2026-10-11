@@ -1,0 +1,123 @@
+{
+  "slug": "blepharoplastie",
+  "url": "/blepharoplastie/",
+  "template": "standard",
+  "style": "style-7bb1637a0f0e.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "28ff808ae9d9",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "85a7e93c2810"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Blépharoplastie : la chirurgie des paupières. | Dr Mattia Coda",
+    "description": "Comprendre ce qu’une intervention des paupières peut modifier, ses limites et les points à discuter avant de décider.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Blépharoplastie : la chirurgie des paupières.",
+    "lead": "Comprendre ce qu’une intervention des paupières peut modifier, ses limites et les points à discuter avant de décider.",
+    "eyebrow": "Repères sur l’intervention"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "retenir",
+      "title": "L’essentiel, en quelques repères",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>L’examen distingue peau, poches, position des paupières et gêne visuelle éventuelle.</li><li>Tous les cernes et toutes les rides ne relèvent pas d’une blépharoplastie.</li><li>Les antécédents oculaires doivent être signalés.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Pourquoi consulter ? Quelles alternatives ?",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Un excès de peau ou certaines poches peuvent motiver la demande. La consultation cherche à comprendre votre gêne et à vérifier l’adéquation du geste. Une autre prise en charge, un bilan complémentaire ou l’absence d’intervention peuvent être discutés.</p>"
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "title": "Comment le projet se précise",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le projet peut concerner les paupières supérieures, inférieures ou les deux. Le chirurgien explique l’emplacement des incisions, les cicatrices possibles, l’anesthésie et les limites du geste.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Les risques et les limites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les risques comprennent notamment un hématome, une infection, une difficulté de fermeture ou une modification de position de la paupière. Des complications oculaires graves, bien que rares, doivent aussi être expliquées. Signalez toute sécheresse oculaire et tout antécédent ophtalmologique.</p>"
+        }
+      ]
+    },
+    {
+      "id": "suites",
+      "title": "La récupération et le suivi",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Un gonflement et des ecchymoses sont possibles. Les soins des yeux et des cicatrices, la reprise de vos activités et les contrôles sont définis avec l’équipe. Les suites varient selon le geste et la personne.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quelle part de ma gêne vient réellement des paupières ?</li><li>Où seront les cicatrices et quelles sont les limites attendues ?</li><li>Faut-il un bilan ophtalmologique dans mon cas ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.sfscmfco.com/fiches-information/chirurgie-des-paupieres-blepharoplastie/\">SFSCMFCO · Chirurgie des paupières</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "6632e61bab2468b5",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

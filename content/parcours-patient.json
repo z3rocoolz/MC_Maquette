@@ -1,0 +1,83 @@
+{
+  "slug": "parcours-patient",
+  "url": "/parcours-patient/",
+  "template": "standard",
+  "hero": {
+    "title": "Avancer à votre rythme.",
+    "lead": "Cinq étapes pour vous informer, échanger et prendre une décision qui tient compte de votre situation.",
+    "eyebrow": "Votre parcours"
+  },
+  "seo": {
+    "title": "Avancer à votre rythme. | Dr Mattia Coda",
+    "description": "Cinq étapes pour vous informer, échanger et prendre une décision qui tient compte de votre situation.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "01 · Comprendre votre demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Qu’est-ce qui vous gêne ? Qu’aimeriez-vous changer ou préserver ? Vous pouvez partir d’un motif de consultation ou lire une fiche d’intervention.</p><p><a class=\"text-link\" href=\"motifs-consultation.html\">Explorer les motifs →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "reflechir",
+      "title": "02 · Prendre le temps de réfléchir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Discuter les bénéfices attendus, les risques et les alternatives. Reporter une décision ou ne pas intervenir peut faire partie des options.</p><p><a class=\"text-link\" href=\"rhinoplastie.html#indications\">Comprendre les possibilités et les limites →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "rencontrer",
+      "title": "03 · Rencontrer le chirurgien",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Vérifier votre interlocuteur, expliquer vos attentes et poser les questions qui comptent pour vous. Une première consultation n’engage pas à une opération.</p><p><a class=\"text-link\" href=\"dr-mattia-coda.html\">Découvrir le Dr Coda →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "preparer",
+      "title": "04 · Préparer la consultation",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Réunir vos documents, noter vos questions et vérifier le lieu du rendez-vous. Demandez les explications nécessaires avant de prendre une décision.</p><p><a class=\"text-link\" href=\"preparer-consultation.html\">Ouvrir ma fiche de préparation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "suivi",
+      "title": "05 · Anticiper le suivi",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Si une intervention est retenue, faire préciser les consignes écrites, les rendez-vous de contrôle et le contact à joindre en cas de difficulté.</p><p><a class=\"text-link\" href=\"apres-intervention.html\">Préparer le retour à domicile →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble\">HAS · Patient et professionnels de santé : décider ensemble</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-24",
+  "page": "index.html",
+  "method": "Interaction manuelle dans le navigateur de prévisualisation Chrome",
+  "dialog": {
+    "opens": true,
+    "initialFocus": "close-dialog",
+    "shiftTabFromCloseReachesLastControl": true,
+    "tabFromLastControlReachesClose": true,
+    "escapeCloses": true,
+    "focusReturnsToOpener": true
+  },
+  "mobileMenu": {
+    "opens": true,
+    "ariaExpandedWhenOpen": "true",
+    "escapeCloses": true,
+    "ariaExpandedAfterEscape": "false",
+    "navigationHiddenAfterEscape": true
+  }
+}

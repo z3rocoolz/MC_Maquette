@@ -1,0 +1,484 @@
+{
+  "slug": "rhinoplastie-homme",
+  "url": "/rhinoplastie-homme/",
+  "template": "standard",
+  "style": "style-5b0c4b190412.css",
+  "scripts": [
+    "script-e5101a43df57.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "930511dd0836",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "2ec9e3f3aa4d"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Homme | Dr Mattia Coda, Marseille & Nice",
+    "description": "Rhinoplastie homme à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Techniques adaptées aux spécificités anatomiques masculines.",
+    "keywords": "rhinoplastie homme, rhinoplastie homme Marseille, rhinoplastie masculine, chirurgie nez homme, rhinoplastie homme Nice, rhinoplastie homme résultat naturel",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-homme/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie Homme – Dr Mattia Coda, Chirurgien Maxillo-Facial",
+        "description": "Rhinoplastie homme à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Techniques ultrasonique et de préservation adaptées aux spécificités anatomiques masculines. Résultat naturel.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-homme/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie Homme",
+          "bodyLocation": "Visage"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie masculine donne-t-elle un résultat naturel ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, à condition que les objectifs chirurgicaux soient adaptés à la morphologie masculine. Le Dr Coda évite systématiquement les erreurs fréquentes — dorsum trop creusé, pointe trop relevée — qui donnent un résultat non naturel. L'objectif est un nez corrigé mais cohérent avec les traits masculins du patient."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelles sont les différences entre une rhinoplastie homme et femme ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les principes chirurgicaux sont identiques, mais les objectifs esthétiques diffèrent. Chez l'homme, on préserve un dorsum droit ou légèrement convexe, on évite de relever excessivement la pointe, et on travaille des structures généralement plus épaisses. La peau masculine est souvent plus épaisse et plus sébacée, ce qui peut limiter la définition de la pointe."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on corriger les séquelles d'une fracture nasale par rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Les séquelles de fractures nasales — déviation de l'axe, bosse post-traumatique, obstruction respiratoire — sont des indications fréquentes de rhinoplastie masculine. Selon la composante fonctionnelle associée, une prise en charge partielle par l'Assurance maladie est possible."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien de temps faut-il avant de reprendre le sport après une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les activités physiques légères (marche, vélo) peuvent reprendre à J+15. Les sports de contact (rugby, boxe, arts martiaux) sont contre-indiqués pendant 3 mois minimum, le temps que les structures osseuses et cartilagineuses soient complètement stabilisées."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une rhinoplastie homme à Marseille ou Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le Dr Mattia Coda reçoit en consultation à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12) et à Nice (Cabinet Médical, 4 Av. Georges Clemenceau, 06 42 76 26 12). Prise de rendez-vous sur Doctolib. Les interventions sont réalisées à Marseille et à Nice (Clinique Saint-François)."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Homme",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-homme/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie du nez · Spécificités masculines",
+    "title": "Rhinoplastie Homme",
+    "lead": "La rhinoplastie masculine répond à des objectifs esthétiques et à des contraintes anatomiques spécifiques. Le Dr Mattia Coda adapte chaque intervention aux proportions masculines pour un résultat naturel et cohérent avec les traits du patient.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Homme",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "specificites",
+      "variant": null,
+      "eyebrow": "Particularités",
+      "title": "La rhinoplastie chez l'homme — ce qui change",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie masculine suit les mêmes principes chirurgicaux que la rhinoplastie féminine, mais répond à des objectifs esthétiques et à des contraintes anatomiques sensiblement différents. Le nez masculin est généralement plus large, plus épais et plus projeté. La peau y est souvent plus épaisse et plus sébacée, ce qui influe directement sur les possibilités de remodelage et sur la définition du résultat final.</p>\n      <p>L'objectif n'est pas de féminiser le nez, mais de le <strong>corriger tout en préservant des traits cohérents avec la morphologie masculine</strong>. Un résultat naturel chez l'homme se distingue rarement d'un nez non opéré — c'est précisément ce que recherchent la majorité des patients masculins consultant le Dr Coda à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "differences-anatomiques",
+      "variant": null,
+      "eyebrow": "Anatomie",
+      "title": "Différences anatomiques homme / femme",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"deux-col\">\n        <div class=\"col-card\">\n          <h4>Nez masculin</h4>\n          <p>Pyramide nasale plus large et plus projetée. Dorsum droit ou légèrement convexe. Pointe moins définie, cartilages alaires plus épais. Peau souvent épaisse à sébacée, limitant la définition de la pointe. Angle nasofrontal plus ouvert.</p>\n        </div>\n        <div class=\"col-card\">\n          <h4>Objectifs masculins</h4>\n          <p>Réduction modérée d'une bosse en conservant un dorsum droit, sans creuser. Affinement subtil de la pointe sans la pincer. Correction d'une déviation ou d'une asymétrie. Pas de remontée excessive de la pointe — éviter le nez \"retroussé\" incompatible avec les traits masculins.</p>\n        </div>\n      </div>\n      <div class=\"note-warn\">\n        <strong>Point clé :</strong> Chez l'homme, un angle nasolabial trop ouvert (pointe trop relevée) ou un dorsum trop creusé sont deux erreurs fréquentes qui donnent un résultat peu naturel et visuellement féminin. Le Dr Coda adapte systématiquement les objectifs chirurgicaux à la morphologie masculine de chaque patient.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Pourquoi consulter pour une rhinoplastie homme ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"ibox\">\n        <span class=\"ibox-title\">Motifs les plus fréquents chez l'homme</span>\n        <ul class=\"liste\">\n          <li><strong>Bosse dorsale</strong> — gibbosité naso-dorsale osseuse et/ou cartilagineuse, souvent d'origine traumatique (choc sportif, accident)</li>\n          <li><strong>Déviation post-traumatique</strong> — axe nasal dévié suite à une fracture des os propres du nez non traitée ou mal consolidée</li>\n          <li><strong>Pointe trop large ou mal définie</strong> — pointe bulbeuse peu esthétique, souvent liée à des cartilages alaires volumineux</li>\n          <li><strong>Nez trop long</strong> — excès vertical de la pyramide nasale, parfois aggravé par une ptose de la pointe lors du sourire</li>\n          <li><strong>Obstruction nasale chronique</strong> — déviation de cloison, cornets hypertrophiés, collapsus valvulaire — indication de <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">rhinoplastie fonctionnelle</a> ou de <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">septorhinoplastie</a></li>\n          <li><strong>Séquelles de fractures nasales</strong> — déformations osseuses et cartilagineuses résultant de traumatismes sportifs ou accidentels</li>\n        </ul>\n      </div>\n      <div class=\"note-med\">\n        <strong>Rhinoplastie masculine et sport :</strong> Les hommes pratiquant des sports de contact (rugby, boxe, arts martiaux, football) consultent fréquemment pour des séquelles de fractures nasales. Ces cas constituent souvent des indications mixtes — esthétique et fonctionnelle — pouvant bénéficier d'une prise en charge partielle par l'Assurance maladie.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Techniques",
+      "title": "Techniques adaptées à la rhinoplastie masculine",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<h3>Rhinoplastie ultrasonique</h3>\n      <p>Particulièrement adaptée chez l'homme car elle permet de sculpter les os nasaux avec une précision millimétrique, réduisant significativement les ecchymoses post-opératoires — un avantage concret pour les patients souhaitant une reprise rapide de leur activité professionnelle. <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">En savoir plus →</a></p>\n      <h3>Rhinoplastie de préservation (Push-Down)</h3>\n      <p>Technique de choix pour les corrections de bosse modérée chez l'homme, car elle abaisse le dorsum sans creuser excessivement le profil. Elle préserve le caractère naturel du nez en maintenant les structures ostéocartilagineuses en place. <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">En savoir plus →</a></p>\n      <h3>Rhinoplastie structurelle</h3>\n      <p>Indiquée pour les cas plus complexes — déformations importantes, rhinoplasties secondaires, nez à peau très épaisse nécessitant un soutien cartilagineux de la pointe.</p>\n      <h3>Voie d'abord</h3>\n      <p>La voie ouverte (incision columellaire) est souvent préférée chez l'homme pour les cas complexes car elle offre une exposition maximale des structures nasales. La cicatrice columellaire, fine et discrète, est pratiquement imperceptible à 12 mois.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Parcours patient",
+      "title": "Déroulement de la consultation",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La consultation de rhinoplastie masculine comprend un entretien approfondi sur les motivations et les attentes, un examen morphologique complet du visage et du nez, et une simulation numérique permettant de visualiser les modifications envisageables en préservant les proportions masculines.</p>\n      <p>Le Dr Coda attache une attention particulière à l'analyse des proportions du visage dans son ensemble — rapport entre le nez, le menton et le front — pour proposer un résultat cohérent et naturel. Pour les cas nécessitant une correction simultanée du menton, une <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a> (rhinoplastie + génioplastie) peut être proposée.</p>\n      <div class=\"note-warn\">\n        <strong>Délai légal :</strong> Un délai de réflexion de 15 jours est obligatoire entre la première consultation et l'intervention pour toute chirurgie esthétique, conformément à la réglementation française.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Rhinoplastie Homme",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La rhinoplastie masculine donne-t-elle un résultat naturel ?",
+              "answer": "Oui, à condition que les objectifs chirurgicaux soient adaptés à la morphologie masculine. Le Dr Coda évite systématiquement les erreurs fréquentes — dorsum trop creusé, pointe trop relevée — qui donnent un résultat non naturel. L'objectif est un nez corrigé mais cohérent avec les traits masculins du patient."
+            },
+            {
+              "question": "Quelles sont les différences entre une rhinoplastie homme et femme ?",
+              "answer": "Les principes chirurgicaux sont identiques, mais les objectifs esthétiques diffèrent. Chez l'homme, on préserve un dorsum droit ou légèrement convexe, on évite de relever excessivement la pointe, et on travaille des structures généralement plus épaisses. La peau masculine est souvent plus épaisse et plus sébacée, ce qui peut limiter la définition de la pointe."
+            },
+            {
+              "question": "Peut-on corriger les séquelles d'une fracture nasale par rhinoplastie ?",
+              "answer": "Oui. Les séquelles de fractures nasales — déviation de l'axe, bosse post-traumatique, obstruction respiratoire — sont des indications fréquentes de rhinoplastie masculine. Selon la composante fonctionnelle associée, une prise en charge partielle par l'Assurance maladie est possible."
+            },
+            {
+              "question": "Combien de temps faut-il avant de reprendre le sport après une rhinoplastie ?",
+              "answer": "Les activités physiques légères (marche, vélo) peuvent reprendre à J+15. Les sports de contact (rugby, boxe, arts martiaux) sont contre-indiqués pendant 3 mois minimum, le temps que les structures osseuses et cartilagineuses soient complètement stabilisées."
+            },
+            {
+              "question": "Où consulter pour une rhinoplastie homme à Marseille ou Nice ?",
+              "answer": "Le Dr Mattia Coda reçoit en consultation à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12) et à Nice (Cabinet Médical, 4 Av. Georges Clemenceau, 06 42 76 26 12). Prise de rendez-vous sur Doctolib. Les interventions sont réalisées à Marseille et à Nice (Clinique Saint-François)."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda, chirurgien maxillo-facial, reçoit en consultation à Marseille, Nice et Draguignan. Un devis personnalisé est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Interventions associées",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Guide Rhinoplastie Complet",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">👃</div>\n        <div>\n          \n          <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie.</p>\n          <a href=\"/rhinoplastie/\">Voir le guide →</a>\n        </div>",
+              "link": "/rhinoplastie/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie Ultrasonique",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">⚡</div>\n        <div>\n          \n          <p>Technique piézoélectrique — précision maximale, suites allégées.</p>\n          <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-ultrasonique/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie de Préservation",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">🔄</div>\n        <div>\n          \n          <p>Push-Down, Let-Down — résultat naturel sans résection.</p>\n          <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-preservation/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Profiloplastie",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">✨</div>\n        <div>\n          \n          <p>Rhinoplastie et génioplastie — harmonie complète du profil.</p>\n          <a href=\"/profiloplastie/\">En savoir plus →</a>\n        </div>",
+              "link": "/profiloplastie/"
+            }
+          ],
+          "className": "pages-liees"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Homme",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "75d81150645daf9d",
+    "date": "2026-09-18"
+  }
+}

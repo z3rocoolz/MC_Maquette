@@ -1,0 +1,71 @@
+{
+  "slug": "informations",
+  "template": "standard",
+  "style": null,
+  "scripts": [],
+  "chrome": {},
+  "images": [],
+  "layout": [],
+  "url": "/informations/",
+  "seo": {
+    "title": "À propos de ce site. | Dr Mattia Coda",
+    "description": "Un site personnel pour le Dr Mattia Coda, conçu à partir du projet fourni, des maquettes et de la synthèse générale.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "À propos de ce site.",
+    "lead": "Un site personnel pour le Dr Mattia Coda, conçu à partir du projet fourni, des maquettes et de la synthèse générale.",
+    "eyebrow": "Information et transparence"
+  },
+  "sections": [
+    {
+      "id": "projet",
+      "title": "Une architecture tournée vers vos questions",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La rhinoplastie constitue l’entrée principale. Les autres compétences, les motifs de consultation et les étapes du parcours disposent d’accès dédiés. Une fiche imprimable aide à préparer les échanges.</p>"
+        },
+        {
+          "type": "html",
+          "html": "<p><a href=\"article-du-mois.html\">Quelques lectures pour préparer vos échanges avec le chirurgien</a>.</p>"
+        },
+        {
+          "type": "html",
+          "html": "<p>Les pages d’intervention proposent deux niveaux de lecture : des repères accessibles, puis les textes techniques d’origine du Dr Mattia Coda dans des rubriques dépliables. Les développements techniques conservent leur rédaction ; les titres et les liens sont adaptés à la navigation du site.</p>"
+        }
+      ]
+    },
+    {
+      "id": "version",
+      "title": "Une version de travail privée",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les contenus médicaux, les coordonnées et les informations légales doivent être validés avant l’ouverture publique. L’indexation dans les moteurs de recherche est désactivée pendant cette phase.</p><p><a href=\"sources-et-engagements.html\">Retrouver les références et le statut éditorial</a>.</p>"
+        }
+      ]
+    },
+    {
+      "id": "images",
+      "title": "Images et identité visuelle",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le logo et la palette crème, sauge, graphite et champagne ont été fournis pour cette version. Le portrait du Dr Coda provient du dossier d’origine. La nouvelle photographie de profil est une illustration générée : elle ne représente ni une patiente du chirurgien, ni un résultat opératoire.</p>"
+        }
+      ]
+    },
+    {
+      "id": "archives",
+      "title": "Les propositions antérieures",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"horizon.html\">Ambiance Horizon, vert et ivoire</a></li><li><a href=\"maquettes-precedentes/index.html\">Maquette 02</a></li><li><a href=\"maquettes-precedentes/version-01.html\">Maquette 01</a></li></ul>"
+        }
+      ]
+    }
+  ],
+  "medical": false
+}

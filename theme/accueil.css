@@ -1,0 +1,42 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Page d'accueil — étiquettes de spécialités du bandeau d'ouverture
+
+   Les cinq étiquettes (Rhinoplastie, Lifting, Blépharoplastie, Médecine
+   Esthétique, Dents de Sagesse) mesuraient 577 px, plus 4 espaces de
+   10 px, soit 617 px — pour 588 px utiles dans `.hero-content`
+   (780 px de large moins 96 px de marge de chaque côté). Il manquait
+   29 px, et « Dents de Sagesse » passait seule à la ligne suivante.
+
+   Plutôt que d'élargir le bandeau — ce qui aurait décalé le titre,
+   l'accroche et le bouton —, on resserre les seules étiquettes :
+   8 px gagnés sur chacune et 2 px sur chaque espace, soit 48 px. La
+   marge restante (une douzaine de pixels) évite que la ligne ne se
+   rompe si la police met un instant à se charger et qu'un caractère de
+   substitution, plus large, s'affiche entre-temps.
+
+   Le conteneur n'a pas de classe : il est désigné par sa position.
+   ═══════════════════════════════════════════════════════════════════ */
+
+.hero .hero-content > div:not([class]) {
+  gap: 8px; /* au lieu de 10 px */
+}
+
+.hero .hero-content > div:not([class]) > a {
+  /* Le retrait est écrit en attribut `style` sur chaque étiquette :
+     `!important` est le seul moyen de l'emporter. */
+  padding-left: 8px !important; /* au lieu de 12 px */
+  padding-right: 8px !important;
+}
+
+/* Sous 820 px, le bandeau se resserre déjà : les étiquettes reprennent
+   leur respiration et se répartissent sur plusieurs lignes. */
+@media (max-width: 820px) {
+  .hero .hero-content > div:not([class]) {
+    gap: 10px;
+  }
+
+  .hero .hero-content > div:not([class]) > a {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}

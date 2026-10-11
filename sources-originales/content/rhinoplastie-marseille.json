@@ -1,0 +1,551 @@
+{
+  "slug": "rhinoplastie-marseille",
+  "url": "/rhinoplastie-marseille/",
+  "template": "standard",
+  "style": "style-52f7e740ebbe.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "aff0ae7d8191",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "3b75518a6ddf"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Marseille | Dr Mattia Coda",
+    "description": "Consultation de rhinoplastie à Marseille avec le Dr Mattia Coda, chirurgien maxillo-facial. Cabinet à l'Hôpital Privé Beauregard, 23 rue des Linots.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-marseille/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "https://www.drmattiacoda.fr/images/cabinet-rhinoplastie-marseille.jpg",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "name": "Dr Mattia Coda",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "RPPS",
+          "value": "10100805174"
+        },
+        "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+        "description": "Consultation de rhinoplastie à Marseille.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "23 rue des Linots",
+          "addressLocality": "Marseille",
+          "postalCode": "13012",
+          "addressCountry": "FR"
+        },
+        "telephone": "04 91 12 11 12",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-marseille/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Où se trouve le cabinet de rhinoplastie à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "À l'Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille. Consultations et interventions assurées par le Dr Mattia Coda, chirurgien maxillo-facial (RPPS 10100805174)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Les opérations de rhinoplastie sont-elles réalisées à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Les interventions chirurgicales sont réalisées à l'Hôpital Privé Beauregard de Marseille et à la Clinique Saint-François de Nice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quel est le prix d'une rhinoplastie à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Entre 4 000 € et 9 000 € selon la technique et la complexité. Rhinoplastie primaire esthétique : 4 000-7 000 €. Rhinoplastie ultrasonique : 5 000-9 000 €. Rhinoplastie secondaire : 6 000-11 000 €. Devis personnalisé remis après consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien de temps dure l'arrêt de travail après une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Pour un travail sédentaire, la reprise est possible entre 7 et 10 jours avec la rhinoplastie ultrasonique. Pour les activités physiques ou en contact avec le public, 2 à 3 semaines sont recommandées."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quand voit-on le résultat définitif d'une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le résultat évolue sur 12 à 18 mois. Environ 60 % à 1 mois, 80 % à 3 mois, 90 % à 6 mois. Le résultat définitif est évalué à 12 mois."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie est-elle douloureuse ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "L'intervention est réalisée sous anesthésie générale. Les suites sont peu douloureuses — une sensation de pression nasale les premiers jours, traitée par des antalgiques simples. La rhinoplastie ultrasonique réduit significativement les douleurs post-opératoires."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on respirer après l'opération ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Les attelles internes siliconées permettent une respiration nasale dès le réveil. Une obstruction partielle liée à l'œdème est normale et se résorbe progressivement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie est-elle remboursée par la Sécurité Sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La partie esthétique n'est pas remboursée. La composante fonctionnelle (déviation de cloison, obstruction respiratoire documentée) peut faire l'objet d'une prise en charge. Le Dr Coda rédige si nécessaire une demande d'entente préalable."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelle est la durée de l'intervention chirurgicale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "De 1h30 à 3h selon la complexité. Rhinoplastie primaire simple : 1h30 à 2h. Rhinoplastie secondaire ou septorhinoplastie mixte : 2h30 à 3h. Intervention le plus souvent en ambulatoire."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelles cicatrices reste-t-il après une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En voie fermée : aucune cicatrice visible. En voie ouverte : fine cicatrice sur la columelle, invisible de face, qui s'estompe entre 6 et 12 mois."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "J'habite hors de Marseille, puis-je faire mon suivi ailleurs ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Le Dr Coda assure les consultations de suivi à Nice et à Draguignan pour les patients du Var et des Alpes-Maritimes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Comment prendre rendez-vous à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sur Doctolib (lieu : Marseille - Hôpital Privé Beauregard) ou par téléphone au 04 91 12 11 12."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Marseille",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-marseille/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Consultation rhinoplastie · Marseille",
+    "title": "Consultation à <em>Marseille</em>",
+    "lead": "Le Dr Coda reçoit les patients en consultation pour la rhinoplastie à l'Hôpital Privé Beauregard, dans le 12e arrondissement de Marseille. Les interventions se déroulent au sein de la même structure.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous à Marseille",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Marseille",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Le cabinet de Marseille",
+      "title": "Votre consultation de rhinoplastie à l'Hôpital Privé Beauregard",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le Dr Mattia Coda reçoit en consultation de rhinoplastie au sein de son cabinet de l'Hôpital Privé Beauregard. Chaque projet est abordé de manière individuelle, avec pour objectif constant de concilier résultat esthétique et préservation de la fonction respiratoire.</p>\n      <p>La première consultation est un temps d'échange qui dure généralement entre 45 minutes et une heure. Elle permet d'analyser vos motivations, de comprendre ce qui vous gêne (une bosse, une pointe tombante, une asymétrie ou une gêne respiratoire) et de réaliser un examen clinique complet. Le Dr Coda procède à une analyse fine de votre anatomie nasale (épaisseur de la peau, structure des cartilages alaires et des os propres du nez) ainsi qu'à un examen endonasal pour évaluer l'état de la cloison nasale et des cornets.</p>\n      <p>Cette séance s'appuie sur des outils technologiques modernes. Des photographies médicales standardisées sont réalisées sous différents angles afin de servir de base à une simulation numérique en trois dimensions. Ce miroir virtuel permet de dialoguer de manière transparente, de visualiser les modifications esthétiques envisageables et de valider ensemble l'objectif chirurgical. À l'issue de cette consultation, un plan de traitement précis vous est proposé, accompagné d'un devis détaillé et d'un consentement éclairé, ouvrant le délai légal de réflexion de 15 jours.</p>\n      <p>Pour les patients marseillais souhaitant en savoir plus sur les techniques disponibles — rhinoplastie ultrasonique, de préservation, Push-Down ou fonctionnelle — le <a href=\"/rhinoplastie/\" style=\"color:var(--gold);\">guide médical complet</a> détaille chacune d'entre elles, avec une <a href=\"/rhinoplastie/#faq\" style=\"color:var(--gold);\">FAQ complète</a> et les <a href=\"/rhinoplastie/#prix\" style=\"color:var(--gold);\">tarifs indicatifs</a>.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Informations pratiques — Marseille</span>\n        <ul class=\"liste\">\n          <li><strong>Adresse :</strong> Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille</li>\n          <li><strong>Téléphone :</strong> <a href=\"tel:0491121112\" style=\"color:var(--gold);\">04 91 12 11 12</a></li>\n          <li><strong>Rendez-vous :</strong> Doctolib ou par téléphone</li>\n          <li><strong>Numéro RPPS :</strong> 10100805174 — inscrit à l'Ordre National des Médecins</li>\n          <li><strong>Délai légal :</strong> 15 jours de réflexion entre la consultation et l'intervention</li>\n        </ul>\n      </div>\n      <!-- CARTE GOOGLE MAPS\n           Remplacer par le vrai code d'intégration de votre fiche Google Business Profile.\n           Dans Google Maps, recherchez \"Hôpital Privé Beauregard Marseille\",\n           cliquez sur \"Partager\" → \"Intégrer une carte\" et copiez le code iframe ici.\n           Cela liera cette page à votre fiche établissement Google Maps officielle.\n      -->\n      <div style=\"margin-top:20px;border:1px solid #e8e2d9;background:var(--creme);padding:20px;text-align:center;\">\n        <p style=\"font-size:.78rem;color:var(--muted);line-height:1.7;\">\n          📍 <strong>Hôpital Privé Beauregard</strong><br>\n          23 rue des Linots, 13012 Marseille<br>\n          <a href=\"https://maps.google.com/?q=Hôpital+Privé+Beauregard+23+rue+des+Linots+13012+Marseille\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--gold);font-size:.75rem;\">Voir sur Google Maps →</a>\n        </p>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "hopital-beauregard",
+      "variant": null,
+      "eyebrow": "L'établissement",
+      "title": "L'Hôpital Privé Beauregard",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'Hôpital Privé Beauregard est un établissement de santé privé situé dans le 12e arrondissement de Marseille, facilement accessible depuis le centre-ville et les grands axes routiers — autoroute A50 depuis Toulon, A51 depuis Aix-en-Provence, A7 depuis Avignon et le nord.</p>\n      <p>C'est un hôpital privé complet — pas une simple clinique de chirurgie ambulatoire. Il dispose d'un <strong>service d'urgences</strong> et d'une <strong>unité de réanimation</strong>, ce qui représente un niveau de sécurité supérieur pour toute intervention sous anesthésie générale. Pour un patient qui envisage une rhinoplastie, savoir que l'établissement dispose d'une réanimation sur place est un gage de sécurité réel.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Atouts de l'Hôpital Privé Beauregard</span>\n        <ul class=\"liste\">\n          <li>Consultations et interventions dans le même établissement — pas de changement de lieu</li>\n          <li>Service d'urgences et unité de réanimation sur place</li>\n          <li>Hôpital privé — confort, confidentialité, équipes dédiées</li>\n          <li>Accès facile depuis Aix-en-Provence (A51), Toulon (A50), Avignon (A7), Arles et Gap</li>\n          <li>Parking sur place</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "rhinoplasties-marseille",
+      "variant": null,
+      "eyebrow": "Interventions disponibles",
+      "title": "Rhinoplasties pratiquées à Marseille",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Indications fréquentes : <a href=\"/correction-bosse-nez/\" style=\"color:var(--gold);\">correction de la bosse du nez</a>, <a href=\"/rhinoplastie-pointe-nez/\" style=\"color:var(--gold);\">correction de la pointe</a> et <a href=\"/deviation-cloison-nasale/\" style=\"color:var(--gold);\">déviation de la cloison nasale</a>.\n<p>Le Dr Mattia Coda prend en charge l'ensemble des rhinoplasties — esthétiques, fonctionnelles et mixtes — ainsi que la <a href=\"/rhinoplastie-homme/\" style=\"color:var(--gold);\">rhinoplastie masculine</a>, la <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a> et la <a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">féminisation faciale</a>. Un devis personnalisé est remis à l'issue de la consultation — <a href=\"/rhinoplastie/#prix\" style=\"color:var(--gold);\">tarifs indicatifs →</a></p>\n      <h3>Rhinoplastie esthétique primaire</h3>\n      <p>Correction d'une bosse dorsale, d'une pointe tombante ou trop large, d'une asymétrie ou d'une déviation de l'axe nasal. C'est l'indication la plus fréquente en consultation. <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">Page rhinoplastie primaire →</a></p>\n      <h3>Rhinoplastie ultrasonique</h3>\n      <p>Technique piézoélectrique permettant de sculpter les os nasaux avec précision, sans traumatiser les tissus mous environnants. Elle réduit significativement les ecchymoses post-opératoires et raccourcit la convalescence. <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">Page rhinoplastie ultrasonique →</a></p>\n      <h3>Rhinoplastie de préservation (Push-Down / Let-Down)</h3>\n      <p>Approche qui repositionne les structures ostéocartilagineuses sans les réséquer. Résultat plus naturel, récupération accélérée. Indiquée pour les corrections de bosse modérée sur des structures de base satisfaisantes. <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">Page rhinoplastie de préservation →</a></p>\n      <h3>Rhinoplastie secondaire</h3>\n      <p>Révision d'un résultat insatisfaisant ou correction d'une complication après une première intervention. Techniquement plus complexe, elle nécessite une analyse anatomique approfondie. Un délai minimum de 12 à 18 mois est recommandé. <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">Techniques →</a> · <a href=\"/rhinoplastie/#risques\" style=\"color:var(--gold);\">Risques et complications →</a></p>\n      <h3>Rhinoplastie fonctionnelle &amp; Septorhinoplastie</h3>\n      <p>Correction chirurgicale d'une déviation de cloison (septoplastie), d'une hypertrophie des cornets (turbinoplastie) ou d'un collapsus valvulaire responsables d'une obstruction respiratoire chronique. Lorsqu'elle est combinée à une rhinoplastie esthétique dans le même temps opératoire, on parle de <strong>septorhinoplastie</strong>. Une prise en charge partielle ou totale par l'Assurance maladie est possible sur demande d'entente préalable rédigée par le Dr Coda. <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">Page rhinoplastie fonctionnelle →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pourquoi-dr-coda",
+      "variant": null,
+      "eyebrow": "Expertise & Formation",
+      "title": "Pourquoi consulter le Dr Mattia Coda pour une rhinoplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le Dr Mattia Coda est <strong>chirurgien maxillo-facial</strong>, spécialisé dans la chirurgie esthétique et fonctionnelle du nez. Sa formation en chirurgie maxillo-faciale lui confère une connaissance approfondie de l'anatomie osseuse, cartilagineuse et des tissus mous du visage — socle indispensable à une <strong>rhinoplastie naturelle</strong> et à une approche rigoureuse de chaque cas.</p>\n      <p>Il maîtrise les techniques les plus actuelles de <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\"><strong>rhinoplastie ultrasonique</strong></a> — instruments piézoélectriques permettant une sculpture osseuse précise sans traumatisme des tissus mous — ainsi que les techniques de <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">préservation (Push-Down, Let-Down)</a> et la rhinoplastie structurelle par greffons cartilagineux. Pour les indications fonctionnelles, il pratique également la <strong>septoplastie</strong> et la turbinoplastie, avec possibilité de prise en charge par l'Assurance maladie.</p>\n      <ul class=\"liste\">\n        <li><strong>Chirurgien maxillo-facial diplômé</strong>, inscrit à l'Ordre National des Médecins</li>\n        <li><strong>DES en Chirurgie Maxillo-Faciale et Stomatologie</strong></li>\n        <li><strong>DIU de Chirurgie Esthétique du Visage</strong></li>\n        <li>Maîtrise de la rhinoplastie ultrasonique, de préservation et structurelle</li>\n        <li>Simulation morphologique 3D incluse lors de chaque consultation</li>\n        <li>Suivi post-opératoire personnalisé à Marseille sur 12 à 18 mois</li>\n      </ul>\n      <p>Pour les patients à la recherche d'un <strong>chirurgien maxillo-facial spécialisé en rhinoplastie</strong> dans la région, une première consultation permet d'évaluer ensemble la faisabilité du projet et de définir un objectif chirurgical réaliste. <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--gold);\">Prendre rendez-vous →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "local",
+      "variant": null,
+      "eyebrow": "Pourquoi Marseille ?",
+      "title": "Votre parcours opératoire complet à Marseille",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Pour les patients résidant à Marseille ou dans sa région — Aix-en-Provence, Aubagne, Cassis, La Ciotat, Martigues, Istres, Vitrolles, Marignane, Salon-de-Provence et l'ensemble des Bouches-du-Rhône — la proximité géographique du chirurgien est un confort majeur tout au long des <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">suites opératoires</a>. L'intégralité du parcours de soin — de la première consultation aux contrôles à long terme — s'organise de manière centralisée.</p>\n      <p>L'intervention est pratiquée par le Dr Mattia Coda à l'Hôpital Privé Beauregard. L'opération se déroule sous anesthésie générale, sous la supervision d'une équipe d'anesthésistes. Selon la complexité de l'acte (rhinoplastie primaire, septorhinoplastie fonctionnelle ou rhinoplastie secondaire de reconstruction), l'intervention dure entre 1h30 et 3 heures et se déroule le plus souvent en mode ambulatoire (sortie le jour même) ou avec une nuit d'hospitalisation.</p>\n      <p>Les techniques de rhinoplastie ultrasonique (piézoélectrique), de préservation (Push-Down, Let-Down) et structurelle permettent un remodelage précis des structures osseuses et cartilagineuses en limitant le traumatisme des tissus mous. L'utilisation de mèches nasales est remplacée par des attelles internes siliconées, permettant une respiration nasale dès le réveil. <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">Détail des techniques →</a></p>\n      <p>Le suivi post-opératoire est assuré personnellement par le Dr Coda à son cabinet de Marseille. Le premier rendez-vous de contrôle a lieu à J+6 pour retirer l'attelle de protection externe et les fils de suture cutanés si une voie externe a été nécessaire. Des consultations de suivi sont ensuite programmées à 1 mois, 3 mois, 6 mois et 1 an pour suivre l'évolution de la cicatrisation, évaluer la fonction respiratoire et apprécier le résultat esthétique définitif.</p>\n      <p>Pour les patients du Var ou des Alpes-Maritimes qui préfèrent une première consultation plus proche de leur domicile, le Dr Coda consulte également à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>. <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--gold);\">Prendre rendez-vous en ligne →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "acces",
+      "variant": null,
+      "eyebrow": "Accès au cabinet",
+      "title": "Comment venir au cabinet de Marseille",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p><strong>Hôpital Privé Beauregard — 23 rue des Linots, 13012 Marseille (12e arrondissement)</strong></p>\n      <h3>En voiture</h3>\n      <p>Depuis Aix-en-Provence ou le Nord, accès direct via l'autoroute A7 puis la L2 (A507), sortie Saint-Barnabé ou Trois-Lucs. Depuis Aubagne ou Toulon, via l'autoroute A50 connectée aux axes du 12e arrondissement. Un grand parking sécurisé payant est accessible sur le site de l'hôpital.</p>\n      <h3>En transports en commun (RTM)</h3>\n      <p>Prendre le Métro Ligne 1 jusqu'à la station <em>La Blancarde</em> (connexion Tramway T2), puis emprunter les lignes de bus de correspondance RTM en direction du 12e arrondissement.</p>\n      <h3>Depuis la Gare Saint-Charles</h3>\n      <p>L'Hôpital Beauregard est situé à environ 15 à 20 minutes de la gare de Marseille en taxi, VTC ou via la ligne 1 du métro (direction La Rose).</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suivi",
+      "variant": null,
+      "eyebrow": "Après l'intervention",
+      "title": "Suivi post-opératoire à Marseille",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le suivi post-opératoire est assuré par le Dr Coda à son cabinet. Des consultations sont programmées à intervalles réguliers pour accompagner la cicatrisation et évaluer le résultat. <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">Voir les suites opératoires détaillées →</a></p>\n      <ul class=\"liste\">\n        <li><strong>J+6 :</strong> retrait de l'attelle nasale et des fils de suture cutanés si voie externe. Premier aperçu du résultat.</li>\n        <li><strong>1 mois :</strong> évaluation de l'œdème résiduel et de la fonction respiratoire. Environ 60 % du résultat visible.</li>\n        <li><strong>3 mois :</strong> stabilisation de la partie supérieure et médiane du nez. Environ 80 % du résultat.</li>\n        <li><strong>6 mois :</strong> affinement progressif de la pointe. Environ 90 % du résultat.</li>\n        <li><strong>12 mois :</strong> évaluation du résultat définitif. Tissus totalement stabilisés.</li>\n      </ul>\n      <p>Pour les patients résidant dans le Var ou les Alpes-Maritimes, certaines consultations de suivi peuvent être organisées à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a> ou à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> selon leur lieu de résidence, afin de limiter les déplacements pendant la convalescence.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "patients-region",
+      "variant": null,
+      "eyebrow": "Rayonnement régional",
+      "title": "Patients venant d'Aix, Toulon, Avignon, Arles et Gap",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le cabinet de rhinoplastie de Marseille reçoit des patients de tout le Sud-Est — Aix-en-Provence, Toulon, Avignon, Arles, et même Gap pour les cas les plus motivés. Cette réalité géographique est un avantage concret : pour une <strong>rhinoplastie depuis Aix-en-Provence</strong>, le trajet vers l'Hôpital Privé Beauregard est de 30 à 35 minutes via l'autoroute A51 et la L2 — un déplacement tout à fait raisonnable, y compris pour les consultations de suivi post-opératoire à J+30 et J+90.</p>\n      <p>Les patients d'<strong>Aubagne</strong> rejoignent le cabinet en 20 minutes via l'A50. Ceux de <strong>Cassis</strong> et de <strong>La Ciotat</strong> disposent d'un accès direct par l'autoroute en 25 à 35 minutes. Pour les patients de <strong>Martigues</strong>, <strong>Vitrolles</strong> et <strong>Marignane</strong>, l'accès se fait par l'A55 et l'A7, avec un trajet de 30 à 40 minutes selon le trafic.</p>\n      <p>Les patients de <strong>Salon-de-Provence</strong> et du nord des Bouches-du-Rhône rejoignent Marseille par l'A7. Pour les patients du <strong>Vaucluse</strong> (Avignon, Apt, Pertuis) ou des <strong>Alpes-de-Haute-Provence</strong>, Marseille reste souvent plus accessible que Paris pour une consultation de chirurgie du nez, avec la possibilité d'effectuer les contrôles post-opératoires à distance sur plusieurs mois.</p>\n      <p>Pour les patients résidant dans le <strong>Var</strong> ou les <strong>Alpes-Maritimes</strong>, le Dr Coda propose des consultations de proximité à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice (Clinique Saint-François)</a>, afin de limiter les déplacements lors des consultations initiales et du suivi. <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" style=\"color:var(--gold);\">Prendre rendez-vous pour une consultation →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions",
+      "title": "Questions fréquentes — Marseille",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Où se trouve le cabinet à Marseille ?",
+              "answer": "Les consultations ont lieu au sein de l'Hôpital Privé Beauregard, situé au 23 rue des Linots, 13012 Marseille. Le cabinet est parfaitement équipé pour l'analyse morphologique et le suivi des rhinoplasties."
+            },
+            {
+              "question": "Les opérations sont-elles réalisées à Marseille ?",
+              "answer": "Oui, l'intégralité des interventions de rhinoplastie (primaires, secondaires ou fonctionnelles) sont pratiquées par le Dr Mattia Coda au bloc opératoire de l'Hôpital Privé Beauregard à Marseille, offrant un cadre chirurgical hautement sécurisé."
+            },
+            {
+              "question": "J'habite hors de Marseille, puis-je faire mon suivi ailleurs ?",
+              "answer": "Absolument. Le Dr Coda assure une totale continuité des soins dans la région. Vous pouvez réaliser vos consultations pré et post-opératoires dans ses autres cabinets de proximité à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> ou à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a> selon votre lieu de résidence."
+            },
+            {
+              "question": "Comment prendre rendez-vous à Marseille ?",
+              "answer": "Vous pouvez réserver votre créneau directement sur Doctolib (lieu : Marseille - Beauregard) ou en contactant le secrétariat médical au 04 91 12 11 12."
+            },
+            {
+              "question": "Quel est le prix d'une rhinoplastie à Marseille ?",
+              "answer": "Le tarif varie selon la technique et la complexité du cas. À titre indicatif : rhinoplastie primaire esthétique entre 4 000 € et 7 000 €, rhinoplastie ultrasonique entre 5 000 € et 9 000 €, rhinoplastie secondaire entre 6 000 € et 11 000 €. Un devis personnalisé est systématiquement remis après consultation, conformément à la réglementation sur la chirurgie esthétique. <a href=\"/rhinoplastie/#prix\" style=\"color:var(--gold);\">Consulter les tarifs indicatifs complets →</a>"
+            },
+            {
+              "question": "Combien de temps dure l'arrêt de travail après une rhinoplastie ?",
+              "answer": "Pour un travail sédentaire (bureau, télétravail), la reprise est généralement possible entre 7 et 10 jours après l'intervention avec la rhinoplastie ultrasonique. Pour les activités physiques, un arrêt de 2 à 3 semaines est recommandé. <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">Voir les suites opératoires complètes →</a>"
+            },
+            {
+              "question": "Quand voit-on le résultat définitif d'une rhinoplastie ?",
+              "answer": "Le résultat évolue progressivement sur 12 à 18 mois. À 1 mois, environ 60 % du résultat est visible. À 3 mois, 80 %. À 6 mois, 90 %. La pointe nasale est la zone qui se stabilise le plus lentement. Sur les peaux épaisses, ce délai peut atteindre 24 mois. Le Dr Coda évalue le résultat lors des consultations de suivi programmées à 1 mois, 3 mois, 6 mois et 12 mois."
+            },
+            {
+              "question": "La rhinoplastie est-elle douloureuse ?",
+              "answer": "L'intervention est réalisée sous anesthésie générale — le patient ne ressent rien pendant l'opération. Les suites sont généralement peu douloureuses. Une sensation de pression nasale et une légère gêne sont fréquentes les premiers jours, traitées par des antalgiques de palier 1 ou 2. La rhinoplastie ultrasonique réduit significativement l'intensité des douleurs post-opératoires par rapport aux techniques conventionnelles."
+            },
+            {
+              "question": "Peut-on respirer normalement après l'opération ?",
+              "answer": "Dès le réveil du bloc opératoire, la respiration nasale est possible grâce à l'utilisation d'attelles internes siliconées en remplacement des mèches traditionnelles. Une obstruction nasale partielle liée à l'œdème est normale pendant les premières semaines. La fonction respiratoire est évaluée lors de chaque consultation de suivi et s'améliore progressivement au fil des mois."
+            },
+            {
+              "question": "Existe-t-il une prise en charge par la Sécurité Sociale ?",
+              "answer": "La rhinoplastie purement esthétique n'est pas remboursée. Une prise en charge partielle ou totale est possible pour la composante fonctionnelle documentée (septorhinoplastie) : déviation de cloison nasale entraînant une obstruction respiratoire, malformation congénitale ou séquelles de traumatisme. Le Dr Coda évalue cette possibilité et rédige si nécessaire une demande d'entente préalable. Numéro RPPS : 10100805174."
+            },
+            {
+              "question": "L'Hôpital Privé Beauregard est-il un établissement sécurisé pour une rhinoplastie ?",
+              "answer": "Oui. L'Hôpital Privé Beauregard dispose d'un service d'urgences et d'une unité de réanimation sur place — ce qui est rare pour un hôpital privé et représente un niveau de sécurité élevé pour toute intervention sous anesthésie générale. C'est l'une des raisons pour lesquelles cet établissement a été choisi pour les interventions de rhinoplastie."
+            },
+            {
+              "question": "Quelle est la durée de l'intervention chirurgicale ?",
+              "answer": "La durée opératoire varie de 1h30 à 3h selon la complexité. Une rhinoplastie primaire simple dure environ 1h30 à 2h. Une rhinoplastie secondaire ou une septorhinoplastie mixte (esthétique et fonctionnelle) peut nécessiter 2h30 à 3h. L'intervention est réalisée le plus souvent en ambulatoire (retour à domicile le jour même) ou avec une nuit d'hospitalisation."
+            },
+            {
+              "question": "Quelles sont les cicatrices après une rhinoplastie ?",
+              "answer": "En voie fermée, toutes les incisions sont internes — aucune cicatrice visible. En voie ouverte, une fine cicatrice sur la columelle, invisible de face, s'estompe entre 6 et 12 mois. Protection solaire SPF50+ recommandée pendant 6 mois. <a href=\"/rhinoplastie/#risques\" style=\"color:var(--gold);\">Voir tous les risques et complications →</a>"
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres",
+      "variant": null,
+      "eyebrow": "Autres consultations",
+      "title": "Le Dr Coda consulte également",
+      "blocks": [
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Nice",
+              "address": "4 Av. Georges Clemenceau, 06000 Nice",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Rhinoplastie Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "64 Av. Lazare Carnot, 83300 Draguignan",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Rhinoplastie Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "autres-villes"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Marseille",
+      "title": "Planifiez votre projet de rhinoplastie<br><strong>à Marseille</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Prenez rendez-vous pour une consultation personnalisée avec analyse morphologique tridimensionnelle à l'Hôpital Privé Beauregard.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "4f519adc03f50ac0",
+    "date": "2026-09-18"
+  }
+}

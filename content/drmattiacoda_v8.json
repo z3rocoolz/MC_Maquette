@@ -1,0 +1,52 @@
+{
+  "slug": "drmattiacoda_v8",
+  "url": "/",
+  "template": "home",
+  "style": "style-099d0f3fd054.css",
+  "scripts": [
+    "script-0e9a134add02.js"
+  ],
+  "chrome": {
+    "nav": "c9f5670daeac",
+    "overlay": "aef9f262b128",
+    "menu": "e5c35fab5e26",
+    "footer": "4f8759e2d61c"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg",
+    "img-b65baa3ddbea.jpg"
+  ],
+  "seo": {
+    "title": "Dr Mattia Coda | Rhinoplastie, visage et mâchoires",
+    "description": "Mattia Coda, chirurgien maxillo-facial et stomatologue. Rhinoplastie, chirurgie du visage et des mâchoires à Marseille, Nice et Draguignan.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "La rhinoplastie.<br><em>À votre image.</em>",
+    "lead": "Votre visage, votre respiration, vos attentes. Un projet de rhinoplastie commence par une écoute attentive et une information claire.",
+    "eyebrow": "Dr Mattia Coda · Chirurgie du nez & du visage"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    }
+  ],
+  "sections": [
+    {
+      "variant": "composition",
+      "title": "",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<div class=\"home-care\"><div class=\"container home-care-grid\"><article class=\"doctor-card\"><figure><img src=\"assets/img/mattia-coda.webp\" srcset=\"assets/img/mattia-coda-small.webp 400w, assets/img/mattia-coda.webp 880w\" sizes=\"(max-width: 760px) 40vw, 210px\" width=\"880\" height=\"1173\" loading=\"lazy\" alt=\"Mattia Coda au bloc opératoire\"></figure><div><p class=\"eyebrow\">Votre chirurgien</p><h2 id=\"rencontre-titre\">Dr Mattia Coda</h2><p>Chirurgien maxillo-facial et stomatologue. Une approche du nez, du visage et des mâchoires, attentive à la forme comme à la fonction.</p><a class=\"text-link\" href=\"dr-mattia-coda.html\">Faire connaissance <span aria-hidden=\"true\">↗</span></a></div></article><article class=\"visit-card\"><p class=\"eyebrow\">En toute clarté</p><h2>Votre prochain pas.</h2><nav aria-label=\"Préparer votre visite\"><a href=\"parcours-patient.html\"><span><strong>Comprendre votre parcours</strong><small>De la première rencontre au suivi</small></span><b aria-hidden=\"true\">↗</b></a><a href=\"preparer-consultation.html\"><span><strong>Préparer la consultation</strong><small>Vos questions, vos documents, vos repères</small></span><b aria-hidden=\"true\">↗</b></a><a href=\"informations-pratiques.html\"><span><strong>Choisir votre lieu de consultation</strong><small>Marseille · Nice · Draguignan</small></span><b aria-hidden=\"true\">↗</b></a></nav></article></div></div>"
+        }
+      ]
+    }
+  ]
+}

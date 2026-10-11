@@ -1,0 +1,703 @@
+{
+  "slug": "drmattiacoda_v8",
+  "url": "/",
+  "template": "home",
+  "style": "style-099d0f3fd054.css",
+  "scripts": [
+    "script-0e9a134add02.js"
+  ],
+  "chrome": {
+    "nav": "c9f5670daeac",
+    "overlay": "aef9f262b128",
+    "menu": "e5c35fab5e26",
+    "footer": "4f8759e2d61c"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg",
+    "img-b65baa3ddbea.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Marseille, Nice, Draguignan | Dr Mattia Coda",
+    "description": "Dr Mattia Coda, spécialiste en rhinoplastie à Marseille, Nice et Draguignan. Techniques ultrasonique, de préservation, secondaire. Résultats naturels.",
+    "keywords": "rhinoplastie Marseille, rhinoplastie Nice, rhinoplastie Draguignan, chirurgien rhinoplastie Marseille, rhinoplastie ultrasonique Marseille, rhinoplastie de préservation, Dr Mattia Coda",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "name": "Dr Mattia Coda",
+        "description": "Chirurgien maxillo-facial spécialisé en rhinoplastie à Marseille, Nice et Draguignan.",
+        "url": "https://www.drmattiacoda.fr",
+        "telephone": "+33491121112",
+        "medicalSpecialty": "Rhinoplastie",
+        "address": [
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "23 rue des Linots",
+            "addressLocality": "Marseille",
+            "postalCode": "13012",
+            "addressCountry": "FR"
+          },
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "4 Avenue Georges Clemenceau",
+            "addressLocality": "Nice",
+            "postalCode": "06000",
+            "addressCountry": "FR"
+          },
+          {
+            "@type": "PostalAddress",
+            "streetAddress": "64 Avenue Lazare Carnot",
+            "addressLocality": "Draguignan",
+            "postalCode": "83300",
+            "addressCountry": "FR"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "section",
+    "className": "hero",
+    "id": "accueil",
+    "raw": "<section class=\"hero\" id=\"accueil\">\n  <div class=\"hero-bg\"></div>\n  <div class=\"hero-content\">\n    <h1 class=\"hero-t2\">Rhinoplastie</h1>\n    <div class=\"hero-t1\">Chirurgie du Visage</div>\n    <div class=\"hero-btns\" style=\"margin-top:40px;\">\n      <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" class=\"btn-or\">Prendre rendez-vous</a>\n    </div>\n    <div style=\"margin-top:24px;margin-bottom:24px;display:flex;flex-wrap:wrap;gap:10px;\">\n      <a href=\"/rhinoplastie/\" style=\"font-size:.56rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.15);padding:6px 12px;text-decoration:none;\">Rhinoplastie</a>\n      <a href=\"/lifting-cervico-facial/\" style=\"font-size:.56rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.15);padding:6px 12px;text-decoration:none;\">Lifting</a>\n      <a href=\"/blepharoplastie/\" style=\"font-size:.56rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.15);padding:6px 12px;text-decoration:none;\">Blépharoplastie</a>\n      <a href=\"/medecine-esthetique/\" style=\"font-size:.56rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.15);padding:6px 12px;text-decoration:none;\">Médecine Esthétique</a>\n      <a href=\"/dents-de-sagesse/\" style=\"font-size:.56rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.5);border:1px solid rgba(255,255,255,.15);padding:6px 12px;text-decoration:none;\">Dents de Sagesse</a>\n    </div>\n    <div class=\"hero-villes\" style=\"margin-top:40px;\">\n      <span class=\"hero-ville\">Marseille</span>\n      <span class=\"hero-ville\">Nice</span>\n      <span class=\"hero-ville\">Draguignan</span>\n    </div>\n  </div>\n</section>",
+    "eyebrow": "",
+    "title": "Rhinoplastie",
+    "lead": "",
+    "buttons": [],
+    "breadcrumb": [],
+    "separateurClass": null,
+    "blocks": []
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    }
+  ],
+  "sections": [
+    {
+      "id": "rhinoplastie",
+      "variant": "sec-creme",
+      "eyebrow": "Spécialité principale",
+      "title": "Rhinoplastie à Marseille,<br>Nice &amp; Draguignan",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p class=\"sec-lead\">Le Dr Mattia Coda, chirurgien maxillo-facial, pratique la rhinoplastie esthétique et fonctionnelle avec les techniques ultrasonique et de préservation. Il propose également la <a href=\"/rhinoplastie-homme/\" style=\"color:var(--gold);\">rhinoplastie masculine</a>, la <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a> (rhinoplastie + génioplastie) et la <a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">féminisation faciale (FFS)</a>.</p>",
+          "className": "sec-lead"
+        },
+        {
+          "type": "html",
+          "html": "<a href=\"/rhinoplastie/\" class=\"btn-or\">Tout savoir sur la rhinoplastie</a>"
+        },
+        {
+          "type": "html",
+          "html": "<a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" class=\"btn-bord\" style=\"border-color:rgba(0,0,0,.2);color:var(--noir);\">Prendre rendez-vous</a>"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": "sec-title"
+    },
+    {
+      "id": "techniques",
+      "variant": "sec-noir",
+      "eyebrow": "Expertise technique",
+      "title": "Les techniques de rhinoplastie<br>du Dr Mattia Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p class=\"sec-lead\" style=\"color:rgba(255,255,255,.4)\">Chaque nez est unique. La technique la plus adaptée est sélectionnée selon votre morphologie, votre type de peau et vos objectifs.</p>",
+          "className": "sec-lead"
+        },
+        {
+          "type": "cards",
+          "variant": "rhino",
+          "items": [
+            {
+              "className": "rhino-card",
+              "tag": "article",
+              "title": "Rhinoplastie Ultrasonique",
+              "titleTag": "h3",
+              "titleClass": "rhino-title",
+              "html": "<div class=\"rhino-card-accent\"></div>\n      <span class=\"rhino-num\">01</span>\n      <span class=\"rhino-label\">Technique avancée · Marseille · Nice · Draguignan</span>\n      \n      <p class=\"rhino-desc\">La rhinoplastie ultrasonique utilise des instruments piézoélectriques pour remodeler les structures osseuses nasales sans traumatisme des tissus mous environnants. Elle permet une réduction significative des ecchymoses post-opératoires et une récupération accélérée par rapport aux techniques conventionnelles.</p>\n      <div class=\"rhino-tags\"><span class=\"rhino-tag\">Précision maximale</span><span class=\"rhino-tag\">Suites légères</span><span class=\"rhino-tag\">Résultat naturel</span></div>\n      <a href=\"/rhinoplastie-ultrasonique/\" style=\"font-size:.58rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:6px;\">En savoir plus →</a>",
+              "link": "/rhinoplastie-ultrasonique/"
+            },
+            {
+              "className": "rhino-card",
+              "tag": "article",
+              "title": "Rhinoplastie de Préservation & Push-Down",
+              "titleTag": "h3",
+              "titleClass": "rhino-title",
+              "html": "<div class=\"rhino-card-accent\"></div>\n      <span class=\"rhino-num\">02</span>\n      <span class=\"rhino-label\">Technique moderne</span>\n      \n      <p class=\"rhino-desc\">Repositionnement des structures nasales existantes sans les supprimer. La technique Push-Down abaisse le dorsum nasal sans créer le toit ouvert classique de la rhinoplastie structurelle — résultat plus naturel, récupération plus rapide.</p>\n      <div class=\"rhino-tags\"><span class=\"rhino-tag\">Push-Down</span><span class=\"rhino-tag\">Préservation</span><span class=\"rhino-tag\">Correction bosse</span></div>\n      <a href=\"/rhinoplastie-preservation/\" style=\"font-size:.58rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:6px;\">En savoir plus →</a>",
+              "link": "/rhinoplastie-preservation/"
+            },
+            {
+              "className": "rhino-card",
+              "tag": "article",
+              "title": "Rhinoplastie Secondaire",
+              "titleTag": "h3",
+              "titleClass": "rhino-title",
+              "html": "<div class=\"rhino-card-accent\"></div>\n      <span class=\"rhino-num\">03</span>\n      <span class=\"rhino-label\">Cas complexes</span>\n      \n      <p class=\"rhino-desc\">La rhinoplastie secondaire corrige un résultat insatisfaisant ou une complication survenue après une première intervention. Elle requiert une analyse anatomique précise des structures remaniées et une planification chirurgicale adaptée à chaque situation.</p>\n      <div class=\"rhino-tags\"><span class=\"rhino-tag\">Révision</span><span class=\"rhino-tag\">Cas complexes</span><span class=\"rhino-tag\">Reconstruction</span></div>\n      <a href=\"/rhinoplastie-secondaire/\" style=\"font-size:.58rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:6px;\">En savoir plus →</a>",
+              "link": "/rhinoplastie-secondaire/"
+            },
+            {
+              "className": "rhino-card",
+              "tag": "article",
+              "title": "Rhinoplastie Fonctionnelle",
+              "titleTag": "h3",
+              "titleClass": "rhino-title",
+              "html": "<div class=\"rhino-card-accent\"></div>\n      <span class=\"rhino-num\">04</span>\n      <span class=\"rhino-label\">Fonctionnel &amp; esthétique</span>\n      \n      <p class=\"rhino-desc\">Correction des anomalies respiratoires — déviation de cloison, hypertrophie des cornets, dysfonction des valves nasales. Peut être associée à une rhinoplastie esthétique dans le même temps opératoire. Prise en charge possible par l'Assurance maladie.</p>\n      <div class=\"rhino-tags\"><span class=\"rhino-tag\">Septoplastie</span><span class=\"rhino-tag\">Respiration</span><span class=\"rhino-tag\">Remboursable</span></div>\n      <a href=\"/rhinoplastie-fonctionnelle/\" style=\"font-size:.58rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);display:inline-flex;align-items:center;gap:6px;\">En savoir plus →</a>",
+              "link": "/rhinoplastie-fonctionnelle/"
+            }
+          ],
+          "className": "rhino-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": "color:var(--gold)",
+      "titleTag": "h2",
+      "titleClass": "sec-title sec-title-w"
+    },
+    {
+      "id": null,
+      "variant": "libre",
+      "eyebrow": "",
+      "title": "",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p style=\"font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:600;color:var(--noir);\">Rhinoplastie — Marseille · Nice · Draguignan</p>"
+        },
+        {
+          "type": "html",
+          "html": "<a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" style=\"background:var(--noir);color:#fff;padding:13px 28px;font-size:.6rem;letter-spacing:.16em;text-transform:uppercase;font-weight:600;white-space:nowrap;transition:background .2s;\">\n    Prendre rendez-vous\n  </a>"
+        }
+      ]
+    },
+    {
+      "id": "pourquoi",
+      "variant": "sec-blanc",
+      "eyebrow": "À savoir sur la rhinoplastie",
+      "title": "Informations pratiques<br>sur la rhinoplastie",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pourquoi",
+          "items": [
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Formation maxillo-faciale",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 2l3 6.3L22 9.3l-5 4.9 1.2 6.8L12 17.8l-6.2 3.2L7 14.2 2 9.3l7-1z\"></path></svg></div>\n      \n      <p>La chirurgie maxillo-faciale est une spécialité chirurgicale qui englobe l'ensemble des pathologies et interventions de la face, des mâchoires et du cou. Elle constitue le socle de sa formation.</p>",
+              "link": null
+            },
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Rhinoplastie ultrasonique",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M9 12l2 2 4-4\"></path></svg></div>\n      \n      <p>La rhinoplastie ultrasonique utilise des instruments piézoélectriques permettant de remodeler les structures osseuses nasales avec précision, en limitant le traumatisme des tissus environnants. <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">En savoir plus →</a></p>",
+              "link": "/rhinoplastie-ultrasonique/"
+            },
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Consultation préopératoire",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z\"></path></svg></div>\n      \n      <p>Chaque consultation comprend une analyse morphologique du visage et du nez, ainsi qu'une simulation informatisée permettant de visualiser les modifications envisageables sur la base de l'anatomie du patient.</p>",
+              "link": null
+            },
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Lieux de consultation",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z\"></path></svg></div>\n      \n      <p>Des consultations sont assurées à Marseille (Hôpital Privé Beauregard), Nice et Draguignan. Les interventions sont réalisées à l'Hôpital Privé Beauregard de Marseille et à la Clinique Saint-François de Nice.</p>",
+              "link": null
+            },
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Objectifs chirurgicaux",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-1-11v6h2v-6h-2zm0-4v2h2V7h-2z\"></path></svg></div>\n      \n      <p>L'objectif de toute rhinoplastie est d'obtenir un résultat proportionné et cohérent avec l'ensemble des traits du visage, en respectant l'anatomie et les attentes exprimées par le patient lors de la consultation.</p>",
+              "link": null
+            },
+            {
+              "className": "pourquoi-card",
+              "tag": "div",
+              "title": "Suivi post-opératoire",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"pourquoi-icon\"><svg viewBox=\"0 0 24 24\"><path d=\"M9 11H7v9h2v-9zm4 0h-2v9h2v-9zm4 0h-2v9h2v-9zM5 4v2h14V4H5zM3 20h18v2H3v-2z\"></path></svg></div>\n      \n      <p>Des consultations de contrôle sont programmées à J+6, J+30, J+90 et 12 mois après l'intervention. Le résultat définitif est évalué entre 12 et 18 mois post-opératoires.</p>",
+              "link": null
+            }
+          ],
+          "className": "pourquoi-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": "sec-title"
+    },
+    {
+      "id": "faq",
+      "variant": "sec-gris",
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ Rhinoplastie",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-q",
+          "answerClass": "faq-a",
+          "items": [
+            {
+              "question": "Combien coûte une rhinoplastie à Marseille ?",
+              "answer": "Entre <strong>4 000 € et 9 000 €</strong> selon la technique et la complexité. Un devis détaillé est remis après consultation."
+            },
+            {
+              "question": "La rhinoplastie est-elle remboursée ?",
+              "answer": "La partie <strong>esthétique</strong> n'est pas remboursée. La partie <strong>fonctionnelle</strong> — <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">rhinoplastie fonctionnelle ou septorhinoplastie</a> — peut l'être partiellement ou totalement par l'Assurance maladie en cas d'obstruction nasale documentée."
+            },
+            {
+              "question": "Qu'est-ce que la rhinoplastie ultrasonique ?",
+              "answer": "Technique utilisant des instruments à ultrasons pour sculpter les os avec précision, sans traumatiser les tissus environnants. Moins d'ecchymoses, récupération plus rapide, résultat plus fin."
+            },
+            {
+              "question": "Quelle est la durée de convalescence ?",
+              "answer": "Environ <strong>7 à 10 jours</strong> avec la rhinoplastie ultrasonique. Le résultat définitif est visible entre <strong>12 et 18 mois</strong> après l'intervention."
+            },
+            {
+              "question": "Peut-on voir des simulations avant l'opération ?",
+              "answer": "Oui. Des <strong>simulations informatiques</strong> sont réalisées lors de la consultation préopératoire pour visualiser ensemble le résultat souhaité."
+            },
+            {
+              "question": "Les consultations ont-elles lieu à Nice et Draguignan ?",
+              "answer": "Oui — <strong>Marseille</strong> (Hôpital Privé Beauregard, 23 rue des Linots), <strong>Nice</strong> (4 Av. Clemenceau) et <strong>Draguignan</strong> (64 Av. Lazare Carnot)."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": "sec-title"
+    },
+    {
+      "id": "chirurgien",
+      "variant": null,
+      "eyebrow": "",
+      "title": "",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<div class=\"apropos-img\">\n      <img src=\"/assets/img/img-b65baa3ddbea.jpg\" alt=\"Dr Mattia Coda, chirurgien maxillo-facial, au bloc opératoire\" style=\"width:100%;height:100%;min-height:500px;object-fit:cover;object-position:center 20%;display:block;\">\n    </div>"
+        },
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "apropos-content",
+          "id": null,
+          "blocks": [
+            {
+              "type": "html",
+              "html": "<span class=\"eyebrow\">Le Chirurgien</span>"
+            },
+            {
+              "type": "heading",
+              "level": 2,
+              "html": "Dr Mattia Coda",
+              "className": "sec-title"
+            },
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>Le Dr Mattia Coda est <strong>chirurgien maxillo-facial</strong>, spécialisé en <strong>rhinoplastie</strong> et chirurgie esthétique du visage. Il consulte à Marseille, Nice et Draguignan.</p>\n<p>Il maîtrise les techniques de <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\"><strong>rhinoplastie ultrasonique</strong></a>, de <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\"><strong>préservation (Push-Down)</strong></a> et de <a href=\"/rhinoplastie-secondaire/\" style=\"color:var(--gold);\"><strong>rhinoplastie secondaire</strong></a>, ainsi que l'ensemble des interventions du visage — lifting, blépharoplastie, chirurgie orthognathique.</p>\n<p>Son approche est fondée sur une écoute attentive, une analyse chirurgicale rigoureuse et le respect de l'anatomie naturelle de chaque patient.</p>"
+            },
+            {
+              "type": "group",
+              "tag": "div",
+              "className": "diplomes",
+              "id": null,
+              "blocks": [
+                {
+                  "type": "html",
+                  "html": "<span class=\"diplomes-label\">Formation &amp; Diplômes</span>"
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "diplome-item",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"diplome-dash\"></div>"
+                    },
+                    {
+                      "type": "html",
+                      "html": "<span class=\"diplome-txt\">Diplôme d'État de Docteur en Médecine</span>"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "diplome-item",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"diplome-dash\"></div>"
+                    },
+                    {
+                      "type": "html",
+                      "html": "<span class=\"diplome-txt\">DES en Chirurgie Maxillo-Faciale et Stomatologie</span>"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "diplome-item",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"diplome-dash\"></div>"
+                    },
+                    {
+                      "type": "html",
+                      "html": "<span class=\"diplome-txt\">DIU de Chirurgie Esthétique du Visage</span>"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "diplome-item",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"diplome-dash\"></div>"
+                    },
+                    {
+                      "type": "html",
+                      "html": "<span class=\"diplome-txt\">Formation avancée en Rhinoplastie Ultrasonique et de Préservation</span>"
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "diplome-item",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "html",
+                      "html": "<div class=\"diplome-dash\"></div>"
+                    },
+                    {
+                      "type": "html",
+                      "html": "<span class=\"diplome-txt\">Inscrit à l'Ordre National des Médecins</span>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "tag": "div",
+              "className": "quote-block",
+              "id": null,
+              "blocks": [
+                {
+                  "type": "text",
+                  "enveloppe": false,
+                  "html": "<p>« La chirurgie doit révéler votre harmonie naturelle, jamais la trahir. »</p>"
+                },
+                {
+                  "type": "html",
+                  "html": "<cite>— Dr Mattia Coda</cite>"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "apropos-wrap",
+          "id": null
+        }
+      ]
+    },
+    {
+      "id": "autres",
+      "variant": "sec-creme",
+      "eyebrow": "Spécialités secondaires",
+      "title": "Chirurgie du Visage<br>&amp; Autres interventions",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "sec",
+          "items": [
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Lifting du Visage",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">01</div>\n      <span class=\"sec-cat\">Rajeunissement</span>\n      \n      <p>Lifting cervico-facial, mini-lifting, Deep Plane et SMAS pour un rajeunissement naturel et durable.</p>\n      <a href=\"#consultations\" class=\"sec-link\">Prendre rendez-vous →</a>",
+              "link": "#consultations"
+            },
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Blépharoplastie",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">02</div>\n      <span class=\"sec-cat\">Chirurgie du regard</span>\n      \n      <p>Correction des paupières supérieures et inférieures. Regard reposé et rajeuni, sans effet opéré.</p>\n      <a href=\"#consultations\" class=\"sec-link\">Prendre rendez-vous →</a>",
+              "link": "#consultations"
+            },
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Féminisation Faciale",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">03</div>\n      <span class=\"sec-cat\">Parcours transgenre</span>\n      \n      <p>Accompagnement spécialisé et bienveillant pour harmoniser les traits du visage.</p>\n      <a href=\"/feminisation-faciale/\" class=\"sec-link\">En savoir plus →</a>",
+              "link": "/feminisation-faciale/"
+            },
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Chirurgie Orthognathique",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">04</div>\n      <span class=\"sec-cat\">Fonctionnel &amp; esthétique</span>\n      \n      <p>Correction des mâchoires et de l'occlusion dentaire. Résultats fonctionnels et esthétiques durables.</p>\n      <a href=\"/chirurgie-orthognathique/\" class=\"sec-link\">En savoir plus →</a>",
+              "link": "/chirurgie-orthognathique/"
+            },
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Stomatologie",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">05</div>\n      <span class=\"sec-cat\">Chirurgie buccale</span>\n      \n      <p>Chirurgie buccale, extractions complexes, pathologies de la cavité buccale et des glandes salivaires.</p>\n      <a href=\"#consultations\" class=\"sec-link\">Prendre rendez-vous →</a>",
+              "link": "#consultations"
+            },
+            {
+              "className": "sec-card",
+              "tag": "article",
+              "title": "Médecine Esthétique",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<div class=\"sec-num\">06</div>\n      <span class=\"sec-cat\">Sans chirurgie</span>\n      \n      <p>Injections d'acide hyaluronique, toxine botulique, lipofilling pour sublimer le visage naturellement.</p>\n      <a href=\"#consultations\" class=\"sec-link\">Prendre rendez-vous →</a>",
+              "link": "#consultations"
+            }
+          ],
+          "className": "sec-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": "sec-title"
+    },
+    {
+      "id": null,
+      "variant": "cabinets-mesh-v8",
+      "eyebrow": "",
+      "title": "Vos cabinets de chirurgie maxillo-faciale &amp; esthétique",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<span class=\"mesh-v8-eyebrow\">Ancrage Régional</span>"
+        },
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p class=\"mesh-v8-lead\">\n    Les consultations ont lieu au sein de trois structures de premier plan en région PACA. L'ensemble des soins et suivis post-opératoires y sont assurés de manière personnalisée.\n  </p>",
+          "className": "mesh-v8-lead"
+        },
+        {
+          "type": "cards",
+          "variant": "mesh-v8",
+          "items": [
+            {
+              "className": "mesh-v8-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<div class=\"mesh-v8-city\">Marseille (12e)</div>\n      <p class=\"mesh-v8-desc\">Consultations et interventions chirurgicales au sein de l'Hôpital Privé Beauregard.</p>\n      <a href=\"/rhinoplastie-marseille/\" class=\"mesh-v8-link\">Rhinoplastie Marseille →</a>",
+              "link": "/rhinoplastie-marseille/"
+            },
+            {
+              "className": "mesh-v8-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<div class=\"mesh-v8-city\">Nice</div>\n      <p class=\"mesh-v8-desc\">Cabinet de consultation et suivi post-opératoire complet dans les Alpes-Maritimes.</p>\n      <a href=\"/rhinoplastie-nice/\" class=\"mesh-v8-link\">Rhinoplastie Nice →</a>",
+              "link": "/rhinoplastie-nice/"
+            },
+            {
+              "className": "mesh-v8-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<div class=\"mesh-v8-city\">Draguignan</div>\n      <p class=\"mesh-v8-desc\">Structure de consultation et de suivi pour les patients résidant dans le Var.</p>\n      <a href=\"/rhinoplastie-draguignan/\" class=\"mesh-v8-link\">Rhinoplastie Draguignan →</a>",
+              "link": "/rhinoplastie-draguignan/"
+            }
+          ],
+          "className": "mesh-v8-grid"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": "sec-blanc",
+      "eyebrow": "Infos pratiques",
+      "title": "Consultation rhinoplastie<br>Marseille · Nice · Draguignan",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "consult",
+          "items": [
+            {
+              "className": "consult-card",
+              "tag": "address",
+              "title": "Marseille",
+              "titleTag": "h3",
+              "titleClass": "consult-city",
+              "html": "<span class=\"consult-badge\">📍 Marseille</span>\n      \n      <p class=\"consult-lieu\">Hôpital Privé Beauregard</p>\n      <p class=\"consult-addr\">23 rue des Linots<br>13012 Marseille</p>\n      <a href=\"tel:0491121112\" class=\"consult-tel\">04 91 12 11 12</a>\n      <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" class=\"btn-rdv\">Prendre rendez-vous</a>",
+              "link": "tel:0491121112"
+            },
+            {
+              "className": "consult-card",
+              "tag": "address",
+              "title": "Nice",
+              "titleTag": "h3",
+              "titleClass": "consult-city",
+              "html": "<span class=\"consult-badge\">📍 Nice</span>\n      \n      <p class=\"consult-lieu\">Cabinet Médical</p>\n      <p class=\"consult-addr\">4 Avenue Georges Clemenceau<br>06000 Nice</p>\n      <a href=\"tel:0642762612\" class=\"consult-tel\">06 42 76 26 12</a>\n      <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" class=\"btn-rdv\">Prendre rendez-vous</a>",
+              "link": "tel:0642762612"
+            },
+            {
+              "className": "consult-card",
+              "tag": "address",
+              "title": "Draguignan",
+              "titleTag": "h3",
+              "titleClass": "consult-city",
+              "html": "<span class=\"consult-badge\">📍 Draguignan</span>\n      \n      <p class=\"consult-lieu\">Centre Médical</p>\n      <p class=\"consult-addr\">64 Avenue Lazare Carnot<br>83300 Draguignan</p>\n      <a href=\"tel:0494395772\" class=\"consult-tel\">04 94 39 57 72</a>\n      <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\" class=\"btn-rdv\">Prendre rendez-vous</a>",
+              "link": "tel:0494395772"
+            }
+          ],
+          "className": "consult-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": "sec-title"
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Votre projet rhinoplastie",
+      "title": "Prenez rendez-vous avec<br><strong>le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation à Marseille, Nice ou Draguignan. Un devis détaillé et une simulation préopératoire sont remis lors de chaque consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-or btn-doctolib",
+              "external": true,
+              "alt": "Prendre rendez-vous sur Doctolib",
+              "image": "/assets/img/doctolib-logo.png"
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-bord",
+              "external": false
+            },
+            {
+              "label": "docteurcoda@gmail.com",
+              "href": "mailto:docteurcoda@gmail.com",
+              "style": "btn-bord",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": "display:block;margin-bottom:12px;",
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "a750042be5bbdd12",
+    "date": "2026-09-18"
+  }
+}

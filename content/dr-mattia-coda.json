@@ -1,0 +1,104 @@
+{
+  "slug": "dr-mattia-coda",
+  "url": "/dr-mattia-coda/",
+  "template": "standard",
+  "style": "style-0544494883b1.css",
+  "scripts": [
+    "script-78573689e4cf.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "21c89bec737a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83fef08c0f33"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Dr Mattia Coda | Chirurgien maxillo-facial et stomatologue",
+    "description": "Mattia Coda, chirurgien maxillo-facial et stomatologue. Présentation, domaines de prise en charge et consultations à Marseille, Nice et Draguignan.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "Dr Mattia Coda",
+    "lead": "Chirurgien maxillo-facial et stomatologue. Une pratique tournée vers le nez, le visage, les mâchoires et la sphère buccale.",
+    "eyebrow": "Votre chirurgien",
+    "buttons": [],
+    "blocks": [],
+    "breadcrumb": []
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "title": "Une approche globale du visage",
+      "id": "approche",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Dr Mattia Coda est chirurgien maxillo-facial et stomatologue. La rhinoplastie s’inscrit dans une activité qui comprend également la chirurgie du visage et du regard, la chirurgie des mâchoires et la stomatologie.</p><p>La présentation du projet tient compte de votre demande, de l’examen clinique et des dimensions esthétiques et fonctionnelles. La consultation permet de discuter les indications, les alternatives, les risques et les modalités du suivi.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Formation et parcours",
+      "id": "parcours",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Les formations et expériences suivantes sont renseignées sur sa fiche professionnelle publique :</p><ul><li>2019 : D.E.S.I.U. de chirurgie du visage, Université Nice-Sophia-Antipolis.</li><li>2016 : D.U. de microchirurgie, Université de Tours.</li><li>2015–2017 : assistant en chirurgie maxillo-faciale et stomatologie au CHRU de Tours.</li><li>2018 : praticien attaché au CHU Grenoble-Alpes.</li></ul>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Les domaines de prise en charge",
+      "id": "domaines",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>La rhinoplastie est mise en avant dans ce site. Vous pouvez également explorer les autres compétences présentées dans le projet :</p><ul><li><a href=\"blepharoplastie.html\">Chirurgie des paupières</a> et <a href=\"lifting-cervico-facial.html\">chirurgie du visage</a>.</li><li><a href=\"profiloplastie.html\">Profiloplastie</a> et <a href=\"chirurgie-orthognathique.html\">chirurgie des mâchoires</a>.</li><li><a href=\"medecine-esthetique.html\">Médecine esthétique du visage</a>.</li><li><a href=\"dents-de-sagesse.html\">Stomatologie et dents de sagesse</a>.</li></ul>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Les consultations",
+      "id": "consultations",
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Des consultations sont proposées à Marseille, Nice et Draguignan. Les langues indiquées sur la fiche professionnelle sont le français, l’italien et l’anglais.</p><p><a href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Consulter la fiche et les disponibilités sur Doctolib</a>.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Fiche professionnelle du Dr Mattia Coda sur Doctolib</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ]
+}

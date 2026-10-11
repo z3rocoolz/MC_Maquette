@@ -1,0 +1,401 @@
+{
+  "slug": "deviation-cloison-nasale",
+  "url": "/deviation-cloison-nasale/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "9d86a7534f7f"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Déviation Cloison Nasale – Septoplastie Marseille Nice",
+    "description": "Déviation de cloison nasale et septoplastie à Marseille et Nice avec le Dr Mattia Coda. Prise en charge Sécurité Sociale possible, chirurgien spécialisé.",
+    "keywords": "déviation cloison nasale, septoplastie Marseille, septoplastie Nice, obstruction nasale chronique, déviation septale Marseille, septorhinoplastie Marseille",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/deviation-cloison-nasale/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Déviation Cloison Nasale – Septoplastie",
+        "description": "Déviation de cloison nasale et septoplastie à Marseille et Nice avec le Dr Mattia Coda. Prise en charge Sécurité Sociale possible. Chirurgien maxillo-facial spécialisé. Consultations à Marseille, Nice, Draguignan.",
+        "url": "https://www.drmattiacoda.fr/deviation-cloison-nasale/",
+        "lastReviewed": "2026-01",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "La déviation de cloison nasale est-elle remboursée par la Sécurité Sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, sous conditions. La septoplastie fonctionnelle — correction d'une déviation de cloison entraînant une obstruction respiratoire documentée — peut faire l'objet d'une prise en charge partielle ou totale. Le Dr Coda évalue cette possibilité lors de la consultation et rédige si nécessaire une demande d'entente préalable. RPPS 10100805174."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelle est la différence entre septoplastie et septorhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La septoplastie corrige uniquement la déviation de cloison sans modifier l'aspect externe du nez. La septorhinoplastie associe cette correction fonctionnelle à une rhinoplastie esthétique dans le même temps opératoire."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La septoplastie est-elle douloureuse ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "L'intervention est réalisée sous anesthésie générale. Les suites sont peu douloureuses — une sensation de congestion nasale les premiers jours, traitée par des antalgiques simples. Les attelles internes siliconées permettent une respiration nasale dès le réveil."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien de temps dure la convalescence après une septoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La convalescence sociale est de 5 à 7 jours pour une septoplastie isolée. En cas de septorhinoplastie associée, elle est de 7 à 10 jours avec la technique ultrasonique."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une déviation de cloison nasale à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "À l'Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille. Téléphone : 04 91 12 11 12. Consultations également disponibles à Nice (06 42 76 26 12) et Draguignan (04 94 39 57 72). Prise de RDV sur Doctolib."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Déviation de la Cloison Nasale",
+            "item": "https://www.drmattiacoda.fr/deviation-cloison-nasale/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Septoplastie · Obstruction respiratoire",
+    "title": "Déviation de la Cloison Nasale",
+    "lead": "La déviation de la cloison nasale est la principale cause d'obstruction nasale chronique. Cette anomalie se corrige par septoplastie à Marseille et Nice, avec prise en charge possible par la Sécurité Sociale.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Déviation de la Cloison Nasale",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Obstruction nasale chronique",
+      "title": "Déviation de la cloison nasale — qu'est-ce que c'est ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>déviation de la cloison nasale</strong> (ou déviation septale) est une anomalie anatomique dans laquelle la cloison qui sépare les deux fosses nasales n'est pas positionnée dans l'axe médian. Elle est présente chez une majorité de la population à des degrés variables, mais ne nécessite une correction chirurgicale que lorsqu'elle entraîne une <strong>obstruction nasale chronique</strong> significative.</p>\n      <p>La correction chirurgicale s'appelle <strong>septoplastie</strong>. Lorsqu'elle est associée à une correction esthétique du nez, on parle de <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\"><strong>septorhinoplastie</strong></a>. Ces indications sont prises en charge à <a href=\"/rhinoplastie-marseille/\">Marseille</a>, <a href=\"/rhinoplastie-nice/\">Nice</a> et <a href=\"/rhinoplastie-draguignan/\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "symptomes",
+      "variant": null,
+      "eyebrow": "Symptômes",
+      "title": "Quels sont les symptômes d'une déviation de cloison ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"ibox\">\n        <span class=\"ibox-title\">Symptômes fréquents</span>\n        <ul class=\"liste\">\n          <li><strong>Obstruction nasale unilatérale ou bilatérale</strong> — sensation de nez bouché chronique, souvent plus marquée d'un côté</li>\n          <li><strong>Ronflements</strong> — liés à la turbulence du flux d'air lors du passage par les narines obstruées</li>\n          <li><strong>Troubles du sommeil</strong> — apnées du sommeil légères, réveils nocturnes fréquents</li>\n          <li><strong>Infections sinusiennes à répétition</strong> — sinusites chroniques favorisées par une mauvaise ventilation des sinus</li>\n          <li><strong>Épistaxis (saignements de nez)</strong> — liés à une muqueuse nasale plus exposée aux courants d'air</li>\n          <li><strong>Déviation visible de l'axe nasal</strong> — dans les déviations importantes, le nez peut paraître dévié de face</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "septoplastie",
+      "variant": null,
+      "eyebrow": "Traitement chirurgical",
+      "title": "La septoplastie — correction chirurgicale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La septoplastie est réalisée par voie endonasale — toutes les incisions sont internes, aucune cicatrice visible. L'intervention consiste à réséquer et repositionner les portions déviées du cartilage quadrangulaire et/ou des structures osseuses septales (vomer, ethmoïde), en préservant au maximum le capital cartilagineux.</p>\n      <p>La durée opératoire est de <strong>45 minutes à 1h30</strong> selon la complexité. L'intervention peut être réalisée sous anesthésie générale ou locorégionale. Des attelles internes siliconées remplacent les mèches traditionnelles — le patient respire par le nez dès le réveil.</p>\n      <div class=\"note-med\">\n        <strong>Prise en charge Sécurité Sociale :</strong> La septoplastie fonctionnelle documentée peut faire l'objet d'une prise en charge partielle ou totale par l'Assurance maladie. Cette possibilité est évaluée lors de la consultation, avec rédaction si nécessaire d'une demande d'entente préalable. RPPS 10100805174.\n      </div>\n      <h3>Septoplastie associée à une rhinoplastie esthétique</h3>\n      <p>Lorsqu'une correction esthétique est également souhaitée, les deux gestes sont réalisés dans le même temps opératoire — c'est la <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">septorhinoplastie</a>. Elle présente l'avantage d'une seule anesthésie, d'une seule convalescence et d'une prise en charge partielle possible pour la composante fonctionnelle.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "cornets",
+      "variant": null,
+      "eyebrow": "Geste associé fréquent",
+      "title": "Hypertrophie des cornets — turbinoplastie",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La déviation de cloison est fréquemment associée à une <strong>hypertrophie des cornets inférieurs</strong> — les cornets du côté opposé à la déviation compensent en augmentant de volume, aggravant l'obstruction nasale globale. La turbinoplastie (réduction des cornets) est souvent réalisée en même temps que la septoplastie pour optimiser le résultat fonctionnel.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur Déviation de la Cloison Nasale",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La déviation de cloison nasale est-elle remboursée par la Sécurité Sociale ?",
+              "answer": "Oui, sous conditions. La septoplastie fonctionnelle — correction d'une déviation de cloison entraînant une obstruction respiratoire documentée — peut faire l'objet d'une prise en charge partielle ou totale. Cette possibilité est évaluée lors de la consultation. RPPS 10100805174."
+            },
+            {
+              "question": "Quelle est la différence entre septoplastie et septorhinoplastie ?",
+              "answer": "La septoplastie corrige uniquement la déviation de cloison sans modifier l'aspect externe du nez. La septorhinoplastie associe cette correction fonctionnelle à une rhinoplastie esthétique dans le même temps opératoire."
+            },
+            {
+              "question": "La septoplastie est-elle douloureuse ?",
+              "answer": "L'intervention est réalisée sous anesthésie générale. Les suites sont peu douloureuses — une sensation de congestion nasale les premiers jours, traitée par des antalgiques simples. Les attelles internes siliconées permettent une respiration nasale dès le réveil."
+            },
+            {
+              "question": "Combien de temps dure la convalescence après une septoplastie ?",
+              "answer": "La convalescence sociale est de 5 à 7 jours pour une septoplastie isolée. En cas de septorhinoplastie associée, elle est de 7 à 10 jours avec la technique ultrasonique."
+            },
+            {
+              "question": "Où consulter pour une déviation de cloison nasale à Marseille ?",
+              "answer": "À l'Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille. Téléphone : 04 91 12 11 12. Consultations également disponibles à Nice (06 42 76 26 12) et Draguignan (04 94 39 57 72). Prise de RDV sur Doctolib."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Prendre rendez-vous",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Consultations à Marseille, Nice et Draguignan. Devis personnalisé remis après consultation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Chirurgien Maxillo-Facial",
+      "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle avec simulation préopératoire et devis personnalisé.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "219a9432d70b85ff",
+    "date": "2026-09-18"
+  }
+}

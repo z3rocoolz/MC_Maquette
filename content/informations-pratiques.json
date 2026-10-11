@@ -1,0 +1,63 @@
+{
+  "slug": "informations-pratiques",
+  "url": "/informations-pratiques/",
+  "template": "standard",
+  "hero": {
+    "title": "Les repères pratiques.",
+    "lead": "Lieux de consultation, rendez-vous, honoraires et préparation : les informations utiles, réunies au même endroit.",
+    "eyebrow": "Organiser votre rendez-vous"
+  },
+  "seo": {
+    "title": "Les repères pratiques. | Dr Mattia Coda",
+    "description": "Lieux de consultation, rendez-vous, honoraires et préparation : les informations utiles, réunies au même endroit.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "rendez-vous",
+      "title": "Prendre rendez-vous",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les disponibilités et le lieu exact sont à vérifier sur la fiche du Dr Coda. La réservation s’effectue sur Doctolib, un service extérieur disposant de ses propres conditions et règles de confidentialité.</p><p><a class=\"button\" href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Voir les disponibilités sur Doctolib ↗</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "lieux",
+      "title": "Les lieux de consultation",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<div class=\"practical-links\"><a href=\"consultation-marseille.html\">Marseille →</a><a href=\"consultation-nice.html\">Nice →</a><a href=\"consultation-draguignan.html\">Draguignan →</a></div><p>Le lieu d’une consultation n’est pas nécessairement celui d’une intervention. Votre confirmation de rendez-vous fait référence.</p>"
+        }
+      ]
+    },
+    {
+      "id": "honoraires",
+      "title": "Honoraires et documents",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le coût et les modalités de prise en charge dépendent de la consultation et de l’acte envisagé. Une information individualisée est nécessaire.</p><p><a href=\"prix-rhinoplastie.html\">Comprendre les honoraires et le devis</a> · <a href=\"preparer-consultation.html\">Préparer mes documents</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "accessibilite-lieux",
+      "title": "Accessibilité et accompagnement",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Si vous avez un besoin particulier pour vous déplacer, communiquer ou comprendre l’information, signalez-le lors de la prise de rendez-vous et vérifiez les conditions d’accueil du lieu choisi.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "adminRoundTrip": [
+    {
+      "page": "drmattiacoda_v8",
+      "roundTrip": true,
+      "links": 36
+    },
+    {
+      "page": "competences",
+      "roundTrip": true,
+      "links": 9
+    },
+    {
+      "page": "consultation",
+      "roundTrip": true,
+      "links": 4
+    }
+  ],
+  "unsafeMarkupRemoved": true
+}

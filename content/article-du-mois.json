@@ -1,0 +1,77 @@
+{
+  "slug": "article-du-mois",
+  "url": "/article-du-mois/",
+  "template": "standard",
+  "style": "style-52f7e740ebbe.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "95e1c0db48b5",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "0d1ed28e7d20"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "images": [],
+  "seo": {
+    "title": "Des repères pour votre réflexion. | Dr Mattia Coda",
+    "description": "Des lectures pour mieux préparer les échanges avec votre chirurgien, à consulter à votre rythme.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Des repères pour votre réflexion.",
+    "lead": "Des lectures pour mieux préparer les échanges avec votre chirurgien, à consulter à votre rythme.",
+    "eyebrow": "S’informer"
+  },
+  "sections": [
+    {
+      "id": "preparation",
+      "title": "Préparer ses questions",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Vos attentes, vos traitements et vos contraintes du quotidien ont leur place dans la consultation.</p><p><a href=\"preparer-consultation.html\">Ouvrir la fiche de préparation</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "decision",
+      "title": "Comprendre avant de choisir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les possibilités, les alternatives et les incertitudes se discutent ensemble. Prendre le temps de réfléchir fait partie du parcours.</p><p><a href=\"parcours-patient.html\">Les étapes de votre parcours</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Retrouver les sources",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"sources-et-engagements.html\">Consulter les références et les principes éditoriaux du site</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

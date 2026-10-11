@@ -1,0 +1,43 @@
+{
+  "slug": "preparer-consultation",
+  "url": "/preparer-consultation/",
+  "template": "standard",
+  "hero": {
+    "title": "Préparer votre consultation.",
+    "lead": "Une fiche simple pour réunir les documents utiles et garder vos questions à portée de main.",
+    "eyebrow": "Votre rendez-vous, sereinement"
+  },
+  "seo": {
+    "title": "Préparer votre consultation. | Dr Mattia Coda",
+    "description": "Une fiche simple pour réunir les documents utiles et garder vos questions à portée de main.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "avant",
+      "title": "Avant de vous déplacer",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Vérifiez le lieu sur votre confirmation de rendez-vous. N’engagez pas d’examen et ne modifiez pas un traitement de votre propre initiative pour préparer la consultation.</p>"
+        }
+      ]
+    },
+    {
+      "id": "pendant",
+      "title": "Pendant l’échange",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Demandez une reformulation si une explication n’est pas claire. Vous pouvez demander quels éléments restent incertains, quelles alternatives existent et de quel temps de réflexion vous disposez.</p><p>La fiche sert de support de discussion ; elle n’est ni un questionnaire médical ni un consentement à une intervention.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

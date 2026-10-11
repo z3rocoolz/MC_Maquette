@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-10T19:02:15.759171+00:00",
+  "method": "Luminance sRGB WCAG : couleurs pleines, pas une mesure du rendu navigateur ou des photographies",
+  "pairs": [
+    {
+      "text": "#0a0a0a",
+      "background": "#c9a96e",
+      "ratio": 8.847,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#0a0a0a",
+      "background": "#e2c99a",
+      "ratio": 12.308,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#3a3a3a",
+      "background": "#f8f6f2",
+      "ratio": 10.538,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#3a3a3a",
+      "background": "#ffffff",
+      "ratio": 11.375,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#6c6c6c",
+      "background": "#f8f6f2",
+      "ratio": 4.865,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#6c6c6c",
+      "background": "#f1ede8",
+      "ratio": 4.506,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#7d6944",
+      "background": "#f8f6f2",
+      "ratio": 4.893,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#7d6944",
+      "background": "#f1ede8",
+      "ratio": 4.532,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#7d6944",
+      "background": "#ffffff",
+      "ratio": 5.282,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#c9a96e",
+      "background": "#0a0a0a",
+      "ratio": 8.847,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#e2c99a",
+      "background": "#191817",
+      "ratio": 11.023,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#e2c99a",
+      "background": "#0a0a0a",
+      "ratio": 12.308,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#f8f6f2",
+      "background": "#0a0a0a",
+      "ratio": 18.342,
+      "minimum": 4.5,
+      "passAA": true
+    },
+    {
+      "text": "#3a3a3a",
+      "background": "#e2c99a",
+      "ratio": 7.071,
+      "minimum": 4.5,
+      "passAA": true
+    }
+  ]
+}

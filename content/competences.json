@@ -1,0 +1,46 @@
+{
+  "slug": "competences",
+  "template": "standard",
+  "style": null,
+  "scripts": [],
+  "chrome": {},
+  "images": [],
+  "layout": [],
+  "url": "/competences/",
+  "seo": {
+    "title": "Les interventions | Dr Mattia Coda",
+    "description": "Les autres compétences de Mattia Coda : chirurgie du visage et du regard, profil et mâchoires, médecine esthétique et stomatologie.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "Le visage, dans toutes ses dimensions.",
+    "lead": "Rhinoplastie, chirurgie du visage et des mâchoires, stomatologie : retrouver les repères utiles à votre demande.",
+    "eyebrow": "Les interventions"
+  },
+  "sections": [
+    {
+      "title": "",
+      "variant": "composition",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<section class=\"section intervention-feature\"><div class=\"container\"><div class=\"feature-rhino\"><div><p class=\"eyebrow\">Chirurgie du nez</p><h2>La rhinoplastie.<br><em>Esthétique et fonctionnelle.</em></h2><p>Comprendre les possibilités, les approches, les risques et le suivi.</p><a class=\"button\" href=\"rhinoplastie.html\">Lire le guide de rhinoplastie ↗</a></div><img src=\"assets/img/portrait-sauge-640.webp\" width=\"640\" height=\"800\" alt=\"\" loading=\"lazy\"></div><p class=\"image-credit\">Photographie d’illustration · Aucun résultat opératoire présenté.</p></div></section>"
+        }
+      ]
+    },
+    {
+      "variant": "composition",
+      "title": "",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<section class=\"section skills-section\"><div class=\"container\"><div class=\"section-heading\"><div><p class=\"eyebrow\">Trouver votre domaine de consultation</p><h2>Explorer les compétences<br><em>de Mattia Coda.</em></h2></div></div><div class=\"directory-filter\" data-specialty-filter hidden role=\"group\" aria-label=\"Filtrer les domaines\"><button type=\"button\" data-filter=\"all\" aria-pressed=\"true\">Tout explorer</button><button type=\"button\" data-filter=\"visage\" aria-pressed=\"false\">Visage &amp; regard</button><button type=\"button\" data-filter=\"machoires\" aria-pressed=\"false\">Mâchoires &amp; profil</button><button type=\"button\" data-filter=\"medecine\" aria-pressed=\"false\">Médecine esthétique</button><button type=\"button\" data-filter=\"stomatologie\" aria-pressed=\"false\">Stomatologie</button></div><p class=\"directory-status\" data-filter-status role=\"status\" aria-live=\"polite\">4 domaines à explorer</p><div class=\"specialty-grid\"><article class=\"specialty-card\" data-specialty-category=\"visage\" id=\"visage\"><div class=\"specialty-top\"><p class=\"eyebrow\">01 · Visage & regard</p><svg class=\"line-icon\" viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path d=\"M5 33s10-14 27-14 27 14 27 14-10 14-27 14S5 33 5 33Z\"/><circle cx=\"32\" cy=\"33\" r=\"8\"/><path d=\"M12 17c10-9 30-9 40 0\"/></svg></div><h3>Les expressions,<br>en douceur.</h3><p>La chirurgie du visage et du regard s’inscrit dans une recherche d’équilibre, en tenant compte de votre anatomie et de vos expressions.</p><ul class=\"specialty-links\"><li><a href=\"blepharoplastie.html\">Blépharoplastie <span aria-hidden=\"true\">↗</span></a></li><li><a href=\"lifting-cervico-facial.html\">Lifting cervico-facial <span aria-hidden=\"true\">↗</span></a></li><li><a href=\"lifting-sourcilier.html\">Lifting sourcilier <span aria-hidden=\"true\">↗</span></a></li></ul></article><article class=\"specialty-card\" data-specialty-category=\"machoires\" id=\"machoires\"><div class=\"specialty-top\"><p class=\"eyebrow\">02 · Mâchoires & profil</p><svg class=\"line-icon\" viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path d=\"M18 7c-5 8-4 18-7 25l7 4 3 12 13 10 13-10 4-18M26 21h5m-5 20h13m-12 8h12M44 9l-3 19-5 4\"/></svg></div><h3>L’équilibre<br>de toute la face.</h3><p>Le nez s’inscrit dans un ensemble. Le profil, le menton et les mâchoires sont étudiés dans leurs dimensions esthétiques et fonctionnelles.</p><ul class=\"specialty-links\"><li><a href=\"profiloplastie.html\">Profiloplastie <span aria-hidden=\"true\">↗</span></a></li><li><a href=\"chirurgie-orthognathique.html\">Chirurgie orthognathique <span aria-hidden=\"true\">↗</span></a></li><li><a href=\"feminisation-faciale.html\">Féminisation faciale <span aria-hidden=\"true\">↗</span></a></li></ul></article><article class=\"specialty-card\" data-specialty-category=\"medecine\"><div class=\"specialty-top\"><p class=\"eyebrow\">03 · Médecine esthétique</p><svg class=\"line-icon\" viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path d=\"M20 11c-5 13-5 30 3 39 6 7 12 7 18 0 8-9 8-26 3-39M24 31h4m8 0h4M28 44c3 2 5 2 8 0M32 31v7M12 4v10m-5-5h10M51 13v10m-5-5h10\"/></svg></div><h3>Une approche<br>mesurée du visage.</h3><p>Les traitements du visage se discutent selon vos attentes, les indications et les alternatives, avec une information sur leurs limites et leurs risques.</p><ul class=\"specialty-links\"><li><a href=\"medecine-esthetique.html\">Médecine esthétique du visage <span aria-hidden=\"true\">↗</span></a></li></ul></article><article class=\"specialty-card\" data-specialty-category=\"stomatologie\"><div class=\"specialty-top\"><p class=\"eyebrow\">04 · Stomatologie</p><svg class=\"line-icon\" viewBox=\"0 0 64 64\" aria-hidden=\"true\"><path d=\"M32 13c-8-8-20-5-20 6 0 7 6 16 7 26s7 12 9 1c2-13 6-13 8 0 2 11 8 9 9-1s7-19 7-26c0-11-12-14-20-6Z\"/><path d=\"M25 12c4 2 7 4 11 5\"/></svg></div><h3>La santé buccale,<br>au quotidien.</h3><p>La stomatologie et la chirurgie des dents de sagesse font partie des autres domaines de prise en charge de Dr Coda.</p><ul class=\"specialty-links\"><li><a href=\"dents-de-sagesse.html\">Chirurgie des dents de sagesse <span aria-hidden=\"true\">↗</span></a></li></ul></article></div><div class=\"button-row\"><a class=\"button button-outline\" href=\"rhinoplastie.html\">Découvrir également la rhinoplastie <span aria-hidden=\"true\">↗</span></a></div></div></section>"
+        }
+      ]
+    }
+  ]
+}

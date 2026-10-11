@@ -1,0 +1,211 @@
+{
+  "slug": "mentions-legales",
+  "url": "/mentions-legales/",
+  "template": "standard",
+  "style": "style-0544494883b1.css",
+  "scripts": [
+    "script-78573689e4cf.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "21c89bec737a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83fef08c0f33"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Mentions Légales – Dr Mattia Coda",
+    "description": "Mentions légales du site du Dr Mattia Coda, chirurgien maxillo-facial : éditeur, hébergement, responsabilité médicale et règles déontologiques applicables.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/mentions-legales/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": []
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "",
+    "title": "Mentions Légales",
+    "lead": "",
+    "buttons": [],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Mentions légales",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Éditeur du site",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p><strong>Dénomination :</strong> Dr Mattia Coda — Chirurgien Maxillo-Facial</p>\n      <p><strong>Numéro RPPS :</strong> 10100805174</p>\n      <p><strong>Inscrit à l'Ordre National des Médecins</strong> — Conseil Départemental des Bouches-du-Rhône</p>\n      <p><strong>Adresse principale :</strong> Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille</p>\n      <p><strong>Téléphone :</strong> 04 91 12 11 12</p>\n      <p><strong>Email :</strong> docteurcoda@gmail.com</p>\n      <p><strong>Site web :</strong> www.drmattiacoda.fr</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Hébergement",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les informations relatives à l'hébergeur du site seront complétées lors de la mise en ligne. L'hébergeur sera identifié conformément à la loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN).</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Directeur de la publication",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Dr Mattia Coda, chirurgien maxillo-facial inscrit à l'Ordre National des Médecins (RPPS 10100805174).</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Propriété intellectuelle",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'ensemble du contenu de ce site (textes, images, graphismes, logo, structure) est la propriété exclusive du Dr Mattia Coda, sauf mention contraire. Toute reproduction, représentation, modification, publication ou adaptation, totale ou partielle, de l'un des éléments du site est interdite sans l'autorisation écrite préalable du Dr Mattia Coda.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Responsabilité médicale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les informations publiées sur ce site ont une vocation exclusivement informative et ne sauraient se substituer à une consultation médicale personnalisée. Elles ne constituent en aucun cas un avis médical, un diagnostic ou une prescription.</p>\n      <p>Toute décision médicale ou chirurgicale doit être prise avec un professionnel de santé qualifié, après examen clinique individuel. Le Dr Mattia Coda ne saurait être tenu responsable de l'utilisation faite des informations contenues sur ce site.</p>\n      <p>Conformément à la loi du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé, un délai légal de réflexion de <strong>15 jours minimum</strong> est obligatoire entre la première consultation et toute intervention de chirurgie esthétique.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Déontologie médicale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Ce site est conforme aux recommandations du Conseil National de l'Ordre des Médecins relatives à la communication des médecins sur internet. Conformément à l'article R.4127-19 du Code de la santé publique, le Dr Mattia Coda s'interdit toute forme de publicité comparative ou de démarchage.</p>\n      <p>Les photographies de résultats, lorsqu'elles seront publiées, seront présentées avec le consentement écrit des patients concernés et dans le respect du secret médical.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Liens hypertextes",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Ce site peut contenir des liens vers des sites tiers. Le Dr Mattia Coda ne saurait être tenu responsable du contenu de ces sites externes ni des éventuels dommages résultant de leur utilisation.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Droit applicable et juridiction compétente",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les présentes mentions légales sont soumises au droit français. En cas de litige, les tribunaux français seront seuls compétents.</p>\n      <p>Pour toute question relative à ces mentions légales, vous pouvez contacter le Dr Mattia Coda à l'adresse suivante : <a href=\"mailto:docteurcoda@gmail.com\">docteurcoda@gmail.com</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "823db8af154adb0b",
+    "date": "2026-09-18"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "mentions-legales",
+  "url": "/mentions-legales/",
+  "template": "standard",
+  "style": "style-0544494883b1.css",
+  "scripts": [
+    "script-78573689e4cf.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "21c89bec737a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83fef08c0f33"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Mentions légales | Mattia Coda",
+    "description": "Informations relatives à la maquette du site de Mattia Coda.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "Mentions légales",
+    "lead": "Informations relatives à cette version de présentation.",
+    "eyebrow": "Informations",
+    "buttons": [],
+    "blocks": [],
+    "breadcrumb": []
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "title": "Nature du site",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Cette version est une maquette destinée à présenter une proposition de site pour Mattia Coda. Elle ne constitue pas une publication officielle validée du praticien.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Identification du praticien présenté",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Mattia Coda est présenté en tant que chirurgien maxillo-facial et stomatologue. Le numéro RPPS indiqué sur sa fiche professionnelle publique est 10100805174.</p><p><a href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Accéder à la fiche professionnelle de référence</a>.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Contenus et photographies",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Les textes proviennent du projet fourni et de la refonte éditoriale. Ils doivent être relus par le praticien avant publication officielle. Le portrait du chirurgien provient du dossier transmis. Les photographies d’ambiance sont des illustrations générées, issues des maquettes précédentes ; elles ne montrent ni des patients ni des résultats opératoires.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Publication définitive",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>L’identité juridique de l’éditeur, le responsable de publication, les coordonnées de l’hébergeur définitif et les informations réglementaires propres à l’activité devront être complétés pour le site officiel.</p>",
+          "enveloppe": false
+        }
+      ]
+    }
+  ]
+}

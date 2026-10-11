@@ -1,0 +1,53 @@
+{
+  "slug": "apres-intervention",
+  "url": "/apres-intervention/",
+  "template": "standard",
+  "hero": {
+    "title": "Anticiper votre retour.",
+    "lead": "Le suivi se prépare avant l’intervention, avec des consignes adaptées à l’acte réalisé et à votre situation.",
+    "eyebrow": "Votre suivi"
+  },
+  "seo": {
+    "title": "Anticiper votre retour. | Dr Mattia Coda",
+    "description": "Le suivi se prépare avant l’intervention, avec des consignes adaptées à l’acte réalisé et à votre situation.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "avant-sortie",
+      "title": "Les repères à demander avant la sortie",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Les consignes écrites et l’ordonnance expliquées par l’équipe.</li><li>Le calendrier des contrôles et les modalités pour les organiser.</li><li>Le contact de l’équipe et les signes qui nécessitent de la joindre rapidement.</li><li>Les indications personnalisées pour les soins, les repas, le travail et les activités.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "organisation",
+      "title": "L’organisation à domicile",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Anticipez avec l’équipe vos besoins d’accompagnement, le transport et les contraintes du quotidien. Les délais de récupération sont individuels : ceux évoqués sur un site ne remplacent pas vos instructions de sortie.</p>"
+        }
+      ]
+    },
+    {
+      "id": "difficulte",
+      "title": "En cas de difficulté",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Contactez l’équipe qui vous a pris en charge selon les instructions reçues. En cas d’urgence, appelez le <a href=\"tel:15\">15</a> ou le <a href=\"tel:112\">112</a>. La prise de rendez-vous en ligne ne permet pas de traiter une urgence.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

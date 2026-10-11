@@ -1,0 +1,408 @@
+{
+  "slug": "rhinoplastie-secondaire",
+  "url": "/rhinoplastie-secondaire/",
+  "template": "standard",
+  "style": "style-2915072916e2.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "6598e58dc498",
+    "overlay": "dd9d72dc74d3",
+    "menu": "3bc93c016ef5",
+    "footer": "d945763111cc"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Secondaire | Dr Mattia Coda, Marseille",
+    "description": "Rhinoplastie secondaire à Marseille et Nice avec le Dr Mattia Coda : révision d'une rhinoplastie insatisfaisante, planification personnalisée.",
+    "keywords": "rhinoplastie secondaire, révision rhinoplastie Marseille, reprise rhinoplastie, rhinoplastie secondaire Marseille, correction rhinoplastie ratée",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-secondaire/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie Secondaire",
+        "description": "Rhinoplastie secondaire à Marseille et Nice avec le Dr Mattia Coda. Révision d'une rhinoplastie insatisfaisante. Analyse morphologique et planification personnalisée. Consultations à Marseille, Nice et Draguignan.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-secondaire/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie Secondaire",
+          "bodyLocation": "Nez"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Combien de temps après ma première rhinoplastie puis-je me faire opérer à nouveau ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Un délai minimum de 12 à 18 mois est recommandé après la première rhinoplastie avant d'envisager une révision. Ce délai est nécessaire pour que les tissus se stabilisent complètement et que le résultat définitif puisse être évalué correctement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie secondaire est-elle plus douloureuse ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les suites opératoires de la rhinoplastie secondaire sont similaires à celles de la rhinoplastie primaire. En revanche, la durée opératoire peut être plus longue (2h30 à 3h), ce qui peut engendrer un œdème légèrement plus important."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien coûte une rhinoplastie secondaire ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Entre 6 000 € et 11 000 € selon la complexité du cas et les gestes nécessaires. Ce tarif supérieur à la rhinoplastie primaire reflète la complexité chirurgicale et la durée opératoire plus longue. Devis personnalisé remis après consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Le Dr Coda peut-il reprendre une rhinoplastie réalisée par un autre chirurgien ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Le Dr Mattia Coda évalue lors de la consultation les possibilités de révision, quelle que soit la technique utilisée lors de la première intervention. Une analyse morphologique complète et l'étude des comptes-rendus opératoires antérieurs sont réalisées."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une rhinoplastie secondaire à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "À l'Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille. Contact : 04 91 12 11 12 ou Doctolib. Consultations également disponibles à Nice (Clinique Saint-François) et Draguignan."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Secondaire",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-secondaire/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Révision · Reprise chirurgicale",
+    "title": "Rhinoplastie Secondaire",
+    "lead": "La rhinoplastie secondaire corrige un résultat insatisfaisant après une première rhinoplastie. Le Dr Mattia Coda évalue les possibilités de révision lors d'une consultation approfondie.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Secondaire",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la rhinoplastie secondaire ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie secondaire</strong> (ou rhinoplastie de révision) est une intervention chirurgicale réalisée après une première rhinoplastie dont le résultat est insatisfaisant, incomplet ou a généré des complications. Elle représente techniquement l'une des chirurgies nasales les plus complexes, en raison des remaniements cicatriciels des tissus opérés lors de la première intervention.</p>\n      <p>Elle se distingue fondamentalement de la <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">rhinoplastie primaire</a> par plusieurs caractéristiques anatomiques : fibrose cicatricielle des plans tissulaires, déficits cartilagineux fréquents (greffons septaux déjà prélevés), contracture cutanée possible et vascularisation remaniée.</p>\n      <p>Le Dr Mattia Coda prend en charge les rhinoplasties secondaires à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>, avec une consultation préalable possible à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Pourquoi réaliser une rhinoplastie secondaire ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"ibox\">\n        <span class=\"ibox-title\">Motifs les plus fréquents</span>\n        <ul class=\"liste\">\n          <li><strong>Résultat esthétique insuffisant</strong> — correction incomplète de la bosse, pointe mal définie, asymétrie résiduelle</li>\n          <li><strong>Toit ouvert résiduel</strong> — écartement des os nasaux visible après réduction d'une gibbosité</li>\n          <li><strong>Nez pincé</strong> — rétraction des narines liée à une résection cartilagineuse excessive</li>\n          <li><strong>Asymétrie post-opératoire</strong> — due à une cicatrisation asymétrique ou à des gestes chirurgicaux inégaux</li>\n          <li><strong>Obstruction nasale post-opératoire</strong> — collapsus valvulaire iatrogène</li>\n          <li><strong>Insatisfaction globale</strong> — résultat non conforme aux objectifs définis avant la première intervention</li>\n        </ul>\n      </div>\n      <div class=\"note-warn\">\n        <strong>Délai recommandé :</strong> Un délai minimum de <strong>12 à 18 mois</strong> après la première rhinoplastie est nécessaire avant d'envisager une révision. Ce délai permet aux tissus de se stabiliser complètement et au résultat définitif d'être évalué.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "complexite",
+      "variant": null,
+      "eyebrow": "Complexité chirurgicale",
+      "title": "Pourquoi la rhinoplastie secondaire est-elle plus complexe ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Trois facteurs rendent la rhinoplastie secondaire techniquement exigeante :</p>\n      <ul class=\"liste\">\n        <li><strong>Fibrose cicatricielle</strong> — les plans tissulaires remaniés par la première intervention sont plus difficiles à disséquer et présentent un risque hémorragique plus élevé</li>\n        <li><strong>Déficits cartilagineux</strong> — le cartilage septal, principale source de greffons, a souvent déjà été utilisé. D'autres sources doivent être envisagées : cartilage auriculaire (conque de l'oreille) ou costal (côte)</li>\n        <li><strong>Contracture cutanée</strong> — la peau nasale peut avoir perdu de son élasticité, limitant les possibilités de repositionnement des structures sous-jacentes</li>\n      </ul>\n      <p>Une analyse morphologique très précise et une planification chirurgicale rigoureuse sont indispensables. Pour les informations détaillées sur les techniques de revision, consultez le <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">guide médical complet →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Rhinoplastie Secondaire",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Combien de temps après ma première rhinoplastie puis-je me faire opérer à nouveau ?",
+              "answer": "Un délai minimum de 12 à 18 mois est recommandé après la première rhinoplastie avant d'envisager une révision. Ce délai est nécessaire pour que les tissus se stabilisent complètement et que le résultat définitif puisse être évalué correctement."
+            },
+            {
+              "question": "La rhinoplastie secondaire est-elle plus douloureuse ?",
+              "answer": "Les suites opératoires de la rhinoplastie secondaire sont similaires à celles de la rhinoplastie primaire. En revanche, la durée opératoire peut être plus longue (2h30 à 3h), ce qui peut engendrer un œdème légèrement plus important."
+            },
+            {
+              "question": "Combien coûte une rhinoplastie secondaire ?",
+              "answer": "Entre 6 000 € et 11 000 € selon la complexité du cas et les gestes nécessaires. Ce tarif supérieur à la rhinoplastie primaire reflète la complexité chirurgicale et la durée opératoire plus longue. Devis personnalisé remis après consultation."
+            },
+            {
+              "question": "Le Dr Coda peut-il reprendre une rhinoplastie réalisée par un autre chirurgien ?",
+              "answer": "Oui. Le Dr Mattia Coda évalue lors de la consultation les possibilités de révision, quelle que soit la technique utilisée lors de la première intervention. Une analyse morphologique complète et l'étude des comptes-rendus opératoires antérieurs sont réalisées."
+            },
+            {
+              "question": "Où consulter pour une rhinoplastie secondaire à Marseille ?",
+              "answer": "À l'Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille. Contact : 04 91 12 11 12 ou Doctolib. Consultations également disponibles à Nice (Clinique Saint-François) et Draguignan."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda évalue votre indication lors d'une consultation à Marseille, Nice ou Draguignan. Un devis personnalisé vous est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000 Nice",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": "<p style=\"font-size:.68rem;color:var(--muted);margin-top:8px;\">Interventions à la Clinique Saint-François</p>"
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres-techniques",
+      "variant": null,
+      "eyebrow": "Techniques associées",
+      "title": "Autres techniques de rhinoplastie",
+      "blocks": [
+        {
+          "type": "note",
+          "variant": "complement",
+          "title": "",
+          "html": "<div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Primaire</h4>\n        <p>Première intervention chirurgicale sur le nez — correction esthétique ou fonctionnelle.</p>\n        <a href=\"/rhinoplastie-primaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Ultrasonique</h4>\n        <p>Remodelage osseux par instruments piézoélectriques — précision maximale, suites légères.</p>\n        <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie de Préservation</h4>\n        <p>Technique Push-Down ou Let-Down — repositionnement sans résection des structures nasales.</p>\n        <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Secondaire</h4>\n        <p>Révision d'une rhinoplastie antérieure — correction d'un résultat insatisfaisant.</p>\n        <a href=\"/rhinoplastie-secondaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Fonctionnelle</h4>\n        <p>Septoplastie et turbinoplastie — correction des anomalies respiratoires.</p>\n        <a href=\"/rhinoplastie-fonctionnelle/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Guide Rhinoplastie Complet</h4>\n        <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie en un seul guide.</p>\n        <a href=\"/rhinoplastie/\">Voir le guide →</a>\n      </div>",
+          "className": "techniques-autres"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Secondaire",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "47b3fcfb8df52e34",
+    "date": "2026-09-18"
+  }
+}

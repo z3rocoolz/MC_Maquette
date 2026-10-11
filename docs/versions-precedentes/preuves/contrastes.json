@@ -1,0 +1,80 @@
+[
+  {
+    "usage": "Texte principal / ivoire",
+    "foreground": "#193b46",
+    "background": "#fbfcf9",
+    "ratio": 11.62
+  },
+  {
+    "usage": "Texte secondaire / ivoire",
+    "foreground": "#4c6970",
+    "background": "#fbfcf9",
+    "ratio": 5.73
+  },
+  {
+    "usage": "Texte secondaire / eau",
+    "foreground": "#4c6970",
+    "background": "#e4f3f2",
+    "ratio": 5.17
+  },
+  {
+    "usage": "Boutons blancs / turquoise",
+    "foreground": "#ffffff",
+    "background": "#096f7b",
+    "ratio": 5.88
+  },
+  {
+    "usage": "Titres turquoise / eau",
+    "foreground": "#096f7b",
+    "background": "#e4f3f2",
+    "ratio": 5.15
+  },
+  {
+    "usage": "Texte clair / bleu pétrole",
+    "foreground": "#f3fbf8",
+    "background": "#155e70",
+    "ratio": 6.96
+  },
+  {
+    "usage": "Accent menthe / bleu pétrole",
+    "foreground": "#bfeae0",
+    "background": "#155e70",
+    "ratio": 5.6
+  },
+  {
+    "usage": "Légende portrait",
+    "foreground": "#ffffff",
+    "background": "#193b46",
+    "ratio": 11.96
+  },
+  {
+    "usage": "Texte secondaire / sable",
+    "foreground": "#4c6970",
+    "background": "#f7eddf",
+    "ratio": 5.09
+  },
+  {
+    "usage": "Focus / ivoire",
+    "foreground": "#a54f20",
+    "background": "#fbfcf9",
+    "ratio": 5.45
+  },
+  {
+    "usage": "Texte principal / extrémité eau du dégradé",
+    "foreground": "#193b46",
+    "background": "#eaf7f4",
+    "ratio": 10.89
+  },
+  {
+    "usage": "Texte secondaire / extrémité eau du dégradé",
+    "foreground": "#4c6970",
+    "background": "#eaf7f4",
+    "ratio": 5.36
+  },
+  {
+    "usage": "Titre accentué / extrémité eau du dégradé",
+    "foreground": "#096f7b",
+    "background": "#eaf7f4",
+    "ratio": 5.35
+  }
+]

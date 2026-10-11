@@ -1,0 +1,103 @@
+{
+  "slug": "rhinoplastie-primaire",
+  "url": "/rhinoplastie-primaire/",
+  "template": "standard",
+  "style": "style-2915072916e2.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "6598e58dc498",
+    "overlay": "dd9d72dc74d3",
+    "menu": "3bc93c016ef5",
+    "footer": "7f772ca686f9"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Une première rhinoplastie | Dr Mattia Coda",
+    "description": "Prendre le temps de comprendre avant une première opération du nez.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Une première rhinoplastie",
+    "lead": "Prendre le temps de comprendre avant une première opération du nez.",
+    "eyebrow": "Votre information"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "Comprendre la demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Une rhinoplastie primaire correspond à une première intervention sur le nez. La consultation met en regard votre demande, la respiration, l’anatomie et les possibilités du geste.</p>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Possibilités et alternatives",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La consultation met en regard votre attente et les constatations de l’examen. Demandez ce qui est possible, ce qui ne l’est pas et quelles autres options existent, y compris ne pas intervenir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Risques, limites et suites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Saignement, infection, troubles de cicatrisation, irrégularités, gêne respiratoire ou résultat insatisfaisant sont notamment à discuter.</p><p>Le calendrier de récupération et les précautions sont individuels. Une technique, un appareil ou une simulation ne garantit pas le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quels changements sont envisageables et lesquels ne le sont pas ?</li><li>Quels risques sont spécifiques à ma situation ?</li><li>Comment se déroulerait le suivi ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "approfondir",
+      "title": "Pour aller plus loin",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"rhinoplastie.html\">Lire les repères complets sur la rhinoplastie</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "3da79d192f77aa7c",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

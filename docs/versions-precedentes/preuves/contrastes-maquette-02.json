@@ -1,0 +1,38 @@
+[
+  {
+    "usage": "Texte principal / blanc",
+    "foreground": "#234e60",
+    "background": "#ffffff",
+    "ratio": 9.01
+  },
+  {
+    "usage": "Texte secondaire / bleu clair",
+    "foreground": "#536976",
+    "background": "#eaf3f6",
+    "ratio": 5.11
+  },
+  {
+    "usage": "Texte secondaire / sable",
+    "foreground": "#536976",
+    "background": "#f7eee4",
+    "ratio": 5.02
+  },
+  {
+    "usage": "Bouton / citron",
+    "foreground": "#234e60",
+    "background": "#ecf3c9",
+    "ratio": 7.82
+  },
+  {
+    "usage": "Texte clair / bleu ardoise",
+    "foreground": "#e4eef2",
+    "background": "#234e60",
+    "ratio": 7.64
+  },
+  {
+    "usage": "Focus / blanc",
+    "foreground": "#a24313",
+    "background": "#ffffff",
+    "ratio": 6.27
+  }
+]

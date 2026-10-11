@@ -1,0 +1,12 @@
+{
+  "_lisezmoi": "Adresses externes centralisées. Les pages d'origine renvoient toutes vers l'accueil de Doctolib : renseigner ici la fiche du praticien remplace les 111 liens d'un coup, au moment du rendu.",
+  "doctolib": {
+    "_aide": "Adresse de la fiche du praticien. Les agendas par ville ne se renseignent que si Doctolib en expose un par cabinet (paramètre pid= dans l'adresse).",
+    "fiche": "https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda",
+    "parVille": {
+      "Marseille": null,
+      "Nice": null,
+      "Draguignan": null
+    }
+  }
+}

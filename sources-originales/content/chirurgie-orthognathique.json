@@ -1,0 +1,416 @@
+{
+  "slug": "chirurgie-orthognathique",
+  "url": "/chirurgie-orthognathique/",
+  "template": "standard",
+  "style": "style-c66c1b4d32fd.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "ac0ac766e836",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "780bdda71f55"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Chirurgie Orthognathique Marseille Nice – Dr Mattia Coda",
+    "description": "Chirurgie orthognathique à Marseille, Nice et Draguignan avec le Dr Mattia Coda, chirurgien maxillo-facial. Correction des mâchoires et de l'occlusion dentaire.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/chirurgie-orthognathique/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Chirurgie Orthognathique Marseille Nice",
+        "description": "Chirurgie orthognathique à Marseille, Nice et Draguignan avec le Dr Mattia Coda, chirurgien maxillo-facial.",
+        "url": "https://www.drmattiacoda.fr/chirurgie-orthognathique/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Chirurgie Orthognathique",
+            "item": "https://www.drmattiacoda.fr/chirurgie-orthognathique/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie Maxillo-Faciale · Fonctionnel & Esthétique",
+    "title": "Chirurgie Orthognathique",
+    "lead": "Correction chirurgicale des mâchoires et de l'occlusion dentaire, en collaboration avec l'orthodontiste. Consultations à Marseille, Nice et Draguignan — interventions à Marseille.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Le Chirurgien",
+        "href": "/dr-mattia-coda/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Chirurgie Orthognathique",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Chirurgie maxillo-faciale",
+      "title": "Qu'est-ce que la chirurgie orthognathique ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>chirurgie orthognathique</strong> regroupe les interventions visant à repositionner le maxillaire supérieur et/ou la mandibule afin de corriger une malocclusion dentaire et une disharmonie du profil facial. Elle intervient lorsque le décalage entre les mâchoires est trop important pour être corrigé par l'orthodontie seule.</p>\n      <p>Cette chirurgie est toujours menée en <strong>binôme avec l'orthodontiste</strong> : un traitement orthodontique préchirurgical prépare l'alignement des arcades dentaires, la chirurgie repositionne les bases osseuses, puis un traitement orthodontique post-opératoire finalise l'occlusion.</p>\n      <div class=\"note-med\">\n        <strong>Remboursement Sécurité Sociale :</strong> La chirurgie orthognathique est prise en charge par l'Assurance maladie pour sa composante fonctionnelle documentée (malocclusion squelettique, troubles de la mastication ou de la ventilation). Les modalités précises sont indiquées lors de la consultation. RPPS 10100805174.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Quand opérer ?",
+      "title": "Indications de la chirurgie orthognathique",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'indication est posée conjointement par le chirurgien maxillo-facial et l'orthodontiste, après un bilan complet incluant téléradiographie de profil et analyse céphalométrique.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Principales indications</span>\n        <ul class=\"liste\">\n          <li><strong>Classe II (rétrognathie mandibulaire)</strong> — menton en retrait, souvent associé à une ventilation buccale ou un syndrome d'apnées du sommeil</li>\n          <li><strong>Classe III (prognathisme mandibulaire)</strong> — mâchoire inférieure trop avancée, articulé inversé</li>\n          <li><strong>Béance</strong> — absence de contact entre les dents du haut et du bas en position de fermeture</li>\n          <li><strong>Asymétrie faciale</strong> — décalage latéral d'une ou des deux mâchoires</li>\n          <li><strong>Excès ou insuffisance verticale du maxillaire</strong> — sourire gingival marqué ou visage trop court</li>\n          <li><strong>Syndrome d'apnées obstructives du sommeil</strong> — sur indication d'avancée maxillo-mandibulaire</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Techniques chirurgicales",
+      "title": "Ostéotomies maxillaires et mandibulaires",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le choix des ostéotomies dépend du type et de l'importance du décalage, déterminés lors de l'analyse céphalométrique préopératoire.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Principales interventions</span>\n        <ul class=\"liste\">\n          <li><strong>Ostéotomie de Le Fort I</strong> — section et repositionnement du maxillaire supérieur, dans les trois plans de l'espace</li>\n          <li><strong>Ostéotomie sagittale des branches montantes (BSSO)</strong> — section et repositionnement de la mandibule, technique de référence pour l'avancée ou le recul mandibulaire</li>\n          <li><strong>Génioplastie</strong> — repositionnement du menton, souvent associée pour parfaire l'harmonie du profil</li>\n          <li><strong>Chirurgie bimaxillaire</strong> — repositionnement simultané du maxillaire et de la mandibule pour les décalages importants ou les asymétries complexes</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "intervention",
+      "variant": null,
+      "eyebrow": "Déroulement",
+      "title": "Comment se déroule l'intervention ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'intervention est réalisée sous <strong>anesthésie générale</strong>, par voie exclusivement intra-buccale — sans cicatrice visible sur le visage. Elle nécessite une hospitalisation de <strong>2 à 4 jours</strong> selon l'importance du geste et le nombre de mâchoires traitées.</p>\n      <p>La durée opératoire varie de <strong>2h à 4h30</strong> : environ 2h pour une ostéotomie mandibulaire isolée, jusqu'à 4h pour une chirurgie bimaxillaire avec génioplastie associée. Les segments osseux repositionnés sont fixés par des plaques et vis en titane ou résorbables.</p>\n      <div class=\"note-warn\">\n        <strong>Bilan préopératoire :</strong> Téléradiographie de profil, orthopantomogramme, analyse céphalométrique, photographies et empreintes dentaires sont indispensables. La chirurgie n'intervient qu'après validation de l'alignement dentaire par l'orthodontiste — hors cas de chirurgie orthognathique dite « en un temps » sans préparation orthodontique préalable.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "Suites opératoires",
+      "title": "Convalescence après chirurgie orthognathique",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les suites sont plus marquées que pour la plupart des interventions maxillo-faciales, en raison de l'œdème facial et de la modification transitoire de l'alimentation.</p>\n      <ul class=\"liste\">\n        <li><strong>J0 à J5</strong> — Œdème facial important, maximal à J2-J3. Alimentation mixée puis molle. Hospitalisation les premiers jours.</li>\n        <li><strong>J7 à J15</strong> — Résorption progressive de l'œdème. Reprise d'une alimentation semi-solide. Arrêt de travail habituel de 2 à 3 semaines.</li>\n        <li><strong>1 à 2 mois</strong> — Reprise de l'alimentation normale. Suivi conjoint avec l'orthodontiste pour la finition de l'occlusion.</li>\n        <li><strong>6 à 12 mois</strong> — Stabilisation osseuse complète et résultat définitif du profil facial.</li>\n      </ul>\n      <div class=\"note-med\">\n        <strong>Sensibilité :</strong> Une hypoesthésie transitoire de la lèvre inférieure et du menton est fréquente après ostéotomie mandibulaire, liée à la proximité du nerf alvéolaire inférieur. Elle régresse le plus souvent en quelques semaines à quelques mois.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consultation à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La consultation initiale comprend l'examen clinique, l'analyse de l'occlusion et des documents orthodontiques, ainsi que la coordination avec l'orthodontiste traitant pour établir le calendrier du traitement combiné.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations + Interventions</span>",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations</span>",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations</span>",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Chirurgie Orthognathique",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La chirurgie orthognathique est-elle remboursée ?",
+              "answer": "Oui, pour sa composante fonctionnelle documentée — malocclusion squelettique, troubles de la mastication ou de la ventilation. La prise en charge par l'Assurance maladie et les modalités exactes sont précisées lors de la consultation. RPPS 10100805174."
+            },
+            {
+              "question": "Faut-il obligatoirement un traitement orthodontique avant la chirurgie ?",
+              "answer": "Dans la grande majorité des cas, oui. L'orthodontie préchirurgicale aligne les arcades dentaires sur chaque mâchoire séparément, pour que l'occlusion finale soit correcte une fois les bases osseuses repositionnées. Certains cas limités peuvent relever d'une chirurgie « en un temps » sans préparation orthodontique longue, à évaluer au cas par cas."
+            },
+            {
+              "question": "Combien de temps dure l'ensemble du traitement ?",
+              "answer": "Le traitement combiné orthodontie-chirurgie s'étend généralement sur 18 à 24 mois : 12 à 18 mois d'orthodontie préchirurgicale, l'intervention, puis 6 à 12 mois d'orthodontie de finition et de stabilisation."
+            },
+            {
+              "question": "Combien de temps d'arrêt de travail après l'intervention ?",
+              "answer": "En moyenne 2 à 3 semaines, selon l'importance du geste (mono ou bimaxillaire) et la nature de l'activité professionnelle. Une reprise plus précoce est possible pour un travail sédentaire sans contact avec le public dès la résorption de l'œdème le plus visible."
+            },
+            {
+              "question": "La chirurgie orthognathique modifie-t-elle l'apparence du visage ?",
+              "answer": "Oui, le repositionnement des bases osseuses modifie le profil et l'équilibre du visage — c'est d'ailleurs un objectif recherché en complément de la correction fonctionnelle. L'ampleur du changement est discutée et simulée lors de la planification préopératoire avec l'orthodontiste et le chirurgien."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Voir aussi",
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null,
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Dents de Sagesse",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/dents-de-sagesse/",
+              "html": "<div class=\"page-card-icon\">🦷</div>\n        <div>\n          \n          <p>Extraction des dents de sagesse, incluses ou non — indications et suites.</p>\n          <a href=\"/dents-de-sagesse/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Le Dr Mattia Coda",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/dr-mattia-coda/",
+              "html": "<div class=\"page-card-icon\">👨‍⚕️</div>\n        <div>\n          \n          <p>Chirurgien maxillo-facial — parcours, expertise, consultation trilingue.</p>\n          <a href=\"/dr-mattia-coda/\">Découvrir →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Avant / Après",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/avant-apres/",
+              "html": "<div class=\"page-card-icon\">📸</div>\n        <div>\n          \n          <p>Résultats concrets présentés avec l'accord de chaque patient.</p>\n          <a href=\"/avant-apres/\">Voir les résultats →</a>\n        </div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial",
+      "title": "Consultation chirurgie orthognathique<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Examen clinique, analyse de l'occlusion et coordination avec votre orthodontiste lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "1d33554b1229c9cd",
+    "date": "2026-09-18"
+  }
+}

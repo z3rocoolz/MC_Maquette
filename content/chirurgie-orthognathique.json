@@ -1,0 +1,123 @@
+{
+  "slug": "chirurgie-orthognathique",
+  "url": "/chirurgie-orthognathique/",
+  "template": "standard",
+  "style": "style-c66c1b4d32fd.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "ac0ac766e836",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "780bdda71f55"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Chirurgie des mâchoires : comprendre le parcours. | Dr Mattia Coda",
+    "description": "Un projet qui articule la position des mâchoires, l’occlusion dentaire et les dimensions fonctionnelles et esthétiques.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Chirurgie des mâchoires : comprendre le parcours.",
+    "lead": "Un projet qui articule la position des mâchoires, l’occlusion dentaire et les dimensions fonctionnelles et esthétiques.",
+    "eyebrow": "Repères sur l’intervention"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "retenir",
+      "title": "L’essentiel, en quelques repères",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>La chirurgie orthognathique concerne la position des mâchoires.</li><li>Elle s’inscrit souvent dans un parcours coordonné avec l’orthodontiste.</li><li>L’effet sur le visage et les contraintes de récupération se discutent avant toute décision.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Pourquoi consulter ? Quelles alternatives ?",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Un décalage des mâchoires ou une gêne liée à l’occlusion peut conduire à un bilan. L’examen et les documents dentaires aident à discuter la place de l’orthodontie, de la chirurgie ou d’autres options adaptées à votre situation.</p>"
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "title": "Un projet coordonné",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Selon le bilan, le geste concerne la mâchoire supérieure, inférieure ou les deux. Des déplacements osseux sont planifiés puis stabilisés. L’orthodontie peut intervenir avant et après l’opération ; le calendrier est expliqué conjointement.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Les risques et les limites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les risques comprennent notamment saignement, infection, modification de la sensibilité, problème de consolidation ou évolution défavorable de l’occlusion. La sensibilité des lèvres ou de la langue peut être affectée, parfois durablement. Les risques précis dépendent des gestes retenus.</p>"
+        }
+      ]
+    },
+    {
+      "id": "suites",
+      "title": "Manger, parler et reprendre ses activités",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le gonflement, l’ouverture de bouche et l’alimentation nécessitent une organisation. L’équipe précise les textures adaptées, l’hygiène, les contrôles et la progression des activités. Préparez vos contraintes professionnelles et personnelles avec elle.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quelle part du traitement relève de l’orthodontie ?</li><li>Quels changements de fonction et de visage faut-il anticiper ?</li><li>Comment organiser les repas, le suivi et la reprise du travail ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.sfscmfco.com/fiches-information/osteotomie-des-maxillaires/\">SFSCMFCO · Ostéotomie des maxillaires</a></li><li><a href=\"https://www.sfscmfco.com/fiches-information/osteotomie-mandibulaire/\">SFSCMFCO · Ostéotomie mandibulaire</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "1d33554b1229c9cd",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

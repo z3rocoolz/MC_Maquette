@@ -1,0 +1,16 @@
+node_modules/
+*.log
+.DS_Store
+dist/
+.env
+admin/.auth.json
+admin/.sessions.json
+content/.versions/
+qa/reports/
+qa/test-results/
+qa/.lighthouseci/
+
+# Contenus cliniques privés et fichiers locaux : ne pas déposer sur GitHub.
+medias/avant-apres-*
+medias/.avant-apres.json
+# Ne pas versionner de documents patients dans assets/uploads/.

@@ -1,0 +1,26 @@
+[
+  {
+    "page": "index.html",
+    "language": "fr",
+    "h1": 1,
+    "uniqueIds": true,
+    "localLinks": true,
+    "structuredData": true
+  },
+  {
+    "page": "version-01.html",
+    "language": "fr",
+    "h1": 1,
+    "uniqueIds": true,
+    "localLinks": true,
+    "structuredData": true
+  },
+  {
+    "page": "informations.html",
+    "language": "fr",
+    "h1": 1,
+    "uniqueIds": true,
+    "localLinks": true,
+    "structuredData": true
+  }
+]

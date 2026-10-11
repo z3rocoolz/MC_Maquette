@@ -1,0 +1,476 @@
+{
+  "slug": "feminisation-faciale",
+  "url": "/feminisation-faciale/",
+  "template": "standard",
+  "style": "style-5b0c4b190412.css",
+  "scripts": [
+    "script-e5101a43df57.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "d17a86d03277",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "79c4a8fa686a"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Féminisation Faciale (FFS) | Dr Mattia Coda",
+    "description": "Féminisation faciale (FFS) à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Rhinoplastie, génioplastie, contouring mandibulaire.",
+    "keywords": "féminisation faciale, FFS Marseille, Facial Feminization Surgery France, rhinoplastie féminisation, génioplastie féminisation, chirurgie transgenre Marseille, féminisation visage Nice",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/feminisation-faciale/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Féminisation Faciale (FFS) – Dr Mattia Coda, Chirurgien Maxillo-Facial",
+        "description": "Féminisation faciale (FFS) à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Rhinoplastie, génioplastie, contouring mandibulaire. Approche personnalisée et bienveillante. Prise de RDV sur Doctolib.",
+        "url": "https://www.drmattiacoda.fr/feminisation-faciale/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Féminisation Faciale",
+          "bodyLocation": "Visage"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "La féminisation faciale s'adresse-t-elle uniquement aux personnes transgenres ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Non. La chirurgie de féminisation faciale s'adresse à toute personne souhaitant obtenir des traits plus doux et harmonieux — femmes transgenres en parcours de transition, hommes cisgenres souhaitant adoucir leurs traits, ou femmes cisgenres présentant des traits perçus comme trop anguleux. Chaque projet est évalué individuellement."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelles sont les interventions les plus fréquentes dans une FFS ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les interventions les plus fréquentes sont la rhinoplastie de féminisation, la génioplastie (correction du menton), le contouring mandibulaire (adoucissement des angles de la mâchoire) et le lipofilling du visage. Elles peuvent être réalisées seules ou combinées selon l'indication."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Pourquoi choisir un chirurgien maxillo-facial pour une FFS ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le chirurgien maxillo-facial est le spécialiste de référence pour la chirurgie du squelette facial — os, mâchoires, menton. Les gestes les plus efficaces en FFS (génioplastie osseuse, contouring mandibulaire, rhinoplastie) sont précisément les domaines de prédilection de cette spécialité. Le Dr Coda pratique ces interventions quotidiennement dans d'autres contextes (chirurgie orthognathique, reconstruction)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La féminisation faciale peut-elle être prise en charge par la Sécurité Sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Certaines interventions dans le cadre d'un parcours de transition validé peuvent bénéficier d'une prise en charge via l'ALD selon les conditions du parcours médical individuel. La composante fonctionnelle nasale (septoplastie associée à la rhinoplastie) peut également faire l'objet d'un remboursement si une obstruction respiratoire est documentée. Le Dr Coda évalue ces possibilités lors de la consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on combiner plusieurs interventions FFS dans le même temps opératoire ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, selon l'indication et l'état général du patient. L'association rhinoplastie + génioplastie (profiloplastie) est fréquente. D'autres gestes peuvent être ajoutés selon le plan chirurgical défini lors de la consultation. Combiner plusieurs interventions réduit le nombre d'anesthésies et les périodes de convalescence."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une féminisation faciale à Marseille ou Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le Dr Mattia Coda reçoit en consultation à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12) et à Nice (Cabinet Médical, 4 Av. Georges Clemenceau, 06 42 76 26 12). Les interventions sont réalisées à Marseille et à Nice. Prise de rendez-vous sur Doctolib."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Féminisation Faciale",
+            "item": "https://www.drmattiacoda.fr/feminisation-faciale/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "FFS · Facial Feminization Surgery",
+    "title": "Féminisation Faciale",
+    "lead": "La féminisation faciale (FFS) regroupe les interventions chirurgicales visant à adoucir et harmoniser les traits du visage. Le Dr Mattia Coda, chirurgien maxillo-facial, pratique la rhinoplastie, la génioplastie et le contouring mandibulaire à Marseille et Nice.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Féminisation Faciale",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la féminisation faciale ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>féminisation faciale</strong> (FFS — <em>Facial Feminization Surgery</em>) regroupe l'ensemble des interventions chirurgicales visant à adoucir les traits du visage et à les harmoniser selon des proportions perçues comme plus féminines. Elle s'adresse aux femmes transgenres dans le cadre d'un parcours de transition, mais aussi à toute personne — homme ou femme cisgenre — souhaitant obtenir des traits plus doux et plus harmonieux.</p>\n      <p>En tant que <strong>chirurgien maxillo-facial</strong>, le Dr Mattia Coda est spécialement formé à la chirurgie du squelette facial — os, mâchoires, menton, pommettes. Cette formation lui confère une expertise directe sur les structures qui définissent le caractère masculin ou féminin du visage, là où un chirurgien plasticien agit principalement sur les tissus mous.</p>\n      <p>Le Dr Coda reçoit en consultation à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>. Les interventions sont réalisées à l'Hôpital Privé Beauregard de Marseille et à la Clinique Saint-François de Nice.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "differences",
+      "variant": null,
+      "eyebrow": "Anatomie",
+      "title": "Visage masculin vs visage féminin — les différences clés",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les différences entre un visage masculin et féminin sont principalement d'origine osseuse et volumétrique. Elles concernent plusieurs zones du visage :</p>\n      <div class=\"deux-col\">\n        <div class=\"col-card\">\n          <h4>Traits masculins typiques</h4>\n          <p>Front plus haut et plus vertical avec bosses frontales proéminentes. Arcades sourcilières plus marquées. Nez plus large et plus projeté. Mâchoire plus carrée et plus anguleuse. Menton plus large et plus projeté. Pomme d'Adam visible.</p>\n        </div>\n        <div class=\"col-card\">\n          <h4>Objectifs de la féminisation</h4>\n          <p>Adoucissement du front et des arcades sourcilières. Affinement du nez (rhinoplastie de féminisation). Réduction ou adoucissement des angles mandibulaires. Correction du menton (génioplastie de féminisation). Harmonisation globale des volumes.</p>\n        </div>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "interventions",
+      "variant": null,
+      "eyebrow": "Gestes chirurgicaux",
+      "title": "Les interventions pratiquées par le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<h3>Rhinoplastie de féminisation</h3>\n      <p>La rhinoplastie est l'un des gestes les plus fréquents dans la FFS. Elle vise à affiner le nez, adoucir le profil, réduire une largeur excessive et harmoniser la pointe nasale avec l'ensemble du visage. Les techniques <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">ultrasonique</a> et de <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">préservation</a> sont particulièrement adaptées car elles permettent une sculpture précise avec un résultat naturel.</p>\n\n      <h3>Génioplastie de féminisation</h3>\n      <p>Réduction, arrondi ou correction de la projection du menton pour obtenir une forme plus ovale et moins anguleuse. Réalisée par voie intrabuccale (pas de cicatrice visible), par ostéotomie directe de la symphyse mentonnière. La <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a> — association rhinoplastie et génioplastie — est souvent proposée dans ce contexte.</p>\n\n      <h3>Contouring mandibulaire</h3>\n      <p>Réduction des angles de la mâchoire pour adoucir la ligne de mâchoire et obtenir un contour facial plus ovale. Intervention réalisée par voie intrabuccale, sans cicatrice visible. Domaine de prédilection du chirurgien maxillo-facial.</p>\n\n      <h3>Autres gestes associés possibles</h3>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Interventions pouvant être associées</span>\n        <ul class=\"liste\">\n          <li><strong>Blépharoplastie</strong> — chirurgie des paupières pour ouvrir le regard</li>\n          <li><strong>Lipofilling du visage</strong> — injection de graisse autologue pour féminiser les volumes (pommettes, tempes)</li>\n          <li><strong>Lifting de la lèvre supérieure (lip lift)</strong> — réduction de la distance entre le nez et la lèvre</li>\n          <li><strong>Réduction de la pomme d'Adam (chondrolaryngoplastie)</strong> — sur indication et après évaluation spécifique</li>\n        </ul>\n      </div>\n\n      <div class=\"note-med\">\n        <strong>Approche personnalisée :</strong> Il n'existe pas de protocole FFS standard. Chaque plan chirurgical est établi individuellement lors d'une consultation approfondie, en fonction de l'anatomie, des priorités et des attentes de chaque patient. Le Dr Coda peut réaliser un ou plusieurs gestes dans le même temps opératoire selon l'indication.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "parcours",
+      "variant": null,
+      "eyebrow": "Parcours patient",
+      "title": "Consultation et prise en charge",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La consultation de féminisation faciale est un entretien approfondi permettant d'évaluer les zones de dysharmonie, de définir les priorités chirurgicales et de visualiser les modifications envisageables par simulation numérique.</p>\n      <p>Le Dr Coda aborde chaque consultation avec bienveillance et sans jugement. L'objectif est de co-construire un projet chirurgical réaliste, adapté à l'anatomie de chaque patient, dans le respect de ses attentes et de son rythme.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Informations pratiques</span>\n        <ul class=\"liste\">\n          <li>Délai légal de réflexion : 15 jours entre la première consultation et l'intervention</li>\n          <li>Devis détaillé remis après consultation</li>\n          <li>Possibilité de prise en charge partielle par l'Assurance maladie pour la composante fonctionnelle nasale (septoplastie)</li>\n          <li>Accompagnement post-opératoire inclus à Marseille, Nice et Draguignan</li>\n        </ul>\n      </div>\n      <div class=\"note-warn\">\n        <strong>Note :</strong> Certaines interventions dans le cadre d'un parcours de transition peuvent bénéficier d'une prise en charge par l'Assurance maladie via l'ALD (Affection Longue Durée) selon les conditions du parcours médical individuel. Le Dr Coda évalue cette possibilité lors de la consultation.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Féminisation Faciale",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La féminisation faciale s'adresse-t-elle uniquement aux personnes transgenres ?",
+              "answer": "Non. La chirurgie de féminisation faciale s'adresse à toute personne souhaitant obtenir des traits plus doux et harmonieux — femmes transgenres en parcours de transition, hommes cisgenres souhaitant adoucir leurs traits, ou femmes cisgenres présentant des traits perçus comme trop anguleux. Chaque projet est évalué individuellement."
+            },
+            {
+              "question": "Quelles sont les interventions les plus fréquentes dans une FFS ?",
+              "answer": "Les interventions les plus fréquentes sont la rhinoplastie de féminisation, la génioplastie (correction du menton), le contouring mandibulaire (adoucissement des angles de la mâchoire) et le lipofilling du visage. Elles peuvent être réalisées seules ou combinées selon l'indication."
+            },
+            {
+              "question": "Pourquoi choisir un chirurgien maxillo-facial pour une FFS ?",
+              "answer": "Le chirurgien maxillo-facial est le spécialiste de référence pour la chirurgie du squelette facial — os, mâchoires, menton. Les gestes les plus efficaces en FFS (génioplastie osseuse, contouring mandibulaire, rhinoplastie) sont précisément les domaines de prédilection de cette spécialité. Le Dr Coda pratique ces interventions quotidiennement dans d'autres contextes (chirurgie orthognathique, reconstruction)."
+            },
+            {
+              "question": "La féminisation faciale peut-elle être prise en charge par la Sécurité Sociale ?",
+              "answer": "Certaines interventions dans le cadre d'un parcours de transition validé peuvent bénéficier d'une prise en charge via l'ALD selon les conditions du parcours médical individuel. La composante fonctionnelle nasale (septoplastie associée à la rhinoplastie) peut également faire l'objet d'un remboursement si une obstruction respiratoire est documentée. Le Dr Coda évalue ces possibilités lors de la consultation."
+            },
+            {
+              "question": "Peut-on combiner plusieurs interventions FFS dans le même temps opératoire ?",
+              "answer": "Oui, selon l'indication et l'état général du patient. L'association rhinoplastie + génioplastie (profiloplastie) est fréquente. D'autres gestes peuvent être ajoutés selon le plan chirurgical défini lors de la consultation. Combiner plusieurs interventions réduit le nombre d'anesthésies et les périodes de convalescence."
+            },
+            {
+              "question": "Où consulter pour une féminisation faciale à Marseille ou Nice ?",
+              "answer": "Le Dr Mattia Coda reçoit en consultation à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12) et à Nice (Cabinet Médical, 4 Av. Georges Clemenceau, 06 42 76 26 12). Les interventions sont réalisées à Marseille et à Nice. Prise de rendez-vous sur Doctolib."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda, chirurgien maxillo-facial, reçoit en consultation à Marseille, Nice et Draguignan. Un devis personnalisé est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Interventions associées",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Guide Rhinoplastie Complet",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">👃</div>\n        <div>\n          \n          <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie.</p>\n          <a href=\"/rhinoplastie/\">Voir le guide →</a>\n        </div>",
+              "link": "/rhinoplastie/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie Ultrasonique",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">⚡</div>\n        <div>\n          \n          <p>Technique piézoélectrique — précision maximale, suites allégées.</p>\n          <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-ultrasonique/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie de Préservation",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">🔄</div>\n        <div>\n          \n          <p>Push-Down, Let-Down — résultat naturel sans résection.</p>\n          <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-preservation/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Profiloplastie",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">✨</div>\n        <div>\n          \n          <p>Rhinoplastie et génioplastie — harmonie complète du profil.</p>\n          <a href=\"/profiloplastie/\">En savoir plus →</a>\n        </div>",
+              "link": "/profiloplastie/"
+            }
+          ],
+          "className": "pages-liees"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Féminisation Faciale",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "35f97266eca88009",
+    "date": "2026-09-18"
+  }
+}

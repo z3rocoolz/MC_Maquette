@@ -1,0 +1,444 @@
+{
+  "slug": "lifting-cervico-facial",
+  "url": "/lifting-cervico-facial/",
+  "template": "standard",
+  "style": "style-fdbf75cc48a4.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "c6a673f1fa33",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "39e3aedf3c75"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Lifting Cervico-Facial Marseille Nice – Dr Mattia Coda",
+    "description": "Lifting cervico-facial à Marseille, Nice et Draguignan avec le Dr Mattia Coda. Technique Deep Plane, dissection SMAS, résultat naturel et durable.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/lifting-cervico-facial/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Lifting Cervico-Facial Marseille Nice Draguignan",
+        "description": "Lifting cervico-facial à Marseille, Nice et Draguignan avec le Dr Mattia Coda, chirurgien maxillo-facial. Deep Plane, SMAS.",
+        "url": "https://www.drmattiacoda.fr/lifting-cervico-facial/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lifting Cervico-Facial",
+            "item": "https://www.drmattiacoda.fr/lifting-cervico-facial/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie du Visage · Rajeunissement",
+    "title": "Lifting Cervico-Facial",
+    "lead": "Deep Plane, dissection du SMAS, mini-lifting. Un rajeunissement naturel du visage et du cou, adapté à chaque anatomie. Consultations à Marseille, Nice et Draguignan.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Le Chirurgien",
+        "href": "/dr-mattia-coda/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Lifting Cervico-Facial",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que le lifting cervico-facial ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le <strong>lifting cervico-facial</strong> est l'intervention chirurgicale de référence pour corriger le relâchement cutané et musculaire du visage et du cou lié au vieillissement. Il agit sur les structures profondes — peau, tissu adipeux et plan musculo-aponévrotique (SMAS) — pour restaurer l'ovale du visage, atténuer les bajoues, redéfinir l'angle cervico-mentonnier et traiter le relâchement du cou.</p>\n      <p>Contrairement aux techniques superficielles qui ne traitent que la peau, le lifting cervico-facial travaille en profondeur sur le <strong>SMAS</strong> (Système Musculo-Aponévrotique Superficiel), ce qui permet d'obtenir un résultat durable et naturel sans tension excessive sur la peau.</p>\n      <div class=\"note-med\">\n        <strong>Formation maxillo-faciale :</strong> La chirurgie maxillo-faciale forme à l'anatomie complète du visage — os, muscles, nerfs faciaux, vaisseaux. Cette maîtrise anatomique approfondie est particulièrement précieuse pour le lifting, où la connaissance précise des structures musculaires et nerveuses conditionne directement la sécurité et la qualité du résultat.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Approche chirurgicale",
+      "title": "Lifting cervico-facial — Deep Plane avec dissection du SMAS",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le lifting cervico-facial repose sur la dissection et le repositionnement du <strong>SMAS</strong> — le Système Musculo-Aponévrotique Superficiel, plan profond situé sous la peau et la graisse sous-cutanée. C'est en agissant sur ce plan profond, et non sur la peau seule, que l'on obtient un résultat naturel et durable sans effet \"tiré\".</p>\n      <p>La technique du <strong>Deep Plane</strong> consiste à libérer les ligaments de rétention du visage — ligaments zygomatiques, mandibulaires — pour repositionner l'ensemble des structures dans leur vecteur anatomique naturel, vers le haut et l'arrière. La peau est ensuite redrapée sans tension, ce qui préserve les expressions naturelles du visage.</p>\n      <p>Le geste porte simultanément sur le <strong>visage et le cou</strong>. La composante cervicale traite le relâchement du cou, l'angle cervico-mentonnier et, si nécessaire, le muscle platysma responsable des bandes verticales cervicales.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Ce que traite le lifting cervico-facial</span>\n        <ul class=\"liste\">\n          <li>Relâchement du bas du visage — bajoues, ovale flou, affaissement des joues</li>\n          <li>Relâchement du cou — peau lâche, bandes platysma, angle cervico-mentonnier</li>\n          <li>Sillons naso-géniens marqués</li>\n          <li>Perte de définition de la mâchoire</li>\n        </ul>\n      </div>\n      <p>La durée opératoire varie entre <strong>1h45 et 3h</strong> selon l'étendue du geste — visage seul, cou associé, ou gestes complémentaires. L'intervention est réalisée sous anesthésie générale.</p>\n      <div class=\"note-med\">\n        <strong>Association possible :</strong> Le lifting cervico-facial peut être associé dans le même temps opératoire à un mid-face lift (région des pommettes), une blépharoplastie (paupières) ou un lipofilling. Ces associations sont évaluées lors de la consultation morphologique selon les besoins individuels.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "cicatrices",
+      "variant": null,
+      "eyebrow": "Incisions et cicatrices",
+      "title": "Où se situent les cicatrices ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les incisions sont placées dans des zones anatomiquement discrètes — devant et derrière l'oreille, dans le sillon rétro-auriculaire et dans les cheveux au niveau des tempes. Ces cicatrices sont soigneusement planifiées pour être invisibles dans les situations de la vie courante.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Localisation des incisions</span>\n        <ul class=\"liste\">\n          <li>Tempes — dans le cuir chevelu, invisible dès les premières semaines</li>\n          <li>Devant de l'oreille — dans le sillon pré-auriculaire, épousant les contours naturels</li>\n          <li>Derrière l'oreille — dans le sillon rétro-auriculaire</li>\n          <li>Nuque — dans les cheveux, invisible</li>\n        </ul>\n      </div>\n      <p>La cicatrisation évolue sur 6 à 12 mois. Une protection solaire SPF50+ est recommandée pendant les 6 premiers mois.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "Suites opératoires",
+      "title": "Convalescence et récupération",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La convalescence après un lifting cervico-facial suit une progression prévisible. Les délais ci-dessous sont indicatifs — ils varient selon la technique utilisée, l'âge du patient et sa réactivité inflammatoire individuelle.</p>"
+            },
+            {
+              "type": "chrono",
+              "items": [
+                {
+                  "badge": "J+1 à J+3",
+                  "html": "Œdème et ecchymoses au maximum. Pansement ou bandage léger. Repos strict, tête surélevée. Douleurs légères à modérées, traitées par antalgiques simples."
+                },
+                {
+                  "badge": "J+8 à J+10",
+                  "html": "Ablation des fils ou agrafes. Nette amélioration de l'œdème. Les ecchymoses commencent à s'estomper. Le visage reprend progressivement ses contours."
+                },
+                {
+                  "badge": "J+10 à J+15",
+                  "html": "Reprise possible des activités sociales et professionnelles légères (travail de bureau). La majorité des patients sont présentables à 12-15 jours."
+                },
+                {
+                  "badge": "3 à 4 semaines",
+                  "html": "Retour à une vie sociale normale. L'œdème résiduel continue de se résorber. Les premiers résultats se dessinent clairement."
+                },
+                {
+                  "badge": "6 semaines",
+                  "html": "Reprise du sport et des activités physiques modérées. Les sports de contact attendent 2 à 3 mois."
+                },
+                {
+                  "badge": "6 à 12 mois",
+                  "html": "Résultat définitif. Les cicatrices sont matures et les tissus pleinement stabilisés dans leur nouvelle position."
+                }
+              ],
+              "className": "chrono"
+            },
+            {
+              "type": "note",
+              "variant": "avertissement",
+              "title": "",
+              "html": "<strong>Tabac :</strong> Le tabac multiplie significativement le risque de complications cicatricielles et de nécrose cutanée. Un arrêt minimum de 3 semaines avant et après l'intervention est impératif.",
+              "className": "note-warn"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Consultation préopératoire",
+      "title": "La consultation de lifting à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La consultation préopératoire est un temps essentiel. Elle permet d'analyser précisément les zones à traiter — relâchement du bas du visage, bajoues, cou, angle cervico-mentonnier — et de déterminer la technique la plus adaptée à l'anatomie et aux attentes du patient.</p>\n<p>Un devis détaillé est remis lors de la consultation, conformément à la réglementation française sur la chirurgie esthétique. Le délai légal de réflexion de <strong>15 jours minimum</strong> est respecté entre la première consultation et l'intervention.</p>\n<p>Les consultations se tiennent en <strong>français, italien et anglais</strong> selon la préférence du patient.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations + Interventions</span>",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations — Interventions à la Clinique Saint-François</span>",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations</span>",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Lifting Cervico-Facial",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "À partir de quel âge peut-on envisager un lifting ?",
+              "answer": "Il n'existe pas d'âge précis — l'indication dépend du degré de relâchement cutané et des objectifs du patient. Un mini-lifting peut être pertinent dès 40-45 ans pour des relâchements débutants, tandis qu'un Deep Plane est généralement indiqué à partir de 50-55 ans pour des relâchements plus marqués. La consultation permet d'évaluer l'indication et de proposer la technique adaptée."
+            },
+            {
+              "question": "Quelle est la différence entre le Deep Plane et le mini-lifting ?",
+              "answer": "Le Deep Plane est une technique plus complète qui décolle les structures sous le SMAS — résultat plus profond, plus durable, indiqué pour les relâchements importants. Le mini-lifting est une technique moins invasive avec des incisions plus courtes et une convalescence réduite, indiquée pour les relâchements débutants à modérés. Le choix est déterminé lors de la consultation morphologique."
+            },
+            {
+              "question": "Combien de temps dure le résultat d'un lifting ?",
+              "answer": "Le résultat d'un lifting cervico-facial dure généralement entre 7 et 12 ans selon la technique utilisée, la qualité de la peau et le mode de vie du patient. Le Deep Plane donne les résultats les plus durables. Le vieillissement continue après l'intervention, mais le patient conserve toujours un avantage esthétique par rapport à ce qu'aurait été son visage sans intervention."
+            },
+            {
+              "question": "Le lifting est-il remboursé par la Sécurité Sociale ?",
+              "answer": "Non. Le lifting cervico-facial à visée esthétique n'est pas pris en charge par l'Assurance maladie. Un devis détaillé est remis lors de la consultation préopératoire. Certaines mutuelles complémentaires peuvent rembourser une partie des honoraires — renseignez-vous auprès de votre organisme complémentaire."
+            },
+            {
+              "question": "Peut-on associer un lifting à d'autres interventions ?",
+              "answer": "Oui. Le lifting cervico-facial peut être associé dans le même temps opératoire à un mid-face lift (correction des pommettes et de la vallée des larmes), une blépharoplastie (correction des paupières) ou une lipoaspiration cervicale. Ces associations sont évaluées lors de la consultation selon les besoins individuels."
+            },
+            {
+              "question": "Où se font les consultations et interventions de lifting ?",
+              "answer": "À Marseille, les interventions se déroulent à l'Hôpital Privé Beauregard (23 rue des Linots, 13012) — établissement disposant d'un service d'urgences et d'une unité de réanimation sur place. À Nice, les interventions ont lieu à la Clinique Saint-François. Dans les deux cas, les consultations préopératoires se tiennent dans les cabinets de ville."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Autres interventions du visage",
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null,
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Lifting Sourcilier",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/lifting-sourcilier/",
+              "html": "<div class=\"page-card-icon\">✨</div>\n        <div>\n          \n          <p>Repositionner les sourcils, ouvrir le regard sans changer l'expression.</p>\n          <a href=\"/lifting-sourcilier/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Blépharoplastie",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/blepharoplastie/",
+              "html": "<div class=\"page-card-icon\">👁️</div>\n        <div>\n          \n          <p>Chirurgie des paupières — corriger l'excès de peau et les poches.</p>\n          <a href=\"/blepharoplastie/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Médecine Esthétique",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/medecine-esthetique/",
+              "html": "<div class=\"page-card-icon\">💉</div>\n        <div>\n          \n          <p>Botox, acide hyaluronique — des solutions sans chirurgie.</p>\n          <a href=\"/medecine-esthetique/\">En savoir plus →</a>\n        </div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial",
+      "title": "Consultation lifting<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Analyse morphologique complète, choix de la technique et devis personnalisé lors de la consultation préopératoire.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "e2b182a0be4992c4",
+    "date": "2026-09-18"
+  }
+}

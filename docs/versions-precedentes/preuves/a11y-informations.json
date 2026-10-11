@@ -1,0 +1,24 @@
+{
+  "width": 1280,
+  "page": "Informations, accessibilité & crédits — Maison Aélis",
+  "documentWidth": 1265,
+  "noHorizontalOverflow": true,
+  "viewportClientWidth": 1265,
+  "headingCount": 1,
+  "images": [],
+  "externalResources": [],
+  "fontSize": "16px",
+  "axeVersion": "4.13.0",
+  "passes": 38,
+  "violations": [],
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "nodes": [
+        [
+          ".back-top > span[aria-hidden=\"true\"]"
+        ]
+      ]
+    }
+  ]
+}

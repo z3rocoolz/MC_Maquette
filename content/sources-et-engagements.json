@@ -1,0 +1,58 @@
+{
+  "slug": "sources-et-engagements",
+  "url": "/sources-et-engagements/",
+  "template": "standard",
+  "hero": {
+    "title": "Une information claire et documentée.",
+    "lead": "Les références et les principes utilisés pour construire les contenus du site.",
+    "eyebrow": "Information et transparence"
+  },
+  "seo": {
+    "title": "Une information claire et documentée. | Dr Mattia Coda",
+    "description": "Les références et les principes utilisés pour construire les contenus du site.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "principes",
+      "title": "Comprendre pour décider",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les pages présentent des repères, des limites et des questions à discuter. Elles ne posent pas de diagnostic et ne garantissent aucun résultat. Une consultation permet de mettre ces informations en relation avec votre situation.</p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Les références principales",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.sfscmfco.com/documents/pratique-clinique/fiches-patients/\">SFSCMFCO : fiches d’information des patients</a>, notamment nez, paupières, mâchoires et dents de sagesse.</li><li><a href=\"https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble\">Haute Autorité de santé : patient et professionnels de santé, décider ensemble</a>.</li><li><a href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">Fiche professionnelle publique du Dr Mattia Coda</a> : spécialité, lieux et rendez-vous.</li></ul><p>Les liens spécifiques figurent dans les quatre fiches d’intervention principales. Consultation des sources : 10 octobre 2026.</p>"
+        }
+      ]
+    },
+    {
+      "id": "statut",
+      "title": "Le statut de cette version",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Ce site est présenté dans un espace privé de travail. Les textes ont été restructurés à partir du projet fourni et de références professionnelles. La relecture et l’approbation médicales par le Dr Coda n’ont pas encore été réalisées ; elles ne sont pas sous-entendues.</p>"
+        }
+      ]
+    },
+    {
+      "id": "images",
+      "title": "Des images identifiées",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le portrait du chirurgien provient du dossier fourni. Les photographies d’illustration générées pour les maquettes ne représentent pas des résultats opératoires. Aucun témoignage promotionnel ni résultat avant/après n’est affiché.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false
+}

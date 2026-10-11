@@ -1,0 +1,401 @@
+{
+  "slug": "correction-bosse-nez",
+  "url": "/correction-bosse-nez/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "2e7c9abd01c9"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Correction Bosse du Nez – Chirurgien Maxillo-Facial",
+    "description": "Correction de la bosse du nez à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Techniques ultrasonique et de préservation, résultat naturel.",
+    "keywords": "correction bosse nez, correction bosse nez Marseille, rhinoplastie bosse nez Nice, gibbosité nasale, bosse nez sans chirurgie, rhinoplastie bosse dorsale",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/correction-bosse-nez/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Correction Bosse du Nez – Dr Mattia Coda Marseille Nice",
+        "description": "Correction de la bosse du nez à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Techniques ultrasonique et de préservation. Résultat naturel. Consultation et devis personnalisé.",
+        "url": "https://www.drmattiacoda.fr/correction-bosse-nez/",
+        "lastReviewed": "2026-01",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Peut-on corriger une bosse du nez sans chirurgie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, partiellement. L'injection d'acide hyaluronique permet de camoufler visuellement une bosse modérée sans chirurgie. Le résultat est temporaire (12 à 18 mois) et ne convient pas aux bosses importantes ni aux asymétries associées. La rhinoplastie chirurgicale reste la seule correction permanente."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelle technique pour corriger une bosse du nez ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Selon la taille et la composition de la bosse, la rhinoplastie de préservation est privilégiée (Push-Down) pour les gibbosités modérées, la rhinoplastie ultrasonique pour les bosses osseuses importantes, ou la rhinoplastie structurelle pour les cas complexes. Le choix est déterminé lors de la consultation morphologique."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La correction d'une bosse du nez laisse-t-elle des cicatrices ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En voie fermée (endonasale), aucune cicatrice visible — toutes les incisions sont internes. En voie ouverte, une fine cicatrice sur la columelle, invisible de face, qui s'estompe entre 6 et 12 mois."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien coûte la correction d'une bosse du nez à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Entre 4 000 € et 7 000 € selon la technique et la complexité. Un devis personnalisé est remis après consultation à Marseille (04 91 12 11 12) ou Nice (06 42 76 26 12). Consultez notre page tarifs pour les fourchettes détaillées."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quand voit-on le résultat après correction d'une bosse du nez ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le profil est visible dès le retrait de l'attelle à J+6. L'œdème résiduel se résorbe progressivement — 80% du résultat est visible à 3 mois, le résultat définitif entre 12 et 18 mois."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Correction de la Bosse du Nez",
+            "item": "https://www.drmattiacoda.fr/correction-bosse-nez/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Rhinoplastie · Gibbosité naso-dorsale",
+    "title": "Correction de la Bosse du Nez",
+    "lead": "La bosse du nez est l'indication la plus fréquente de rhinoplastie. La gibbosité naso-dorsale est corrigée à Marseille et Nice par techniques ultrasonique ou de préservation, pour un résultat naturel et permanent.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Correction de la Bosse du Nez",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Anatomie & correction",
+      "title": "Qu'est-ce que la bosse du nez ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>bosse du nez</strong> — appelée gibbosité naso-dorsale en terminologie chirurgicale — est une saillie visible sur le profil nasal, formée par un excès de tissu osseux, cartilagineux, ou les deux. Elle constitue l'indication la plus fréquente de rhinoplastie esthétique et l'une des principales raisons de consultation, à <a href=\"/rhinoplastie-marseille/\">Marseille</a> comme à <a href=\"/rhinoplastie-nice/\">Nice</a>.</p>\n      <p>La bosse peut être d'origine congénitale — présente dès la naissance et souvent héréditaire — ou post-traumatique, consécutive à une fracture nasale mal consolidée. Dans les deux cas, la correction chirurgicale repose sur les mêmes principes anatomiques, mais la technique employée varie selon la taille de la gibbosité, la structure osseuse, et l'épaisseur cutanée du patient.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "anatomie",
+      "variant": null,
+      "eyebrow": "Composition anatomique",
+      "title": "Bosse osseuse, cartilagineuse ou mixte ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'analyse précise de la composition de la bosse est fondamentale — elle conditionne directement le choix de la technique chirurgicale.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Les trois types de gibbosité</span>\n        <ul class=\"liste\">\n          <li><strong>Bosse osseuse pure</strong> — localisée dans le tiers supérieur du dos nasal, formée par un excès des os propres du nez. Correction par résection osseuse précise ou technique de préservation (Push-Down).</li>\n          <li><strong>Bosse cartilagineuse pure</strong> — localisée dans le tiers moyen, formée par un excès du cartilage septal et des cartilages latéraux supérieurs. Correction par résection cartilagineuse et reconstruction.</li>\n          <li><strong>Bosse ostéocartilagineuse mixte</strong> — la plus fréquente, s'étendant sur les deux tiers supérieurs du dos nasal. Nécessite un traitement combiné des deux composantes.</li>\n        </ul>\n      </div>\n      <div class=\"note-med\">\n        <strong>Évaluation lors de la consultation :</strong> Une analyse morphologique complète du dos nasal est systématiquement réalisée — palpation, photographies de profil et simulation numérique — pour déterminer précisément la composition et l'étendue de la gibbosité avant de proposer une technique chirurgicale.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Techniques de correction",
+      "title": "Comment corriger une bosse du nez ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<h3>Rhinoplastie de préservation (Push-Down / Let-Down)</h3>\n      <p>Pour les gibbosités modérées sur des structures de base satisfaisantes, la technique de préservation repositionne le dorsum sans le réséquer. Elle évite la création du \"toit ouvert\" classique et génère moins de cicatrisation interne. Résultat plus naturel, suites allégées. <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">En savoir plus sur la rhinoplastie de préservation →</a></p>\n      <h3>Rhinoplastie ultrasonique</h3>\n      <p>Pour les gibbosités importantes nécessitant une résection osseuse précise, la technique piézoélectrique permet de sculpter les os nasaux avec une précision millimétrique, en réduisant significativement les ecchymoses post-opératoires. <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">En savoir plus sur la rhinoplastie ultrasonique →</a></p>\n      <h3>Rhinoplastie structurelle</h3>\n      <p>Pour les gibbosités complexes ou les reprises de chirurgie, la technique structurelle permet une résection précise et une reconstruction du profil dorsal par greffons cartilagineux si nécessaire.</p>\n      <div class=\"note-warn\">\n        <strong>Attention :</strong> Une correction excessive de la bosse — dorsum trop creusé en \"ski slope\" — est l'une des erreurs les plus fréquentes en rhinoplastie. L'objectif est systématiquement un résultat naturel en préservant une légère convexité du profil chez l'homme et une ligne légèrement concave chez la femme.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "sans-chirurgie",
+      "variant": null,
+      "eyebrow": "Alternative non chirurgicale",
+      "title": "Peut-on corriger une bosse du nez sans chirurgie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie médicale par injection d'acide hyaluronique permet de <strong>camoufler</strong> visuellement une bosse modérée en injectant du produit au-dessus et en-dessous de la gibbosité pour harmoniser le profil. Elle ne réduit pas la bosse mais peut en atténuer l'effet visuel.</p>\n      <ul class=\"liste\">\n        <li><strong>Avantages :</strong> sans anesthésie générale, sans convalescence, résultat immédiat, réversible</li>\n        <li><strong>Limites :</strong> résultat temporaire (12 à 18 mois), ne convient qu'aux bosses modérées, ne corrige pas les asymétries ni les problèmes fonctionnels associés</li>\n        <li><strong>Contre-indications :</strong> bosses importantes, nez dévié, obstruction nasale associée, attentes de correction permanente</li>\n      </ul>\n      <p>La consultation permet d'évaluer si la rhinoplastie médicale est une option pertinente ou si une correction chirurgicale permanente est préférable selon votre anatomie et vos objectifs.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur Correction de la Bosse du Nez",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Peut-on corriger une bosse du nez sans chirurgie ?",
+              "answer": "Oui, partiellement. L'injection d'acide hyaluronique permet de camoufler visuellement une bosse modérée sans chirurgie. Le résultat est temporaire (12 à 18 mois) et ne convient pas aux bosses importantes ni aux asymétries associées. La rhinoplastie chirurgicale reste la seule correction permanente."
+            },
+            {
+              "question": "Quelle technique pour corriger une bosse du nez ?",
+              "answer": "Selon la taille et la composition de la bosse, la rhinoplastie de préservation est privilégiée (Push-Down) pour les gibbosités modérées, la rhinoplastie ultrasonique pour les bosses osseuses importantes, ou la rhinoplastie structurelle pour les cas complexes. Le choix est déterminé lors de la consultation morphologique."
+            },
+            {
+              "question": "La correction d'une bosse du nez laisse-t-elle des cicatrices ?",
+              "answer": "En voie fermée (endonasale), aucune cicatrice visible — toutes les incisions sont internes. En voie ouverte, une fine cicatrice sur la columelle, invisible de face, qui s'estompe entre 6 et 12 mois."
+            },
+            {
+              "question": "Combien coûte la correction d'une bosse du nez à Marseille ?",
+              "answer": "Entre 4 000 € et 7 000 € selon la technique et la complexité. Un devis personnalisé est remis après consultation à Marseille (04 91 12 11 12) ou Nice (06 42 76 26 12). Consultez notre page tarifs pour les fourchettes détaillées."
+            },
+            {
+              "question": "Quand voit-on le résultat après correction d'une bosse du nez ?",
+              "answer": "Le profil est visible dès le retrait de l'attelle à J+6. L'œdème résiduel se résorbe progressivement — 80% du résultat est visible à 3 mois, le résultat définitif entre 12 et 18 mois."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Prendre rendez-vous",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Consultations à Marseille, Nice et Draguignan. Devis personnalisé remis après consultation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Chirurgien Maxillo-Facial",
+      "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle avec simulation préopératoire et devis personnalisé.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "ceaf8b1538369776",
+    "date": "2026-09-18"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "confidentialite",
+  "url": "/confidentialite/",
+  "template": "standard",
+  "style": "style-0544494883b1.css",
+  "scripts": [
+    "script-78573689e4cf.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "21c89bec737a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83fef08c0f33"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Confidentialité | Mattia Coda",
+    "description": "Informations sur les données et les liens externes de la maquette Mattia Coda.",
+    "lang": "fr",
+    "robots": "noindex, nofollow",
+    "canonical": "",
+    "openGraph": {},
+    "jsonLd": []
+  },
+  "hero": {
+    "title": "Confidentialité",
+    "lead": "Une présentation des usages de cette maquette.",
+    "eyebrow": "Informations",
+    "buttons": [],
+    "blocks": [],
+    "breadcrumb": []
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "title": "Les fonctions de cette maquette",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Cette maquette ne comporte pas de formulaire de collecte de données de santé, de compte patient ou de dispositif de mesure d’audience ajouté dans son code. Les photographies et les polices sont chargées depuis les fichiers du site.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Rendez-vous et services externes",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>Les liens de rendez-vous ouvrent le service Doctolib. Les informations transmises sur ce service relèvent de ses propres conditions et de sa politique de confidentialité.</p>",
+          "enveloppe": false
+        }
+      ]
+    },
+    {
+      "title": "Hébergement de la prévisualisation",
+      "id": null,
+      "blocks": [
+        {
+          "type": "text",
+          "html": "<p>La prévisualisation utilise un service d’hébergement et peut nécessiter une authentification. Les traitements techniques propres à ce service relèvent de ses conditions. La politique du futur site public devra être adaptée à l’hébergement et aux services effectivement retenus.</p>",
+          "enveloppe": false
+        }
+      ]
+    }
+  ]
+}

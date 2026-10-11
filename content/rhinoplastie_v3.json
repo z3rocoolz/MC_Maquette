@@ -1,0 +1,145 @@
+{
+  "slug": "rhinoplastie_v3",
+  "url": "/rhinoplastie/",
+  "template": "guide",
+  "style": "style-e914909976b0.css",
+  "scripts": [
+    "script-578ac9f71c6f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "d9cc4f494cff",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "ddf150b7e13e"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie : comprendre la chirurgie du nez. | Dr Mattia Coda",
+    "description": "La forme du nez, la respiration et l’équilibre du visage se discutent ensemble, à partir de votre demande et de l’examen.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Rhinoplastie : comprendre la chirurgie du nez.",
+    "lead": "La forme du nez, la respiration et l’équilibre du visage se discutent ensemble, à partir de votre demande et de l’examen.",
+    "eyebrow": "Repères sur l’intervention"
+  },
+  "layout": [
+    {
+      "tag": "div",
+      "className": "page-wrap",
+      "id": null
+    },
+    {
+      "tag": "main",
+      "className": "main-content",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "retenir",
+      "title": "L’essentiel, en quelques repères",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Une demande peut être esthétique, fonctionnelle, ou associer les deux.</li><li>Une technique se choisit après un bilan ; elle ne garantit pas un résultat.</li><li>Les possibilités et les limites se discutent en consultation, sans obligation d’intervenir.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Pourquoi consulter ? Quelles alternatives ?",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Une modification de la forme du nez, une gêne respiratoire ou les suites d’un traumatisme peuvent motiver une consultation. L’examen aide à distinguer les causes et à préciser ce qu’une intervention pourrait ou ne pourrait pas modifier.</p><p>La discussion inclut les autres prises en charge adaptées à la cause, l’abstention ou le report du projet. Vos attentes sont importantes ; une photographie ou une simulation ne constitue pas un résultat promis.</p>"
+        },
+        {
+          "type": "html",
+          "html": "<p>Des repères selon votre demande : <a href=\"correction-bosse-nez.html\">la bosse du nez</a>, <a href=\"rhinoplastie-pointe-nez.html\">la pointe du nez</a> ou <a href=\"deviation-cloison-nasale.html\">la déviation de la cloison nasale</a>.</p>"
+        },
+        {
+          "type": "html",
+          "html": "<p><a href=\"rhinoplastie-homme.html\">Rhinoplastie chez l’homme : quelques repères complémentaires</a>.</p>"
+        }
+      ]
+    },
+    {
+      "id": "techniques",
+      "title": "Comprendre les différentes approches",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La rhinoplastie agit sur l’apparence du nez. Une septoplastie concerne la cloison ; certains projets associent ces gestes. Le choix de la voie d’abord et des gestes dépend de l’anatomie et du bilan.</p><ul><li><a href=\"rhinoplastie-primaire.html\">Première rhinoplastie</a></li><li><a href=\"rhinoplastie-secondaire.html\">Reprise après une intervention</a></li><li><a href=\"rhinoplastie-fonctionnelle.html\">Dimension fonctionnelle</a></li><li><a href=\"rhinoplastie-preservation.html\">Préservation</a> et <a href=\"rhinoplastie-ultrasonique.html\">instrumentation ultrasonique</a></li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "title": "De la consultation à l’intervention",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le chirurgien examine le nez et le visage, échange sur votre histoire et explique le projet envisagé. Les modalités de l’anesthésie, les gestes, les cicatrices éventuelles et le lieu d’intervention sont précisés si une opération est retenue.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Les risques et les limites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les risques incluent notamment saignement, infection, troubles de cicatrisation, irrégularités ou résultat insatisfaisant. Des troubles respiratoires ou une atteinte de la cloison peuvent survenir. Cette liste n’est pas exhaustive : la fiche d’information et la consultation permettent de les détailler.</p>"
+        }
+      ]
+    },
+    {
+      "id": "suites",
+      "title": "La récupération et le suivi",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Gonflement, ecchymoses et obstruction nasale peuvent accompagner les suites. L’aspect évolue au cours de la cicatrisation. Le calendrier de reprise, les soins et les contrôles sont personnalisés ; aucun délai universel n’est promis.</p>"
+        },
+        {
+          "type": "html",
+          "html": "<p><a href=\"avant-apres.html\">Comprendre les photographies avant/après et la lecture des résultats</a>.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Que peut-on raisonnablement modifier dans mon cas ?</li><li>Comment la respiration est-elle évaluée ?</li><li>Quelles incertitudes, quels risques et quel suivi dois-je prévoir ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.sfscmfco.com/fiches-information/chirurgie-du-nez-et-des-fosses-nasales/\">SFSCMFCO · Chirurgie du nez et des fosses nasales</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "5044d5b06cf42e4b",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

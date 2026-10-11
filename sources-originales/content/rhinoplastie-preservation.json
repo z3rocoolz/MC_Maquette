@@ -1,0 +1,396 @@
+{
+  "slug": "rhinoplastie-preservation",
+  "url": "/rhinoplastie-preservation/",
+  "template": "standard",
+  "style": "style-2915072916e2.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "6598e58dc498",
+    "overlay": "dd9d72dc74d3",
+    "menu": "3bc93c016ef5",
+    "footer": "3c84a863e903"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie de Préservation | Dr Mattia Coda, Marseille",
+    "description": "Rhinoplastie de préservation (Push-Down, Let-Down) à Marseille et Nice avec le Dr Mattia Coda. Résultat naturel, moins de cicatrisation interne.",
+    "keywords": "rhinoplastie de préservation, rhinoplastie preservation Marseille, technique Push-Down nez, technique Let-Down rhinoplastie, preservation rhinoplasty Marseille",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-preservation/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie de Préservation",
+        "description": "Rhinoplastie de préservation (Push-Down, Let-Down) à Marseille et Nice avec le Dr Mattia Coda. Résultat naturel, moins de cicatrisation interne. Consultations à Marseille, Nice et Draguignan.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-preservation/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie de Préservation",
+          "bodyLocation": "Nez"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Quelle différence entre rhinoplastie de préservation et rhinoplastie classique ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie classique (structurelle) résèque les structures en excès et les reconstruit. La rhinoplastie de préservation repositionne ces structures sans les enlever, générant moins de cicatrisation interne et un résultat plus naturel. Elle n'est cependant pas applicable à tous les cas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La technique Push-Down peut-elle corriger une bosse importante ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le Push-Down est optimal pour les gibbosités modérées. Pour les bosses importantes, une approche combinée ou une rhinoplastie structurelle peut être préférable. Le Dr Coda détermine la technique adaptée lors de la consultation morphologique."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie de préservation donne-t-elle des résultats naturels ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, c'est l'un de ses principaux avantages. En repositionnant les structures existantes plutôt qu'en les remplaçant, le nez conserve ses caractéristiques morphologiques propres tout en étant corrigé. Le résultat est généralement harmonieux et non 'opéré'."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une rhinoplastie de préservation à Marseille ou Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le Dr Mattia Coda pratique la rhinoplastie de préservation à Marseille (Hôpital Privé Beauregard) et à Nice (Clinique Saint-François). Les consultations sont également disponibles à Draguignan. Prise de RDV sur Doctolib ou au 04 91 12 11 12."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie de Préservation",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-preservation/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Technique Push-Down · Let-Down",
+    "title": "Rhinoplastie de Préservation",
+    "lead": "La rhinoplastie de préservation repositionne les structures nasales sans les réséquer. Les techniques Push-Down et Let-Down permettent un résultat naturel avec moins de cicatrisation interne.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie de Préservation",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la rhinoplastie de préservation ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie de préservation</strong> (<em>preservation rhinoplasty</em>) est une philosophie chirurgicale qui repositionne les structures ostéocartilagineuses existantes du nez sans les réséquer. Elle s'oppose à l'approche résectrice de la rhinoplastie structurelle classique, qui consiste à enlever du tissu pour remodeler la pyramide nasale.</p>\n      <p>Plutôt que de supprimer le dorsum nasal pour le reconstruire, la rhinoplastie de préservation le <strong>déplace et le repositionne</strong> en préservant le ligament Pitanguy et le capital cartilagineux septal. Cette approche génère moins de cicatrisation interne et des résultats généralement plus naturels.</p>\n      <p>Le Dr Mattia Coda pratique ces techniques à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>. Consultations disponibles à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Techniques",
+      "title": "Push-Down et Let-Down — les deux variantes",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<h3>Technique Push-Down</h3>\n      <p>Le Push-Down abaisse le dorsum nasal en <strong>poussant les os propres vers le bas</strong> après désarticulation de leurs attaches latérales et médiales. Cette technique évite la création du toit ouvert classique de la rhinoplastie structurelle et les ostéotomies de fermeture qui s'ensuivent. Elle génère moins d'œdème et un résultat plus naturel, particulièrement adapté aux corrections de gibbosité modérée.</p>\n      <h3>Technique Let-Down</h3>\n      <p>Le Let-Down abaisse le dorsum en réséquant une bandelette de cartilage septal dans sa partie caudale et/ou crâniale, permettant de faire \"descendre\" l'ensemble de la pyramide nasale. Cette technique offre une correction plus importante que le Push-Down et peut être combinée avec lui.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Avantages de la rhinoplastie de préservation</span>\n        <ul class=\"liste\">\n          <li>Préservation du capital cartilagineux et ligamentaire nasal</li>\n          <li>Moins de cicatrisation interne — résultat plus prévisible et plus stable</li>\n          <li>Résultat plus naturel — le nez garde son \"identité\" morphologique</li>\n          <li>Récupération généralement accélérée</li>\n          <li>Risque réduit de toit ouvert visible après cicatrisation</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Pour quels patients est-elle indiquée ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie de préservation est particulièrement indiquée pour :</p>\n      <ul class=\"liste\">\n        <li>Les corrections de gibbosité modérée sur des nez ayant une structure de base satisfaisante</li>\n        <li>Les patients avec une peau de texture normale (ni trop fine, ni trop épaisse)</li>\n        <li>Les patients souhaitant un résultat discret et naturel</li>\n        <li>Les rhinoplasties <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">primaires</a> esthétiques sans anomalie architecturale majeure</li>\n      </ul>\n      <div class=\"note-warn\"><strong>Contre-indication relative :</strong> La rhinoplastie de préservation n'est pas applicable à tous les cas. Les déformations sévères, les nez à peau très épaisse ou les <a href=\"/rhinoplastie-secondaire/\" style=\"color:var(--gold);\">rhinoplasties secondaires</a> complexes requièrent souvent une approche structurelle. Le choix de la technique est déterminé lors de la consultation préopératoire.</div><p style=\"display:none\"> Pour en savoir plus, consultez le <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">guide médical complet →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Rhinoplastie de Préservation",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Quelle différence entre rhinoplastie de préservation et rhinoplastie classique ?",
+              "answer": "La rhinoplastie classique (structurelle) résèque les structures en excès et les reconstruit. La rhinoplastie de préservation repositionne ces structures sans les enlever, générant moins de cicatrisation interne et un résultat plus naturel. Elle n'est cependant pas applicable à tous les cas."
+            },
+            {
+              "question": "La technique Push-Down peut-elle corriger une bosse importante ?",
+              "answer": "Le Push-Down est optimal pour les gibbosités modérées. Pour les bosses importantes, une approche combinée ou une rhinoplastie structurelle peut être préférable. Le Dr Coda détermine la technique adaptée lors de la consultation morphologique."
+            },
+            {
+              "question": "La rhinoplastie de préservation donne-t-elle des résultats naturels ?",
+              "answer": "Oui, c'est l'un de ses principaux avantages. En repositionnant les structures existantes plutôt qu'en les remplaçant, le nez conserve ses caractéristiques morphologiques propres tout en étant corrigé. Le résultat est généralement harmonieux et non 'opéré'."
+            },
+            {
+              "question": "Où consulter pour une rhinoplastie de préservation à Marseille ou Nice ?",
+              "answer": "Le Dr Mattia Coda pratique la rhinoplastie de préservation à Marseille (Hôpital Privé Beauregard) et à Nice (Clinique Saint-François). Les consultations sont également disponibles à Draguignan. Prise de RDV sur Doctolib ou au 04 91 12 11 12."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda évalue votre indication lors d'une consultation à Marseille, Nice ou Draguignan. Un devis personnalisé vous est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000 Nice",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": "<p style=\"font-size:.68rem;color:var(--muted);margin-top:8px;\">Interventions à la Clinique Saint-François</p>"
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres-techniques",
+      "variant": null,
+      "eyebrow": "Techniques associées",
+      "title": "Autres techniques de rhinoplastie",
+      "blocks": [
+        {
+          "type": "note",
+          "variant": "complement",
+          "title": "",
+          "html": "<div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Primaire</h4>\n        <p>Première intervention chirurgicale sur le nez — correction esthétique ou fonctionnelle.</p>\n        <a href=\"/rhinoplastie-primaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Ultrasonique</h4>\n        <p>Remodelage osseux par instruments piézoélectriques — précision maximale, suites légères.</p>\n        <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie de Préservation</h4>\n        <p>Technique Push-Down ou Let-Down — repositionnement sans résection des structures nasales.</p>\n        <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Secondaire</h4>\n        <p>Révision d'une rhinoplastie antérieure — correction d'un résultat insatisfaisant.</p>\n        <a href=\"/rhinoplastie-secondaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Fonctionnelle</h4>\n        <p>Septoplastie et turbinoplastie — correction des anomalies respiratoires.</p>\n        <a href=\"/rhinoplastie-fonctionnelle/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Guide Rhinoplastie Complet</h4>\n        <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie en un seul guide.</p>\n        <a href=\"/rhinoplastie/\">Voir le guide →</a>\n      </div>",
+          "className": "techniques-autres"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie de Préservation",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "d6cb5dcaabbaefcd",
+    "date": "2026-09-18"
+  }
+}

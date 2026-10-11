@@ -1,0 +1,93 @@
+{
+  "slug": "motifs-consultation",
+  "url": "/motifs-consultation/",
+  "template": "standard",
+  "hero": {
+    "title": "Qu’est-ce qui vous amène ?",
+    "lead": "Vous n’avez pas besoin de connaître le nom d’une intervention pour commencer à vous informer.",
+    "eyebrow": "Votre besoin, vos mots"
+  },
+  "seo": {
+    "title": "Qu’est-ce qui vous amène ? | Dr Mattia Coda",
+    "description": "Vous n’avez pas besoin de connaître le nom d’une intervention pour commencer à vous informer.",
+    "lang": "fr"
+  },
+  "sections": [
+    {
+      "id": "nez",
+      "title": "L’aspect de mon nez me questionne.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Décrire ce qui vous gêne et comprendre les possibilités, sans choisir une technique à l’avance.</p><p><a class=\"text-link\" href=\"rhinoplastie.html\">Comprendre la rhinoplastie →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "respiration",
+      "title": "Je respire difficilement par le nez.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Une gêne respiratoire mérite un examen de sa cause ; elle ne signifie pas à elle seule qu’une opération est indiquée.</p><p><a class=\"text-link\" href=\"rhinoplastie-fonctionnelle.html\">Lire les repères fonctionnels →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "regard",
+      "title": "Mes paupières me gênent.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Différencier une demande esthétique d’une gêne visuelle et discuter des limites d’une intervention.</p><p><a class=\"text-link\" href=\"blepharoplastie.html\">Comprendre la blépharoplastie →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "machoires",
+      "title": "Mes mâchoires ou ma mastication me gênent.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Préparer un bilan en lien avec votre dentiste ou votre orthodontiste.</p><p><a class=\"text-link\" href=\"chirurgie-orthognathique.html\">Comprendre la chirurgie des mâchoires →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "dents",
+      "title": "On m’a parlé de mes dents de sagesse.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Comprendre pourquoi une extraction est envisagée et quelles informations apporter.</p><p><a class=\"text-link\" href=\"dents-de-sagesse.html\">Préparer mon échange →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "reprise",
+      "title": "J’ai déjà été opéré du nez.",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Présenter votre histoire opératoire, votre gêne actuelle et les limites possibles d’une nouvelle intervention.</p><p><a class=\"text-link\" href=\"rhinoplastie-secondaire.html\">S’informer sur une reprise →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "orientation",
+      "title": "Un point de départ, pas un diagnostic",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Ces entrées servent à trouver une information. Elles ne permettent pas de déterminer un traitement. Votre demande, l’examen et vos priorités guideront la discussion en consultation.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

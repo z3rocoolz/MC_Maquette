@@ -1,0 +1,496 @@
+{
+  "slug": "profiloplastie",
+  "url": "/profiloplastie/",
+  "template": "standard",
+  "style": "style-5b0c4b190412.css",
+  "scripts": [
+    "script-e5101a43df57.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "2b77d0e67522",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "fe6708cffaae"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Profiloplastie : Rhinoplastie + Génioplastie | Dr Coda",
+    "description": "Profiloplastie à Marseille et Nice avec le Dr Mattia Coda : association rhinoplastie et génioplastie pour rééquilibrer le profil facial.",
+    "keywords": "profiloplastie, profiloplastie Marseille, rhinoplastie génioplastie, chirurgie profil visage, génioplastie Marseille, profiloplastie Nice",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/profiloplastie/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Profiloplastie – Rhinoplastie + Génioplastie | Dr Mattia Coda",
+        "description": "Profiloplastie à Marseille et Nice avec le Dr Mattia Coda : association rhinoplastie et génioplastie pour rééquilibrer le profil facial. Chirurgien maxillo-facial spécialisé. Consultations à Marseille, Nice, Draguignan.",
+        "url": "https://www.drmattiacoda.fr/profiloplastie/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Profiloplastie",
+          "bodyLocation": "Visage"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Qu'est-ce que la profiloplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La profiloplastie associe une rhinoplastie (chirurgie du nez) et une génioplastie (chirurgie du menton) dans le même temps opératoire. Elle vise à rééquilibrer le profil facial en corrigeant simultanément les deux zones qui créent la dysharmonie — nez et menton."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Est-il possible de corriger uniquement le nez sans toucher au menton ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, absolument. La profiloplastie n'est proposée que lorsque le déséquilibre du profil résulte de la combinaison d'un facteur nasal et mentonnier. Si la correction du nez seul suffit à rééquilibrer le profil, une rhinoplastie isolée est recommandée."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien coûte une profiloplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le tarif d'une profiloplastie est supérieur à une rhinoplastie isolée en raison de l'association des deux interventions, mais inférieur au coût de deux opérations séparées. Un devis personnalisé est remis après consultation avec le Dr Coda à Marseille ou Nice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelle est la durée de convalescence après une profiloplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La convalescence sociale est de 10 à 15 jours. Une alimentation molle est recommandée pendant 2 à 3 semaines pour la génioplastie. Les activités sportives intenses sont contre-indiquées pendant 4 à 6 semaines."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La génioplastie laisse-t-elle des cicatrices visibles ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Non. La génioplastie osseuse est réalisée par voie intrabuccale — l'incision est à l'intérieur de la bouche, complètement invisible. Il n'y a aucune cicatrice externe sur le menton."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on associer d'autres interventions à la profiloplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Une composante fonctionnelle nasale (septoplastie) peut être ajoutée si une obstruction respiratoire est documentée. D'autres interventions du visage peuvent également être envisagées lors de la même anesthésie selon l'indication et l'état général du patient."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Profiloplastie",
+            "item": "https://www.drmattiacoda.fr/profiloplastie/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Rhinoplastie + Génioplastie · Harmonie du profil",
+    "title": "Profiloplastie",
+    "lead": "La profiloplastie associe rhinoplastie et génioplastie dans le même temps opératoire pour rééquilibrer le profil facial. Le Dr Mattia Coda, chirurgien maxillo-facial, planifie les deux corrections ensemble pour un résultat harmonieux et naturel.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Profiloplastie",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la profiloplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>profiloplastie</strong> désigne l'association, dans le même temps opératoire, d'une <a href=\"/rhinoplastie/\" style=\"color:var(--gold);\">rhinoplastie</a> (chirurgie du nez) et d'une <strong>génioplastie</strong> (chirurgie du menton). Elle vise à rééquilibrer le profil facial dans son ensemble, en corrigeant simultanément deux zones qui, prises séparément, peuvent chacune sembler anodines mais dont le déséquilibre combiné crée une dysharmonie visible de profil.</p>\n      <p>C'est l'une des interventions les plus efficaces en chirurgie esthétique du visage car elle agit sur le <strong>triangle esthétique du profil</strong> — front, nez, menton — en rééquilibrant les proportions sans modifier l'identité du visage. Le Dr Mattia Coda, chirurgien maxillo-facial, pratique la profiloplastie à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Quand envisager une profiloplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La profiloplastie est indiquée lorsque le déséquilibre du profil facial résulte d'une combinaison de deux facteurs anatomiques :</p>\n      <div class=\"deux-col\">\n        <div class=\"col-card\">\n          <h4>Facteur nasal</h4>\n          <p>Bosse dorsale, pointe tombante, nez trop long ou trop projeté. Ces anomalies donnent au profil un aspect \"penché en avant\" ou trop proéminent par rapport au reste du visage.</p>\n        </div>\n        <div class=\"col-card\">\n          <h4>Facteur mentonnier</h4>\n          <p>Menton fuyant (rétrognathie), trop peu projeté ou asymétrique. Un menton insuffisamment projeté accentue visuellement la bosse nasale et crée un profil déséquilibré.</p>\n        </div>\n      </div>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Situations typiques justifiant une profiloplastie</span>\n        <ul class=\"liste\">\n          <li>Bosse nasale associée à un menton fuyant — profil en \"oiseau\"</li>\n          <li>Nez trop projeté avec menton trop en retrait</li>\n          <li>Correction du profil chez l'homme souhaitant une harmonie globale</li>\n          <li>Demande de rééquilibrage facial global avec simulation de profil</li>\n          <li>Association d'une <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">composante fonctionnelle nasale</a> (septoplastie) et d'une correction du menton</li>\n        </ul>\n      </div>\n      <div class=\"note-med\">\n        <strong>Avantage clé :</strong> Corriger le nez seul sans tenir compte du menton peut donner un résultat subjectivement insuffisant. À l'inverse, harmoniser les deux zones simultanément produit un résultat dont l'impact visuel est supérieur à la somme des deux corrections prises séparément.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "genioplastie",
+      "variant": null,
+      "eyebrow": "Génioplastie",
+      "title": "La génioplastie — chirurgie du menton",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La génioplastie est une intervention chirurgicale qui modifie la position et/ou la forme de la symphyse mentonnière (la partie osseuse du menton) en agissant directement sur l'os par ostéotomie et repositionnement. C'est une technique que le Dr Coda, en tant que chirurgien maxillo-facial, maîtrise parfaitement — la chirurgie des mâchoires et du squelette facial étant le cœur de sa spécialité.</p>\n      <h3>Deux approches possibles</h3>\n      <div class=\"deux-col\">\n        <div class=\"col-card\">\n          <h4>Génioplastie osseuse</h4>\n          <p>Ostéotomie de la symphyse mentonnière et avancement ou recul de la pointe du menton. Résultat définitif, précis et stable dans le temps. Cicatrice intrabuccale invisible. C'est la technique de référence pratiquée par le Dr Coda.</p>\n        </div>\n        <div class=\"col-card\">\n          <h4>Implant mentonnier</h4>\n          <p>Mise en place d'une prothèse siliconée pour augmenter la projection du menton. Technique plus rapide mais aux résultats moins précis et moins durables que la génioplastie osseuse. Non pratiquée par le Dr Coda dans le cadre d'une profiloplastie.</p>\n        </div>\n      </div>\n      <div class=\"note-med\">\n        <strong>Avantage de la formation maxillo-faciale :</strong> La génioplastie osseuse est une chirurgie du squelette facial. Les chirurgiens maxillo-faciaux sont les spécialistes de référence pour cette intervention, qu'ils pratiquent quotidiennement dans d'autres contextes (chirurgie orthognathique, reconstruction). C'est un avantage concret du Dr Coda par rapport aux chirurgiens plasticiens qui pratiquent principalement les implants mentonniers.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "avantages",
+      "variant": null,
+      "eyebrow": "Avantages",
+      "title": "Pourquoi associer rhinoplastie et génioplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<ul class=\"liste\">\n        <li><strong>Une seule anesthésie générale</strong> — réduisant les risques anesthésiques par rapport à deux interventions séparées</li>\n        <li><strong>Une seule période de convalescence</strong> — récupération globale en 10 à 15 jours au lieu de deux périodes distinctes</li>\n        <li><strong>Résultat global cohérent</strong> — le chirurgien planifie les deux corrections ensemble pour un équilibre optimal du profil</li>\n        <li><strong>Coût total inférieur</strong> à deux interventions séparées (une seule anesthésie, un seul bloc opératoire)</li>\n        <li><strong>Simulation préopératoire combinée</strong> — visualisation simultanée des modifications nasales et mentonnières sur le profil</li>\n      </ul>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "deroulement",
+      "variant": null,
+      "eyebrow": "Déroulement",
+      "title": "Déroulement et suites de la profiloplastie",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La profiloplastie est réalisée sous <strong>anesthésie générale</strong>. La durée opératoire varie de <strong>2h à 3h</strong> selon la complexité des deux gestes associés. Elle peut se dérouler en ambulatoire ou avec une nuit d'hospitalisation selon les cas.</p>\n      <h3>Suites opératoires</h3>\n      <ul class=\"liste\">\n        <li>Attelle nasale pendant 6 jours</li>\n        <li>Œdème du visage (nez et menton) pendant 10 à 15 jours</li>\n        <li>Reprise des activités sédentaires possible à J+10 à J+14</li>\n        <li>Alimentation molle recommandée pendant 2 à 3 semaines (génioplastie)</li>\n        <li>Résultat nasal définitif entre 12 et 18 mois</li>\n        <li>Résultat mentonnier visible dès 2 à 3 mois, définitif à 6 mois</li>\n      </ul>\n      <p>Pour les informations détaillées sur les suites opératoires de la rhinoplastie, consultez le <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">guide médical complet →</a></p>\n      <div class=\"note-warn\">\n        <strong>Délai légal :</strong> Un délai de réflexion de 15 jours est obligatoire entre la première consultation et la date d'intervention pour toute chirurgie esthétique.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Profiloplastie",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Qu'est-ce que la profiloplastie ?",
+              "answer": "La profiloplastie associe une rhinoplastie (chirurgie du nez) et une génioplastie (chirurgie du menton) dans le même temps opératoire. Elle vise à rééquilibrer le profil facial en corrigeant simultanément les deux zones qui créent la dysharmonie — nez et menton."
+            },
+            {
+              "question": "Est-il possible de corriger uniquement le nez sans toucher au menton ?",
+              "answer": "Oui, absolument. La profiloplastie n'est proposée que lorsque le déséquilibre du profil résulte de la combinaison d'un facteur nasal et mentonnier. Si la correction du nez seul suffit à rééquilibrer le profil, une rhinoplastie isolée est recommandée."
+            },
+            {
+              "question": "Combien coûte une profiloplastie ?",
+              "answer": "Le tarif d'une profiloplastie est supérieur à une rhinoplastie isolée en raison de l'association des deux interventions, mais inférieur au coût de deux opérations séparées. Un devis personnalisé est remis après consultation avec le Dr Coda à Marseille ou Nice."
+            },
+            {
+              "question": "Quelle est la durée de convalescence après une profiloplastie ?",
+              "answer": "La convalescence sociale est de 10 à 15 jours. Une alimentation molle est recommandée pendant 2 à 3 semaines pour la génioplastie. Les activités sportives intenses sont contre-indiquées pendant 4 à 6 semaines."
+            },
+            {
+              "question": "La génioplastie laisse-t-elle des cicatrices visibles ?",
+              "answer": "Non. La génioplastie osseuse est réalisée par voie intrabuccale — l'incision est à l'intérieur de la bouche, complètement invisible. Il n'y a aucune cicatrice externe sur le menton."
+            },
+            {
+              "question": "Peut-on associer d'autres interventions à la profiloplastie ?",
+              "answer": "Oui. Une composante fonctionnelle nasale (septoplastie) peut être ajoutée si une obstruction respiratoire est documentée. D'autres interventions du visage peuvent également être envisagées lors de la même anesthésie selon l'indication et l'état général du patient."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda, chirurgien maxillo-facial, reçoit en consultation à Marseille, Nice et Draguignan. Un devis personnalisé est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Interventions associées",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Guide Rhinoplastie Complet",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">👃</div>\n        <div>\n          \n          <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie.</p>\n          <a href=\"/rhinoplastie/\">Voir le guide →</a>\n        </div>",
+              "link": "/rhinoplastie/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie Ultrasonique",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">⚡</div>\n        <div>\n          \n          <p>Technique piézoélectrique — précision maximale, suites allégées.</p>\n          <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-ultrasonique/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Rhinoplastie de Préservation",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">🔄</div>\n        <div>\n          \n          <p>Push-Down, Let-Down — résultat naturel sans résection.</p>\n          <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n        </div>",
+              "link": "/rhinoplastie-preservation/"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Profiloplastie",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<div class=\"page-card-icon\">✨</div>\n        <div>\n          \n          <p>Rhinoplastie et génioplastie — harmonie complète du profil.</p>\n          <a href=\"/profiloplastie/\">En savoir plus →</a>\n        </div>",
+              "link": "/profiloplastie/"
+            }
+          ],
+          "className": "pages-liees"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Profiloplastie",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "b48c91d81d8eb9c5",
+    "date": "2026-09-18"
+  }
+}

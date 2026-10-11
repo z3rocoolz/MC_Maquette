@@ -1,0 +1,392 @@
+{
+  "slug": "lifting-sourcilier",
+  "url": "/lifting-sourcilier/",
+  "template": "standard",
+  "style": "style-4eabc86f3741.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "b56a14eaf42c",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "f0816ae22799"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Lifting Sourcilier Marseille & Nice | Dr Mattia Coda",
+    "description": "Lifting sourcilier à Marseille et Nice : correction de la ptose des sourcils par voie temporale ou frontale. Dr Mattia Coda, chirurgien maxillo-facial.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/lifting-sourcilier/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Lifting Sourcilier Marseille Nice Draguignan",
+        "description": "Lifting sourcilier à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Voie temporale, frontale, exérèse de bandelette cutanée.",
+        "url": "https://www.drmattiacoda.fr/lifting-sourcilier/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Lifting Sourcilier",
+            "item": "https://www.drmattiacoda.fr/lifting-sourcilier/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie du Visage · Rajeunissement du Regard",
+    "title": "Lifting Sourcilier",
+    "lead": "Correction de la ptose des sourcils par voie temporale, frontale ou par exérèse de bandelette cutanée. Résultat naturel et durable. Consultations à Marseille, Nice et Draguignan — interventions à Marseille et Nice.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Lifting Cervico-Facial",
+        "href": "/lifting-cervico-facial/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Lifting",
+        "href": "/lifting-cervico-facial/",
+        "className": null
+      },
+      {
+        "label": "Lifting Sourcilier",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que le lifting sourcilier ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le <strong>lifting sourcilier</strong> — ou browlift — est une intervention chirurgicale qui corrige la descente progressive des sourcils liée au vieillissement. Avec le temps, le sourcil perd sa position naturelle et s'abaisse, donnant un aspect fatigué, fermé ou sévère au regard, même au repos. Cette ptose sourcilière est souvent confondue avec un excès cutané des paupières supérieures, alors qu'elle en est la cause.</p>\n      <p>Le lifting sourcilier repositionne le sourcil à sa hauteur et à son galbe naturels, en agissant sur les structures sous-cutanées responsables de son maintien. Il peut être réalisé seul ou associé à une <a href=\"/blepharoplastie/\" style=\"color:var(--gold);\">blépharoplastie</a>, un <a href=\"/lifting-cervico-facial/\" style=\"color:var(--gold);\">lifting cervico-facial</a> ou, dans le cadre de la <a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">féminisation faciale (FFS)</a>, à d'autres gestes de reféminisation du tiers supérieur du visage.</p>\n      <div class=\"note-med\">\n        <strong>Ptose sourcilière vs excès palpébral :</strong> Un diagnostic précis est indispensable avant toute blépharoplastie supérieure. Traiter un excès cutané palpébral sans corriger une ptose sourcilière sous-jacente donne des résultats décevants et souvent temporaires. La consultation morphologique permet de différencier les deux situations et de proposer le traitement adapté.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Voies d'abord",
+      "title": "Techniques de lifting sourcilier",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Trois voies d'abord sont utilisées selon l'anatomie du patient, le degré de ptose et les objectifs recherchés.</p>\n      <div class=\"tech-grid\">\n        <div class=\"tech-card\">\n          <h3>Voie temporale</h3>\n          <p>Incision dissimulée dans le cuir chevelu temporal, de chaque côté. Elle permet de repositionner la queue du sourcil et la région temporale. Indiquée pour les ptoses latérales isolées. Cicatrice invisible dans les cheveux. Peut être associée à un lifting cervico-facial dans le même temps opératoire.</p>\n        </div>\n        <div class=\"tech-card\">\n          <h3>Voie frontale</h3>\n          <p>Incision dans le cuir chevelu frontal, d'une tempe à l'autre. Elle permet un repositionnement global des deux sourcils sur toute leur longueur. Indiquée pour les ptoses importantes ou complètes. Cicatrice dans les cheveux, invisible une fois cicatrisée.</p>\n        </div>\n        <div class=\"tech-card\">\n          <h3>Exérèse de bandelette cutanée</h3>\n          <p>Résection d'une bandelette de peau directement au-dessus du sourcil, dans la région sus-sourcilière ou frontale basse. Technique directe, efficace et précise dans son résultat. La cicatrice suit le bord supérieur du sourcil et s'intègre naturellement dans le pli cutané. Particulièrement indiquée chez les patients à front haut ou cheveux rares.</p>\n        </div>\n        <div class=\"tech-card\">\n          <h3>Lifting sourcilier en FFS</h3>\n          <p>Dans le cadre de la <a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">féminisation faciale</a>, le lifting sourcilier joue un rôle essentiel — il repositionne les arcades sourcilières dans une position plus haute et plus arquée, caractéristique du visage féminin. Il est fréquemment associé à la rhinoplastie de féminisation et à d'autres gestes du tiers supérieur du visage.</p>\n        </div>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "association",
+      "variant": null,
+      "eyebrow": "Interventions combinées",
+      "title": "Association avec d'autres interventions",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le lifting sourcilier est fréquemment associé à d'autres interventions dans le même temps opératoire — ce qui évite une deuxième anesthésie et une deuxième convalescence.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Associations possibles</span>\n        <ul class=\"liste\">\n          <li><a href=\"/blepharoplastie/\" style=\"color:var(--gold);\">Blépharoplastie supérieure</a> — association très fréquente pour traiter simultanément la ptose sourcilière et l'excès palpébral</li>\n          <li><a href=\"/lifting-cervico-facial/\" style=\"color:var(--gold);\">Lifting cervico-facial</a> — rajeunissement global du visage en un seul temps opératoire</li>\n          <li><a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">Féminisation faciale (FFS)</a> — geste central du tiers supérieur du visage</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "Suites opératoires",
+      "title": "Convalescence",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les suites d'un lifting sourcilier isolé sont généralement légères. Un œdème frontal et péri-oculaire est habituel les premiers jours. Les ecchymoses s'estompent en 10 à 15 jours. La reprise des activités sociales est possible à 10-15 jours selon la technique utilisée et la réactivité individuelle.</p>\n      <p>Lorsque le lifting sourcilier est associé à d'autres interventions, la convalescence est celle de l'intervention la plus longue — généralement le lifting cervico-facial si les deux sont combinés.</p>\n      <div class=\"note-warn\">\n        <strong>Sensibilité du cuir chevelu :</strong> Une hypoesthésie temporaire du cuir chevelu est fréquente après lifting sourcilier par voie frontale ou temporale. Elle se résout spontanément en quelques semaines à quelques mois.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consultation à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La consultation comprend l'analyse morphologique du tiers supérieur du visage, l'évaluation de la position et du galbe des sourcils, et le diagnostic différentiel entre ptose sourcilière et excès palpébral. Un devis personnalisé est remis. Le délai légal de réflexion de <strong>15 jours minimum</strong> est respecté avant toute intervention esthétique.</p>\n<p>Les interventions se déroulent à l'<strong>Hôpital Privé Beauregard de Marseille</strong> et à la <strong>Clinique Saint-François de Nice</strong>. Les consultations sont disponibles en <strong>français, italien et anglais</strong>.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations + Interventions</span>",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations — Interventions à la Clinique Saint-François</span>",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations</span>",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Lifting Sourcilier",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Quelle est la différence entre lifting sourcilier et blépharoplastie supérieure ?",
+              "answer": "La blépharoplastie supérieure traite l'excès de peau de la paupière supérieure. Le lifting sourcilier repositionne le sourcil qui s'est abaissé. Les deux peuvent coexister et être traités dans le même temps opératoire. Un diagnostic précis lors de la consultation est indispensable pour ne pas traiter l'un en oubliant l'autre."
+            },
+            {
+              "question": "Quelle technique choisir — voie temporale, frontale ou exérèse de bandelette ?",
+              "answer": "Le choix dépend de l'anatomie — degré et localisation de la ptose, hauteur du front, densité des cheveux — et des interventions associées. L'exérèse de bandelette sus-sourcilière donne un résultat très précis et direct. La voie temporale est préférée pour les ptoses latérales isolées. La voie frontale convient aux ptoses globales importantes. Le choix est déterminé lors de la consultation morphologique."
+            },
+            {
+              "question": "Le lifting sourcilier laisse-t-il des cicatrices visibles ?",
+              "answer": "Par voie temporale ou frontale, les incisions sont dans le cuir chevelu — invisibles une fois cicatrisées. Pour l'exérèse de bandelette sus-sourcilière, la cicatrice suit le bord supérieur du sourcil et s'intègre naturellement dans le pli cutané. Elle devient discrète en quelques mois."
+            },
+            {
+              "question": "Le lifting sourcilier est-il remboursé ?",
+              "answer": "Non, le lifting sourcilier esthétique n'est pas pris en charge par l'Assurance maladie. Un devis détaillé est remis lors de la consultation préopératoire."
+            },
+            {
+              "question": "Peut-on associer lifting sourcilier et lifting cervico-facial ?",
+              "answer": "Oui, c'est une association fréquente pour un rajeunissement global et harmonieux du visage — le lifting cervico-facial traite le bas du visage et le cou, le lifting sourcilier et la blépharoplastie rajeunissent le regard. Un seul temps anesthésique, une seule convalescence."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Voir aussi",
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null,
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Le Dr Mattia Coda",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/dr-mattia-coda/",
+              "html": "<div class=\"page-card-icon\">👨‍⚕️</div>\n        <div>\n          \n          <p>Chirurgien maxillo-facial — parcours, expertise, consultation trilingue.</p>\n          <a href=\"/dr-mattia-coda/\">Découvrir →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Avant / Après",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/avant-apres/",
+              "html": "<div class=\"page-card-icon\">📸</div>\n        <div>\n          \n          <p>Résultats concrets présentés avec l'accord de chaque patient.</p>\n          <a href=\"/avant-apres/\">Voir les résultats →</a>\n        </div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial",
+      "title": "Consultation lifting sourcilier<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Analyse morphologique complète du tiers supérieur du visage, choix de la technique et devis personnalisé.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "2c1bfc78468dbf90",
+    "date": "2026-09-18"
+  }
+}

@@ -1,0 +1,21 @@
+✔ La fiche de préparation reste utilisable sans JavaScript, puis annonce les cases cochées et imprime (51.471458ms)
+✔ Les nouvelles pages de lieu utilisent leur adresse de consultation canonique (19.097434ms)
+✔ Les liens pratiques conservent leur regroupement et les boutons leur présentation (46.826154ms)
+✔ Une adresse de lieu conserve sa sémantique après enregistrement administratif (6.267496ms)
+✔ Le guide garde tous ses textes dans des rubriques HTML natives, accessibles sans script (290.784856ms)
+✔ Une URL ciblant les risques ouvre la rubrique sans déplacer le focus initial (104.441062ms)
+✔ Tout afficher, tout replier, puis retour à une ancre avec focus clavier (77.939593ms)
+✔ Imprimer ouvre aussi les FAQ puis rétablit exactement la sélection de lecture (64.001874ms)
+✔ Une ancre mal formée ne casse pas les commandes de lecture (57.320303ms)
+✔ Le guide propose deux lectures et garde les détails techniques fermés sans JavaScript (248.73403ms)
+✔ Les originaux des 28 pages restent byte à byte identiques aux empreintes du ZIP importé (2.898131ms)
+✔ Les 18 pages de prise en charge reprennent chaque fragment technique sélectionné sans réécriture (503.154906ms)
+✔ Une ancre technique ouvre ses deux niveaux et Tout afficher inclut les FAQ techniques (48.68708ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1181.854565

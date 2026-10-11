@@ -1,0 +1,416 @@
+{
+  "slug": "medecine-esthetique",
+  "url": "/medecine-esthetique/",
+  "template": "standard",
+  "style": "style-93f6f6b46001.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "440d4dfc4670",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "394164d04142"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Médecine Esthétique Marseille & Nice | Dr Mattia Coda",
+    "description": "Médecine esthétique à Marseille, Nice et Draguignan : Botox, acide hyaluronique, rhinoplastie médicale, mésothérapie. Dr Mattia Coda, chirurgien maxillo-facial.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/medecine-esthetique/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Médecine Esthétique Marseille Nice Draguignan",
+        "description": "Injections de toxine botulique, acide hyaluronique, rhinoplastie médicale et mésothérapie à Marseille, Nice et Draguignan. Dr Mattia Coda, chirurgien maxillo-facial.",
+        "url": "https://www.drmattiacoda.fr/medecine-esthetique/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Médecine Esthétique",
+            "item": "https://www.drmattiacoda.fr/medecine-esthetique/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Injections · Botox · Acide Hyaluronique",
+    "title": "Médecine Esthétique",
+    "lead": "Toxine botulique, acide hyaluronique, rhinoplastie médicale et mésothérapie. Traitement de l'ensemble du visage à Marseille, Nice et Draguignan.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Rhinoplastie Chirurgicale",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Médecine Esthétique",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "approche",
+      "variant": null,
+      "eyebrow": "Approche médicale",
+      "title": "Médecine esthétique du visage",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La médecine esthétique regroupe les actes non chirurgicaux de rajeunissement et d'embellissement du visage — injections de toxine botulique, d'acide hyaluronique et mésothérapie. Ces traitements sont complémentaires de la chirurgie esthétique : ils entretiennent et prolongent un résultat chirurgical, ou constituent une première approche pour les patients qui ne souhaitent pas d'intervention.</p>\n      <p>Pratiquée par un chirurgien maxillo-facial, la médecine esthétique du visage bénéficie d'une connaissance anatomique approfondie — muscles, nerfs faciaux, vaisseaux, plans de profondeur. Cette maîtrise anatomique conditionne directement la précision et la sécurité des injections.</p>\n      <div class=\"note-med\">\n        <strong>Actes réalisés dans les trois cabinets :</strong> Les injections de toxine botulique, d'acide hyaluronique et la mésothérapie sont disponibles à Marseille, Nice et Draguignan — sans nécessiter de déplacement dans un établissement chirurgical.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "botox",
+      "variant": null,
+      "eyebrow": "Toxine botulique",
+      "title": "Injections de toxine botulique (Botox)",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La toxine botulique agit en bloquant temporairement la contraction des muscles responsables des rides d'expression. Elle ne modifie pas les volumes — elle détend les muscles et lisse les rides dynamiques. L'effet apparaît en 3 à 7 jours et dure 4 à 6 mois selon les patients.</p>\n      <div class=\"actes-grid\">\n        <div class=\"acte-card\">\n          <h3>Rides du front</h3>\n          <p>Traitement des rides horizontales du front liées à la contraction du muscle frontal. Résultat naturel préservant l'expressivité du visage.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Glabelle — rides du lion</h3>\n          <p>Traitement des rides verticales entre les sourcils (rides du lion), dues à la contraction des muscles corrugateurs et procerus. Zone la plus fréquemment traitée.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Pattes d'oie</h3>\n          <p>Traitement des rides péri-oculaires latérales liées aux contractions de l'orbiculaire de l'œil. Résultat très visible et apprécié.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Autres zones</h3>\n          <p>Ride du lapin (nez), ride du menton (muscle mentonnier), correction d'un sourire gingival, traitement du platysma cervical (bandes du cou). Évaluation lors de la consultation.</p>\n        </div>\n      </div>\n      <div class=\"note-warn\">\n        <strong>Résultat naturel :</strong> L'objectif n'est pas de figer le visage mais de l'adoucir en préservant les expressions. Le dosage est adapté à l'anatomie musculaire de chaque patient pour éviter un aspect artificiel.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "acide-hyaluronique",
+      "variant": null,
+      "eyebrow": "Acide Hyaluronique",
+      "title": "Injections d'acide hyaluronique",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'acide hyaluronique est une substance naturellement présente dans l'organisme. Injecté sous forme de gel, il restaure les volumes perdus, comble les creux et atténue les rides statiques. L'effet est immédiat et dure 9 à 18 mois selon la zone traitée et le type de produit utilisé.</p>\n      <div class=\"actes-grid\">\n        <div class=\"acte-card\">\n          <h3>Sillons naso-géniens</h3>\n          <p>Comblement des plis qui vont du nez aux commissures des lèvres. L'injection restaure l'éclat du visage sans modifier les expressions.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Lèvres</h3>\n          <p>Augmentation du volume, définition du bord vermillon, correction de l'asymétrie. Résultat naturel respectant les proportions du visage.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Cernes et vallée des larmes</h3>\n          <p>Correction des cernes creux liés à la perte de volume sous-oculaire. Zone délicate nécessitant une technique précise et une connaissance anatomique rigoureuse.</p>\n        </div>\n        <div class=\"acte-card\">\n          <h3>Pommettes et ovale du visage</h3>\n          <p>Restauration du volume des pommettes, redéfinition de l'ovale du visage et correction des bajoues débutantes par injection dans les plans profonds.</p>\n        </div>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "rhinoplastie-medicale",
+      "variant": null,
+      "eyebrow": "Sans chirurgie",
+      "title": "Rhinoplastie médicale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie médicale</strong> consiste à injecter de l'acide hyaluronique sur le nez pour en modifier visuellement le profil sans recourir à la chirurgie. Elle permet de camoufler une bosse modérée, de relever une pointe tombante ou de corriger une légère asymétrie de profil.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Ce que permet la rhinoplastie médicale</span>\n        <ul class=\"liste\">\n          <li>Camouflage visuel d'une bosse nasale modérée en injectant au-dessus et en-dessous de la gibbosité</li>\n          <li>Correction d'une légère asymétrie de profil</li>\n          <li>Relever visuellement une pointe légèrement tombante</li>\n          <li>Résultat immédiat, sans anesthésie générale, sans convalescence</li>\n        </ul>\n      </div>\n      <div class=\"note-warn\">\n        <strong>Limites importantes :</strong> La rhinoplastie médicale ne réduit pas la taille d'un nez et ne corrige pas les anomalies fonctionnelles. Pour une correction permanente — bosse importante, déviation, problème respiratoire — seule la <a href=\"/rhinoplastie/\" style=\"color:var(--gold);\">rhinoplastie chirurgicale</a> apporte un résultat durable. La consultation permet d'évaluer quelle approche est la plus adaptée.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "mesotherapie",
+      "variant": null,
+      "eyebrow": "Revitalisation cutanée",
+      "title": "Mésothérapie",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>mésothérapie</strong> consiste en des micro-injections intradermiques de cocktails de principes actifs — vitamines, acide hyaluronique non réticulé, minéraux, acides aminés — directement dans le derme superficiel. Elle améliore la qualité, l'éclat et l'hydratation de la peau du visage et du cou.</p>\n      <ul class=\"liste\">\n        <li>Hydratation profonde et revitalisation cutanée</li>\n        <li>Amélioration de l'éclat et de la texture de la peau</li>\n        <li>Stimulation de la production de collagène</li>\n        <li>Traitement du visage, du cou et du décolleté</li>\n        <li>En entretien après une intervention chirurgicale ou en traitement indépendant</li>\n      </ul>\n      <p>Un protocole de 3 à 4 séances espacées de 2 à 4 semaines est généralement recommandé en cure initiale, suivi de séances d'entretien.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consultations à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>Les actes de médecine esthétique sont réalisés dans les trois cabinets — Marseille, Nice et Draguignan. La consultation permet d'évaluer les besoins, de proposer un plan de traitement personnalisé et d'informer sur les résultats attendus et les suites. Les consultations sont disponibles en <strong>français, italien et anglais</strong>.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Médecine Esthétique",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Combien de temps dure l'effet du Botox ?",
+              "answer": "L'effet de la toxine botulique dure généralement 4 à 6 mois selon la zone traitée, le dosage et la réactivité musculaire individuelle. Des séances d'entretien sont recommandées 2 à 3 fois par an pour maintenir le résultat."
+            },
+            {
+              "question": "Peut-on associer Botox et acide hyaluronique dans la même séance ?",
+              "answer": "Oui, c'est même fréquent. La toxine botulique traite les rides dynamiques (front, glabelle, pattes d'oie), l'acide hyaluronique comble les rides statiques et restaure les volumes (sillons, lèvres, cernes). Les deux produits sont complémentaires et peuvent être injectés lors de la même consultation."
+            },
+            {
+              "question": "La rhinoplastie médicale peut-elle remplacer la rhinoplastie chirurgicale ?",
+              "answer": "Non. La rhinoplastie médicale permet de camoufler visuellement certains défauts modérés — bosse légère, légère asymétrie de profil — mais ne peut ni réduire la taille d'un nez, ni corriger une déviation, ni traiter une obstruction respiratoire. Pour une correction permanente et complète, seule la rhinoplastie chirurgicale est indiquée."
+            },
+            {
+              "question": "La médecine esthétique est-elle remboursée ?",
+              "answer": "Non. Les actes de médecine esthétique — injections de toxine botulique, d'acide hyaluronique et mésothérapie — ne sont pas pris en charge par l'Assurance maladie. Un devis est communiqué lors de la consultation."
+            },
+            {
+              "question": "Y a-t-il une convalescence après des injections ?",
+              "answer": "Non. Les injections ne nécessitent pas de convalescence — le patient reprend ses activités immédiatement. De légères rougeurs ou ecchymoses au point d'injection peuvent apparaître et disparaissent en 24 à 48 heures. Il est conseillé d'éviter le sport intense et l'exposition à la chaleur (sauna, bain chaud) dans les 24 heures suivant les injections."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Voir aussi",
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null,
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Féminisation Faciale",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/feminisation-faciale/",
+              "html": "<div class=\"page-card-icon\">🌸</div>\n        <div>\n          \n          <p>Harmoniser les traits du visage selon l'identité de genre.</p>\n          <a href=\"/feminisation-faciale/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Lifting Cervico-Facial",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/lifting-cervico-facial/",
+              "html": "<div class=\"page-card-icon\">🪞</div>\n        <div>\n          \n          <p>Repulper et retendre l'ovale du visage et le cou.</p>\n          <a href=\"/lifting-cervico-facial/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Le Dr Mattia Coda",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/dr-mattia-coda/",
+              "html": "<div class=\"page-card-icon\">👨‍⚕️</div>\n        <div>\n          \n          <p>Chirurgien maxillo-facial — parcours, expertise, consultation trilingue.</p>\n          <a href=\"/dr-mattia-coda/\">Découvrir →</a>\n        </div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial",
+      "title": "Consultation médecine esthétique<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Bilan personnalisé et plan de traitement adapté à votre anatomie et vos objectifs.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "239a8cb01a3c7ee0",
+    "date": "2026-09-18"
+  }
+}

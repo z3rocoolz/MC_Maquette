@@ -1,0 +1,211 @@
+{
+  "slug": "confidentialite",
+  "url": "/confidentialite/",
+  "template": "standard",
+  "style": "style-0544494883b1.css",
+  "scripts": [
+    "script-78573689e4cf.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "21c89bec737a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "83fef08c0f33"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Politique de Confidentialité & RGPD – Dr Mattia Coda",
+    "description": "Politique de confidentialité et RGPD du Dr Mattia Coda : données collectées, finalités, durée de conservation et exercice de vos droits sur vos informations.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/confidentialite/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": []
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "",
+    "title": "Politique de Confidentialité",
+    "lead": "",
+    "buttons": [],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Confidentialité",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Responsable du traitement des données",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p><strong>Dr Mattia Coda</strong> — Chirurgien Maxillo-Facial</p>\n      <p>RPPS : 10100805174</p>\n      <p>Hôpital Privé Beauregard, 23 rue des Linots, 13012 Marseille</p>\n      <p>Email : <a href=\"mailto:docteurcoda@gmail.com\">docteurcoda@gmail.com</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Données collectées",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Dans le cadre de l'utilisation de ce site et de la prise de rendez-vous via Doctolib, les données suivantes peuvent être collectées :</p>\n      <ul style=\"list-style:none;margin:12px 0;\">\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données de navigation :</strong> adresse IP, type de navigateur, pages consultées, durée de visite (via cookies analytiques anonymisés)</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données de contact :</strong> nom, prénom, numéro de téléphone, adresse email, objet de la demande — uniquement si vous contactez le cabinet par email ou téléphone</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données de rendez-vous :</strong> gérées directement par Doctolib, soumises à la politique de confidentialité de Doctolib (<a href=\"https://www.doctolib.fr/terms/privacy\" target=\"_blank\" rel=\"noopener\">voir leur politique</a>)</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données médicales :</strong> collectées uniquement lors des consultations, soumises au secret médical et aux règles de conservation des dossiers médicaux (20 ans minimum)</span></li>\n      </ul>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Finalités du traitement",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les données collectées sont utilisées exclusivement pour :</p>\n      <ul style=\"list-style:none;margin:12px 0;\">\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span>La gestion des demandes de rendez-vous et des consultations</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span>Le suivi médical des patients dans le cadre du secret médical</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span>L'amélioration de l'expérience utilisateur sur le site (statistiques anonymisées)</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span>Le respect des obligations légales (conservation des dossiers médicaux)</span></li>\n      </ul>\n      <p>Aucune donnée personnelle n'est vendue, transmise ou partagée avec des tiers à des fins commerciales.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Base légale du traitement",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le traitement des données repose sur :</p>\n      <ul style=\"list-style:none;margin:12px 0;\">\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>L'exécution d'un contrat</strong> (article 6.1.b RGPD) — prise en charge médicale</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>L'obligation légale</strong> (article 6.1.c RGPD) — conservation des dossiers médicaux</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Le consentement</strong> (article 6.1.a RGPD) — pour les cookies analytiques non essentiels</span></li>\n      </ul>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Durée de conservation",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<ul style=\"list-style:none;margin:12px 0;\">\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Dossiers médicaux :</strong> 20 ans à compter de la dernière consultation (article R.1112-7 du Code de la santé publique)</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données de contact :</strong> 3 ans à compter du dernier contact</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Données de navigation :</strong> 13 mois maximum (cookies analytiques)</span></li>\n      </ul>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Vos droits",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez des droits suivants :</p>\n      <ul style=\"list-style:none;margin:12px 0;\">\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Droit d'accès</strong> — consulter les données vous concernant</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Droit de rectification</strong> — corriger des données inexactes</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Droit à l'effacement</strong> — sous réserve des obligations légales de conservation</span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;margin-bottom:8px;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Droit à la limitation du traitement</strong></span></li>\n        <li style=\"display:flex;gap:10px;font-size:.84rem;\"><span style=\"width:12px;height:1px;background:var(--gold);margin-top:12px;flex-shrink:0;display:block;\"></span><span><strong>Droit d'opposition</strong> — pour les traitements basés sur l'intérêt légitime</span></li>\n      </ul>\n      <p>Pour exercer ces droits, contactez le Dr Mattia Coda à l'adresse : <a href=\"mailto:docteurcoda@gmail.com\">docteurcoda@gmail.com</a></p>\n      <p>En cas de réclamation non résolue, vous pouvez saisir la <strong>CNIL</strong> : <a href=\"https://www.cnil.fr\" target=\"_blank\" rel=\"noopener\">www.cnil.fr</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Cookies",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Ce site peut utiliser des cookies techniques nécessaires à son fonctionnement. Des cookies analytiques anonymisés peuvent être utilisés pour mesurer l'audience du site. Aucun cookie publicitaire ou de traçage à des fins commerciales n'est utilisé.</p>\n      <p>Vous pouvez configurer votre navigateur pour refuser les cookies ou être alerté de leur dépôt.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": null,
+      "eyebrow": "",
+      "title": "Modification de la politique de confidentialité",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le Dr Mattia Coda se réserve le droit de modifier cette politique de confidentialité à tout moment. La date de dernière mise à jour sera indiquée en bas de page.</p>\n      <p style=\"font-size:.78rem;color:var(--muted);margin-top:16px;font-style:italic;\">Dernière mise à jour : janvier 2026</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "c7f1bf35dfe93d4e",
+    "date": "2026-09-18"
+  }
+}

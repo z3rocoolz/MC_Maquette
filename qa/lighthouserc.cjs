@@ -1,0 +1,11 @@
+module.exports={ci:{
+ collect:{staticDistDir:'../dist',url:['http://localhost/index.html','http://localhost/rhinoplastie.html','http://localhost/preparer-consultation.html'],numberOfRuns:3},
+ assert:{assertions:{
+  'categories:performance':['warn',{minScore:.9}],
+  'categories:accessibility':['error',{minScore:1}],
+  'largest-contentful-paint':['warn',{maxNumericValue:2500}],
+  'cumulative-layout-shift':['warn',{maxNumericValue:.1}],
+  'total-blocking-time':['warn',{maxNumericValue:200}]
+ }},
+ upload:{target:'filesystem',outputDir:'reports/lighthouse'}
+}};

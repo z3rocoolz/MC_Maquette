@@ -1,0 +1,1013 @@
+{
+  "slug": "rhinoplastie_v3",
+  "url": "/rhinoplastie/",
+  "template": "guide",
+  "style": "style-e914909976b0.css",
+  "scripts": [
+    "script-578ac9f71c6f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "d9cc4f494cff",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "ddf150b7e13e"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie : Guide Complet | Dr Mattia Coda",
+    "description": "Guide médical complet sur la rhinoplastie par le Dr Mattia Coda, chirurgien maxillo-facial à Marseille, Nice et Draguignan. Techniques et suites opératoires.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie – Guide médical complet",
+        "description": "Guide médical sur la rhinoplastie esthétique et fonctionnelle rédigé par le Dr Mattia Coda, chirurgien maxillo-facial.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie/",
+        "lastReviewed": "2026-01",
+        "specialty": "Chirurgie Maxillo-Faciale",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie",
+          "procedureType": "Chirurgie esthétique et fonctionnelle du nez",
+          "bodyLocation": "Nez, pyramide nasale, cloison nasale",
+          "preparation": "Consultation préopératoire obligatoire, délai légal de réflexion de 15 jours",
+          "followup": "Consultations à J+6, J+30, J+90 et 12 mois",
+          "howPerformed": "Anesthésie générale, voie ouverte ou fermée, techniques ultrasonique ou de préservation"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "url": "https://www.drmattiacoda.fr",
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "hasCredential": [
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "Diplôme d'État de Docteur en Médecine"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "DES en Chirurgie Maxillo-Faciale et Stomatologie"
+            },
+            {
+              "@type": "EducationalOccupationalCredential",
+              "credentialCategory": "DIU de Chirurgie Esthétique du Visage"
+            }
+          ]
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Combien coûte une rhinoplastie à Marseille ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le tarif d'une rhinoplastie à Marseille varie entre 4 000 € et 9 000 € selon la technique (ultrasonique, de préservation, structurelle) et la complexité du cas. Ce tarif inclut les honoraires du chirurgien, de l'anesthésiste et les frais de clinique. Un devis détaillé est remis après consultation avec le Dr Mattia Coda."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quelle différence entre rhinoplastie ultrasonique et classique ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie classique utilise des ostéotomes et un maillet pour fracturer les os nasaux. La rhinoplastie ultrasonique utilise des instruments piézoélectriques (25-29 kHz) qui sculptent l'os sélectivement sans traumatiser les tissus mous adjacents. Résultat : réduction significative des ecchymoses, œdème moindre, récupération en 7 à 10 jours au lieu de 10 à 15 jours, et précision chirurgicale supérieure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Qu'est-ce que la technique Push-Down en rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La technique Push-Down est une variante de la rhinoplastie de préservation qui abaisse le dorsum nasal en poussant les os nasaux vers le bas après désarticulation de leurs attaches latérales et médiales. Elle évite la création d'un toit ouvert classique et les ostéotomies de fermeture, générant moins d'œdème et un résultat plus naturel."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Quand voit-on le résultat définitif d'une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le résultat évolue progressivement : environ 60 % visible à 1 mois, 80 % à 3 mois, 90 % à 6 mois. Le résultat définitif est atteint entre 12 et 18 mois après l'intervention. Sur les peaux épaisses, ce délai peut atteindre 24 mois en raison de la lenteur de résorption de l'œdème de la pointe nasale."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie fonctionnelle (septorhinoplastie) est-elle remboursée par la Sécurité sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie fonctionnelle — septorhinoplastie quand associée à une rhinoplastie esthétique — peut faire l'objet d'une prise en charge partielle ou totale par l'Assurance maladie pour sa composante fonctionnelle documentée. La turbinoplastie peut également être prise en charge. La partie esthétique reste toujours à la charge du patient."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "À quel âge peut-on réaliser une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Il est recommandé d'attendre la fin de la croissance osseuse nasale : 16 ans pour les jeunes filles, 17 à 18 ans pour les garçons. Une intervention avant la fin de croissance pourrait interférer avec le développement osseux et nécessiter une révision ultérieure."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien de temps dure une rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La durée opératoire varie de 1h30 à 3h selon la complexité. Une rhinoplastie primaire simple dure environ 1h30 à 2h. Une rhinoplastie secondaire complexe ou une rhinoplastie mixte fonctionnelle et esthétique peuvent nécessiter 2h30 à 3h."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on associer d'autres interventions à la rhinoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. La rhinoplastie peut être associée dans le même temps opératoire à une génioplastie (chirurgie du menton) pour rééquilibrer le profil facial — on parle alors de profiloplastie — ou à une blépharoplastie, selon l'indication et l'état général du patient."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Guide médical · Chirurgie esthétique et fonctionnelle du nez",
+    "title": "Rhinoplastie",
+    "lead": "<br>",
+    "buttons": [
+      {
+        "label": "Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Consulter le sommaire",
+        "href": "#sommaire",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": null,
+        "className": null
+      }
+    ],
+    "separateurClass": "breadcrumb-sep"
+  },
+  "layout": [
+    {
+      "tag": "div",
+      "className": "page-wrap",
+      "id": null
+    },
+    {
+      "tag": "main",
+      "className": "main-content",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": null,
+      "variant": "libre",
+      "eyebrow": "",
+      "title": "",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": null,
+          "id": "sommaire",
+          "blocks": [
+            {
+              "type": "group",
+              "tag": "div",
+              "className": "sommaire",
+              "id": null,
+              "blocks": [
+                {
+                  "type": "html",
+                  "html": "<br>"
+                },
+                {
+                  "type": "group",
+                  "tag": "div",
+                  "className": "sommaire-grid",
+                  "id": null,
+                  "blocks": [
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#definition\">1. Définition et objectifs</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#anatomie\">2. Anatomie du nez</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#indications\">3. Indications médicales</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#techniques\">4. Techniques chirurgicales</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#voies\">5. Voies d'abord</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#bilan\">6. Bilan préopératoire</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#intervention\">7. Déroulement opératoire</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#suites\">8. Suites opératoires</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#risques\">9. Risques et complications</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#prix\">10. Tarifs</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#faq\">11. Questions fréquentes</a>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "tag": "div",
+                      "className": "sommaire-item",
+                      "id": null,
+                      "blocks": [
+                        {
+                          "type": "html",
+                          "html": "<a href=\"#villes\">12. Consultations</a>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "1. Définition",
+      "title": "Qu'est-ce que la rhinoplastie ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie</strong> est une intervention chirurgicale portant sur la pyramide nasale. Elle vise à modifier la forme, la taille ou la fonction du nez en agissant sur ses structures ostéocartilagineuses. C'est l'une des interventions de chirurgie esthétique les plus complexes, en raison de la diversité des morphologies nasales et de l'importance de l'harmonie globale du visage.</p>\n    <ul>\n      <li><strong>Rhinoplastie esthétique</strong> : modification de la forme du nez — correction d'une bosse, d'une pointe trop large, d'une asymétrie, d'une déviation de l'axe ou de la longueur du nez.</li>\n      <li><strong>Rhinoplastie fonctionnelle</strong> (ou <strong>septorhinoplastie</strong> quand associée à une composante esthétique) : correction des anomalies anatomiques responsables d'une obstruction nasale chronique — déviation de la cloison, hypertrophie des cornets, collapsus valvulaire. Peut faire l'objet d'une prise en charge par l'Assurance maladie.</li>\n      <li><strong>Rhinoplastie mixte</strong> : association d'une composante esthétique et fonctionnelle dans le même temps opératoire — situation la plus fréquente en pratique clinique.</li>\n    </ul>\n    <p>On parle de <strong>rhinoplastie primaire</strong> lors de la première intervention, et de <strong>rhinoplastie secondaire</strong> (ou de révision) lorsqu'une précédente intervention a déjà été réalisée — une technique plus complexe détaillée dans la <a href=\"#techniques\" style=\"color:var(--gold);\">section techniques</a>. Pour les patients de Marseille, Nice ou Draguignan — y compris pour une <a href=\"/rhinoplastie-homme/\" style=\"color:var(--gold);\">rhinoplastie masculine</a> ou une <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a> — la prise en charge est évaluée lors d'une <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">consultation à Marseille</a>, <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">à Nice</a> ou <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">à Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "anatomie",
+      "variant": null,
+      "eyebrow": "2. Anatomie nasale",
+      "title": "Anatomie du nez — bases chirurgicales",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La compréhension précise de l'anatomie nasale est fondamentale pour toute rhinoplastie. Le nez est constitué de plusieurs structures dont la connaissance guide les choix techniques du chirurgien.</p>\n    Structure ostéocartilagineuse\n    <p>\n      </p><p>\n        Os propres du nez\n        </p><p>Deux petits os plats formant le tiers supérieur du nez. Leur remodelage est l'objectif principal de la rhinoplastie osseuse — réduction d'une bosse, correction d'une asymétrie, abaissement du dorsum.</p>\n      <p></p>\n      <p>\n        Cartilages triangulaires (latéraux supérieurs)\n        </p><p>Deux lames cartilagineuses formant le tiers moyen du nez. Ils participent à la valve nasale interne dont le collapsus est une cause fréquente d'obstruction respiratoire. Leur préservation est un enjeu majeur en rhinoplastie de préservation.</p>\n      <p></p>\n      <p>\n        Cartilages alaires (latéraux inférieurs)\n        </p><p>Composés d'une crus médiale (columelle), intermédiaire et latérale. Ils définissent la forme de la pointe nasale. Leur remodelage est l'une des étapes les plus délicates de la rhinoplastie.</p>\n      <p></p>\n      <p>\n        Septum cartilagineux\n        </p><p>Cloison médiane composée d'une lame cartilagineuse en avant et d'une lame osseuse en arrière. Sa déviation est la principale cause d'obstruction nasale. Il constitue la première source de greffons cartilagineux en rhinoplastie structurelle.</p>\n      <p></p>\n    <p></p>\n    Les valves nasales\n    <ul>\n      <li><strong>Valve nasale interne</strong> : zone angulaire formée par le bord caudal du cartilage latéral supérieur et le septum (10-15°). Un angle inférieur à 10° génère une obstruction inspiratoire.</li>\n      <li><strong>Valve nasale externe</strong> : comprend la crus latérale du cartilage alaire et les structures des ailes nasales. Son collapsus dynamique est une cause d'obstruction souvent sous-diagnostiquée.</li>\n    </ul>\n    Épaisseur cutanée\n    <p>L'épaisseur de la peau nasale conditionne directement le résultat chirurgical. Sur <strong>peau fine</strong>, la précision technique est primordiale car les moindres irrégularités sont visibles. Sur <strong>peau épaisse</strong>, des techniques structurelles avec support cartilagineux sont souvent nécessaires pour affiner la pointe.</p>\n    <p>\n      <strong>Point clinique :</strong> L'évaluation de l'épaisseur cutanée lors de la consultation préopératoire est déterminante dans le choix de la technique chirurgicale.\n    </p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "3. Indications",
+      "title": "Indications médicales et esthétiques",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n      <span class=\"info-box-title\">Principales indications esthétiques</span>\n      </p><ul>\n        <li>Gibbosité naso-dorsale (bosse osseuse et/ou cartilagineuse visible sur le profil)</li>\n        <li>Ptose de la pointe nasale (pointe tombante)</li>\n        <li>Pointe bulbeuse, trop large, asymétrique ou mal projetée</li>\n        <li>Déviation de la pyramide nasale par rapport à la ligne médiane</li>\n        <li>Hypertrophie des ailes nasales</li>\n        <li>Nez trop long ou trop court</li>\n        <li>Columelle pendante</li>\n        <li>Séquelles de traumatisme nasal</li>\n      </ul>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Principales indications fonctionnelles</span>\n      </p><ul>\n        <li>Déviation septale avec obstruction nasale chronique</li>\n        <li>Hypertrophie des cornets inférieurs</li>\n        <li>Collapsus de la valve nasale interne (angle septal trop fermé)</li>\n        <li>Collapsus de la valve nasale externe (insuffisance de soutien de la crus latérale)</li>\n        <li>Synéchies nasales (brides cicatricielles intranasales)</li>\n      </ul>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Contre-indications principales</span>\n      </p><ul>\n        <li>Croissance faciale non terminée (avant 16 ans pour les filles, 17-18 ans pour les garçons)</li>\n        <li>Troubles de la coagulation non équilibrés</li>\n        <li>Pathologies psychiatriques non stabilisées (dysmorphophobie notamment)</li>\n        <li>Attentes irréalistes ne pouvant être satisfaites chirurgicalement</li>\n        <li>Tabagisme actif non sevré</li>\n        <li>Prise d'anticoagulants ou d'antiagrégants non interrompue</li>\n      </ul>\n    <p></p>\n    <p>\n      <strong>Note clinique :</strong> L'évaluation psychologique du patient est une étape essentielle. Le chirurgien doit s'assurer que les attentes sont réalistes, stables et cohérentes avec les possibilités anatomiques.\n    </p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "4. Techniques chirurgicales",
+      "title": "Les techniques de rhinoplastie",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le choix de la technique est déterminé par l'analyse morphologique préopératoire, le type de corrections souhaitées, l'épaisseur cutanée et les antécédents chirurgicaux du patient. Le principe directeur est la <strong>conservation maximale des structures existantes</strong> — ne réséquer que ce qui est strictement nécessaire, préserver ce qui peut l'être. Cette philosophie conservatrice, popularisée notamment par le Dr Teoman Dogan, permet d'obtenir des résultats plus naturels avec des suites opératoires allégées.</p>",
+          "className": "txt"
+        },
+        {
+          "type": "cards",
+          "variant": "tech",
+          "items": [
+            {
+              "className": "tech-card",
+              "tag": "div",
+              "title": "Rhinoplastie Ultrasonique",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<p></p>\n      <span class=\"tech-label\">Technique avancée</span>\n      \n      <p>Utilise des instruments piézoélectriques (25-29 kHz) qui sculptent sélectivement l'os sans traumatiser les tissus mous adjacents. Réduction significative des ecchymoses post-opératoires, récupération accélérée (7-10 jours), précision de sculpture supérieure aux techniques conventionnelles. Proposée à <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Marseille</a>, à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> et en consultation à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>. <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Voir les techniques pratiquées à Marseille →</a></p>",
+              "link": "/rhinoplastie-marseille/#rhinoplasties-marseille"
+            },
+            {
+              "className": "tech-card",
+              "tag": "div",
+              "title": "Rhinoplastie de Préservation & Push-Down",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<p></p>\n      <span class=\"tech-label\">Technique moderne</span>\n      \n      <p>Repositionne les structures ostéocartilagineuses sans les réséquer. La technique Push-Down abaisse le dorsum en poussant les os vers le bas, évitant le toit ouvert classique et les ostéotomies de fermeture. Résultat plus naturel, récupération accélérée. Disponible en consultation à <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Marseille</a>, <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> et <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+              "link": "/rhinoplastie-marseille/#rhinoplasties-marseille"
+            },
+            {
+              "className": "tech-card",
+              "tag": "div",
+              "title": "Rhinoplastie Structurelle & Teostrut",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<p></p>\n      <span class=\"tech-label\">Cas complexes</span>\n      \n      <p>Reconstruction à l'aide de greffons cartilagineux (septum, oreille, côte). Indiquée pour les rhinoplasties secondaires, les peaux épaisses et les asymétries sévères. Le <strong>teostrut</strong> est un greffon cartilagineux septal en forme de triangle utilisé comme pilier de soutien de la pointe nasale. Développé par le Dr Teoman Dogan, il permet d'obtenir une pointe stable et définie sur le long terme, sans risque d'affaissement secondaire. Cette technique combine les principes de la rhinoplastie de préservation avec un renforcement structurel sélectif de la pointe. Évaluation lors de la consultation à <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Marseille</a>, <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> ou <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+              "link": "/rhinoplastie-marseille/#rhinoplasties-marseille"
+            },
+            {
+              "className": "tech-card",
+              "tag": "div",
+              "title": "Rhinoplastie Fonctionnelle & Septorhinoplastie",
+              "titleTag": "h3",
+              "titleClass": null,
+              "html": "<p></p>\n      <span class=\"tech-label\">Fonctionnel</span>\n      \n      <p>Septoplastie (correction de la déviation septale), turbinoplastie (réduction des cornets hypertrophiés), correction valvulaire interne (spreader graft) ou externe (alar batten graft). Lorsqu'elle est associée à une rhinoplastie esthétique dans le même temps opératoire, on parle de <strong>septorhinoplastie</strong>. Prise en charge partielle ou totale par l'Assurance maladie possible. Consultations disponibles à <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Marseille</a>, <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> et <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+              "link": "/rhinoplastie-marseille/#rhinoplasties-marseille"
+            }
+          ],
+          "className": "tech-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "voies",
+      "variant": null,
+      "eyebrow": "5. Voies d'abord",
+      "title": "Voies d'abord : ouverte, fermée et marginale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n      </p><p>\n        Voie fermée (endonasale)\n        </p><p>Toutes les incisions sont réalisées à l'intérieur des narines — aucune cicatrice externe. Visibilité chirurgicale réduite, adaptée aux corrections modérées sur des structures de base satisfaisantes.</p>\n      <p></p>\n      <p>\n        Voie ouverte (externe)\n        </p><p>Incision supplémentaire sur la columelle (en V ou W), permettant d'exposer toutes les structures cartilagineuses. Indispensable pour les cas complexes et les révisions. Cicatrice columellaire fine, pratiquement imperceptible à 12 mois.</p>\n      <p></p>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Cicatrices en rhinoplastie</span>\n      </p><ul>\n        <li><strong>Voie fermée :</strong> cicatrices exclusivement intranasales — invisibles</li>\n        <li><strong>Voie ouverte :</strong> fine cicatrice columellaire (4-5 mm), invisible de face, s'estompant entre 6 et 12 mois</li>\n        <li><strong>Incision marginale :</strong> aucune cicatrice visible — incision longeant le bord caudal du cartilage alaire, sans traverser la columelle</li>\n        <li>Protection solaire SPF50+ recommandée pendant 6 mois pour prévenir l'hyperpigmentation</li>\n      </ul>\n    <p></p>\n    <p>\n      </p><p>\n        </p>Incision marginale\n        <p>Troisième voie d'abord utilisée pour les patients souhaitant éviter toute cicatrice visible. L'incision longe le bord caudal des cartilages alaires sans traverser la columelle. Elle permet un accès aux structures cartilagineuses de la pointe pour des corrections ciblées — affinement, repositionnement — sans laisser de trace externe perceptible.</p>\n      <p></p>\n    <p></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "bilan",
+      "variant": null,
+      "eyebrow": "6. Bilan préopératoire",
+      "title": "Consultation et bilan préopératoire",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n      <span class=\"info-box-title\">Contenu de la consultation préopératoire</span>\n      </p><ul>\n        <li>Anamnèse : antécédents médicaux et chirurgicaux, traitements en cours, allergies, tabagisme</li>\n        <li>Analyse morphologique clinique (face, profil, 3/4, vue de base)</li>\n        <li>Évaluation de l'épaisseur cutanée et examen endonasal (rhinoscopie)</li>\n        <li>Photographies standardisées</li>\n        <li>Simulation morphologique informatisée</li>\n        <li>Information sur les techniques, suites et risques</li>\n        <li>Remise du devis détaillé et du document d'information réglementaire</li>\n      </ul>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Arrêts médicamenteux préopératoires</span>\n      </p><ul>\n        <li>Aspirine et AINS : arrêt 10 jours avant</li>\n        <li>Anticoagulants et antiagrégants : selon prescription anesthésiste</li>\n        <li>Tabac : arrêt minimum 1 mois avant et 1 mois après</li>\n        <li>Compléments alimentaires (vitamine E, oméga-3) : arrêt 10 jours avant</li>\n        <li>Isotrétinoïne (Roaccutane®) : arrêt 6 mois minimum avant</li>\n      </ul>\n    <p></p>\n    <p>\n      <strong>Obligation légale :</strong> Un délai de réflexion minimum de <strong>15 jours</strong> doit être respecté entre la première consultation et l'intervention (décret du 28 mars 1994). Ce délai est incompressible.\n    </p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "intervention",
+      "variant": null,
+      "eyebrow": "7. Déroulement opératoire",
+      "title": "Déroulement de la rhinoplastie",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "etapes",
+          "items": [
+            {
+              "className": "etape",
+              "tag": "div",
+              "title": "Anesthésie générale",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<p>01</p>\n      <p>\n        \n        </p><p>Réalisée sous anesthésie générale avec intubation orotrachéale. Infiltration locale d'une solution vasoconstrictrice en début d'intervention. Durée opératoire : <strong>1h30 à 3h</strong> selon la complexité.</p>\n      <p></p>",
+              "link": null
+            },
+            {
+              "className": "etape",
+              "tag": "div",
+              "title": "Incisions et dissection",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<p>02</p>\n      <p>\n        \n        </p><p>Incisions selon la voie d'abord choisie. Dissection atraumatique des plans sous-cutanés pour préserver la vascularisation cutanée et le périoste.</p>\n      <p></p>",
+              "link": null
+            },
+            {
+              "className": "etape",
+              "tag": "div",
+              "title": "Remodelage ostéocartilagineux",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<p>03</p>\n      <p>\n        \n        </p><p>Les structures osseuses et cartilagineuses sont remodelées selon le plan préopératoire. En rhinoplastie ultrasonique, les instruments piézoélectriques permettent une sculpture osseuse précise sans traumatisme tissulaire.</p>\n      <p></p>",
+              "link": null
+            },
+            {
+              "className": "etape",
+              "tag": "div",
+              "title": "Ostéotomies",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<p>04</p>\n      <p>\n        \n        </p><p>Sections osseuses permettant de mobiliser les os propres du nez pour fermer un toit ouvert, corriger une déviation ou modifier la largeur de la base nasale. Réalisables à l'ostéotome conventionnel ou aux instruments ultrasoniques.</p>\n      <p></p>",
+              "link": null
+            },
+            {
+              "className": "etape",
+              "tag": "div",
+              "title": "Fermeture et attelle",
+              "titleTag": "h4",
+              "titleClass": null,
+              "html": "<p>05</p>\n      <p>\n        \n        </p><p>Fermeture par fils résorbables fins. Attelle nasale en résine thermoplastique maintenue pendant <strong>6 jours</strong>. Des méchages endonasaux peuvent être posés selon les gestes réalisés.</p>\n      <p></p>",
+              "link": null
+            }
+          ],
+          "className": "etapes"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "8. Suites opératoires",
+      "title": "Suites opératoires et convalescence",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n      <span class=\"info-box-title\">Chronologie post-opératoire</span>\n      </p><ul>\n        <li><strong>J+6 :</strong> retrait de l'attelle nasale, consultation de contrôle</li>\n        <li><strong>J+7 à J+10 :</strong> reprise possible des activités professionnelles sédentaires</li>\n        <li><strong>1 mois :</strong> environ 60 % du résultat visible, œdème en régression</li>\n        <li><strong>3 mois :</strong> environ 80 % du résultat, portion supérieure stabilisée</li>\n        <li><strong>6 mois :</strong> environ 90 %, la pointe continue à affiner</li>\n        <li><strong>12 à 18 mois :</strong> résultat définitif, tissus totalement stabilisés</li>\n      </ul>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Consignes post-opératoires</span>\n      </p><ul>\n        <li>Dormir en position semi-assise pendant 5 à 7 jours</li>\n        <li>Éviter tout effort physique intense pendant 4 semaines</li>\n        <li>Sports de contact interdits pendant 3 mois minimum</li>\n        <li>Ne pas se moucher avec force pendant 3 semaines</li>\n        <li>Éviter l'exposition solaire directe sur le nez pendant 6 mois</li>\n        <li>Ne pas porter de lunettes sur le dos du nez pendant 4 à 6 semaines</li>\n      </ul>\n    <p></p>\n    <p>\n      <strong>Important :</strong> Sur les peaux épaisses, la résorption de l'œdème de la pointe peut nécessiter jusqu'à 24 mois. Ce délai doit être communiqué au patient dès la consultation préopératoire.\n    </p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "risques",
+      "variant": null,
+      "eyebrow": "9. Risques",
+      "title": "Risques chirurgicaux et complications",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>\n      <strong>Information réglementaire :</strong> Conformément à la loi du 4 mars 2002, le patient doit recevoir une information complète sur les risques prévisibles de l'intervention, même en cas de fréquence faible.\n    </p>\n    <p>\n      <span class=\"info-box-title\">Complications générales</span>\n      </p><ul>\n        <li>Complications anesthésiques (évaluées lors de la consultation d'anesthésie)</li>\n        <li>Hématome post-opératoire nécessitant une évacuation chirurgicale</li>\n        <li>Infection locale (rare sous antibioprophylaxie)</li>\n        <li>Cicatrisation pathologique (hypertrophique ou chéloïde)</li>\n      </ul>\n    <p></p>\n    <p>\n      <span class=\"info-box-title\">Complications spécifiques à la rhinoplastie</span>\n      </p><ul>\n        <li><strong>Épistaxis post-opératoire</strong> : saignement nasal, généralement résolutif spontanément</li>\n        <li><strong>Asymétrie résiduelle</strong> : liée aux asymétries préexistantes ou à la cicatrisation</li>\n        <li><strong>Toit ouvert</strong> : écartement des os nasaux après réduction d'une gibbosité</li>\n        <li><strong>Collapsus valvulaire iatrogène</strong> : obstruction nasale post-opératoire</li>\n        <li><strong>Nécrose cutanée</strong> : exceptionnelle, favorisée par le tabagisme</li>\n        <li><strong>Insatisfaction esthétique</strong> : pouvant nécessiter une révision après 12-18 mois</li>\n        <li><strong>Nez pincé</strong> : complication liée à une résection cartilagineuse excessive</li>\n      </ul>\n    <p></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "prix",
+      "variant": null,
+      "eyebrow": "10. Tarifs",
+      "title": "Tarifs — Rhinoplastie à Marseille, Nice, Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>Tarifs indicatifs incluant honoraires du chirurgien, de l'anesthésiste et frais de clinique. Un devis personnalisé est remis lors de la consultation — à <a href=\"/rhinoplastie-marseille/#rhinoplasties-marseille\" style=\"color:var(--gold);\">Marseille (Hôpital Privé Beauregard)</a>, à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice (Clinique Saint-François)</a> ou à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>"
+            },
+            {
+              "type": "table",
+              "head": [
+                "Type d'intervention",
+                "Fourchette indicative",
+                "Remboursement"
+              ],
+              "rows": [
+                [
+                  "<strong>Rhinoplastie primaire esthétique</strong>",
+                  "4 000 € – 7 000 €",
+                  "Non"
+                ],
+                [
+                  "<strong>Rhinoplastie ultrasonique</strong>",
+                  "5 000 € – 9 000 €",
+                  "Non"
+                ],
+                [
+                  "<strong>Rhinoplastie secondaire</strong>",
+                  "6 000 € – 11 000 €",
+                  "Non"
+                ],
+                [
+                  "<strong>Septoplastie fonctionnelle</strong>",
+                  "Selon devis",
+                  "Oui (SS + mutuelle)"
+                ],
+                [
+                  "<strong>Rhinoplastie mixte</strong>",
+                  "Selon devis",
+                  "Partiel (partie fonctionnelle)"
+                ]
+              ],
+              "className": "prix-table"
+            },
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p><a href=\"/prix-rhinoplastie/\" style=\"color:var(--gold);\">Voir le détail complet des tarifs, du remboursement et des solutions de financement →</a></p>"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "11. Questions fréquentes",
+      "title": "FAQ Rhinoplastie",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Combien coûte une rhinoplastie à Marseille ?",
+              "answer": "Entre <strong>4 000 € et 9 000 €</strong> selon la technique et la complexité. Devis détaillé remis après consultation."
+            },
+            {
+              "question": "Quelle différence entre rhinoplastie ultrasonique et classique ?",
+              "answer": "La rhinoplastie classique utilise des ostéotomes et un maillet pour fracturer les os. La rhinoplastie ultrasonique utilise des instruments piézoélectriques qui sculptent l'os sélectivement sans traumatiser les tissus mous — moins d'ecchymoses, récupération plus rapide, précision supérieure."
+            },
+            {
+              "question": "Qu'est-ce que la technique Push-Down ?",
+              "answer": "Variante de la rhinoplastie de préservation qui abaisse le dorsum en poussant les os nasaux vers le bas après désarticulation de leurs attaches. Évite la création d'un toit ouvert classique et les ostéotomies de fermeture — résultat plus naturel, œdème réduit."
+            },
+            {
+              "question": "Quand voit-on le résultat définitif ?",
+              "answer": "60 % du résultat à 1 mois, 80 % à 3 mois, 90 % à 6 mois. Résultat définitif entre <strong>12 et 18 mois</strong>. Sur peau épaisse, ce délai peut atteindre 24 mois."
+            },
+            {
+              "question": "La rhinoplastie fonctionnelle (septorhinoplastie) est-elle remboursée ?",
+              "answer": "La rhinoplastie fonctionnelle — également appelée septorhinoplastie lorsqu'elle inclut une composante esthétique — peut faire l'objet d'une prise en charge partielle ou totale par l'Assurance maladie pour sa composante fonctionnelle documentée. La partie esthétique reste toujours à la charge du patient."
+            },
+            {
+              "question": "À quel âge peut-on réaliser une rhinoplastie ?",
+              "answer": "Fin de la croissance osseuse nasale : <strong>16 ans pour les filles</strong>, <strong>17 à 18 ans pour les garçons</strong>. Une intervention avant la fin de croissance pourrait interférer avec le développement osseux."
+            },
+            {
+              "question": "Combien de temps dure l'intervention ?",
+              "answer": "De <strong>1h30 à 3h</strong> selon la complexité. Une rhinoplastie primaire simple dure environ 1h30 à 2h. Une rhinoplastie secondaire complexe peut nécessiter 2h30 à 3h."
+            },
+            {
+              "question": "Peut-on associer d'autres interventions à la rhinoplastie ?",
+              "answer": "Oui. La rhinoplastie peut être associée à une génioplastie (chirurgie du menton) — on parle alors de profiloplastie — ou à une blépharoplastie, selon l'indication et l'état général du patient."
+            }
+          ],
+          "className": "faq-list"
+        },
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "refs",
+          "id": null,
+          "blocks": [
+            {
+              "type": "html",
+              "html": "<span class=\"refs-label\">Références médicales</span>"
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "items": [
+                "Saban Y, Daniel RK et al. Dorsal Preservation: The Push Down Technique Reassessed. Aesthet Surg J. 2018",
+                "Dogan T. A new understanding and a minimalist approach for rhinoplasty. Plast Reconstr Surg. 2023;152(3):549-557",
+                "Robotti E. Preservation Rhinoplasty: An Updated Overview. Facial Plast Surg. 2021]",
+                "Gerbault O, Daniel RK, Kosins AM. The Role of Piezoelectric Instrumentation in Rhinoplasty Surgery. Aesthet Surg J. 2016]",
+                "SoFCPRE. Recommandations professionnelles — Chirurgie esthétique du nez. 2022]",
+                "Loi n°2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé]"
+              ]
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "villes",
+      "variant": null,
+      "eyebrow": "12. Consultations",
+      "title": "Rhinoplastie à Marseille, Nice &amp; Draguignan",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Les consultations de rhinoplastie sont assurées dans trois villes de la région PACA. Les interventions sont réalisées à l'Hôpital Privé Beauregard de Marseille et à la Clinique Saint-François de Nice.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "📍 Marseille",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Page Rhinoplastie Marseille",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "📍 Nice",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Page Rhinoplastie Nice",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "📍 Draguignan",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Page Rhinoplastie Draguignan",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "sec-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "libre",
+      "eyebrow": "",
+      "title": "",
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "sidebar",
+          "items": [
+            {
+              "className": "sb-card dark",
+              "tag": "div",
+              "title": "Prendre rendez-vous",
+              "titleTag": "span",
+              "titleClass": "sb-title",
+              "html": "<p>\n      </p><p>Marseille</p>\n      <p>Hôpital Privé Beauregard<br>23 rue des Linots, 13012</p>\n      <a href=\"tel:0491121112\">04 91 12 11 12</a>\n    <p></p>\n    <p>\n      </p><p>Nice</p>\n      <p>4 Av. Georges Clemenceau, 06000</p>\n      <a href=\"tel:0642762612\">06 42 76 26 12</a>\n    <p></p>\n    <p>\n      </p><p>Draguignan</p>\n      <p>64 Av. Lazare Carnot, 83300</p>\n      <a href=\"tel:0494395772\">04 94 39 57 72</a>\n    <p></p>\n    <a href=\"https://www.doctolib.fr\" target=\"_blank\" rel=\"noopener\">📅 Prendre rendez-vous</a>",
+              "link": "tel:0491121112"
+            },
+            {
+              "className": "sb-card",
+              "tag": "div",
+              "title": "Sommaire",
+              "titleTag": "span",
+              "titleClass": "sb-title",
+              "html": "<ul>\n      <li><a href=\"#definition\">Définition</a></li>\n      <li><a href=\"#anatomie\">Anatomie</a></li>\n      <li><a href=\"#indications\">Indications</a></li>\n      <li><a href=\"#techniques\">Techniques</a></li>\n      <li><a href=\"#voies\">Voies d'abord</a></li>\n      <li><a href=\"#bilan\">Bilan préop.</a></li>\n      <li><a href=\"#intervention\">Déroulement</a></li>\n      <li><a href=\"#suites\">Suites</a></li>\n      <li><a href=\"#risques\">Risques</a></li>\n      <li><a href=\"#prix\">Tarifs</a></li>\n      <li><a href=\"#faq\">FAQ</a></li>\n    </ul>",
+              "link": "#definition"
+            },
+            {
+              "className": "sb-card",
+              "tag": "div",
+              "title": "Information légale",
+              "titleTag": "span",
+              "titleClass": "sb-title",
+              "html": "<p>Délai légal de <strong>15 jours</strong> obligatoire entre consultation et intervention. Devis détaillé remis lors de la consultation.</p>",
+              "link": null
+            },
+            {
+              "className": "sb-card",
+              "tag": "div",
+              "title": "Pages associées",
+              "titleTag": "span",
+              "titleClass": "sb-title",
+              "html": "<ul>\n      <li><a href=\"/rhinoplastie-marseille/\">Rhinoplastie Marseille</a></li>\n      <li><a href=\"/rhinoplastie-nice/\">Rhinoplastie Nice</a></li>\n      <li><a href=\"/rhinoplastie-draguignan/\">Rhinoplastie Draguignan</a></li>\n      <li><a href=\"/\">Accueil</a></li>\n    </ul>",
+              "link": "/rhinoplastie-marseille/"
+            }
+          ],
+          "className": "sidebar"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "consultation-mesh",
+      "eyebrow": "",
+      "title": "Vos consultations de rhinoplastie en région PACA",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<span class=\"mesh-eyebrow\">Proximité &amp; Excellence</span>"
+        },
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>\n    Afin de vous offrir une prise en charge de proximité et un suivi post-opératoire rigoureux, les consultations ont lieu au sein de trois cabinets d'excellence.\n  </p>",
+          "className": "mesh-lead"
+        },
+        {
+          "type": "cards",
+          "variant": "mesh",
+          "items": [
+            {
+              "className": "mesh-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<p>Marseille (12e)</p>\n      <p>Consultations et interventions chirurgicales à l'Hôpital Privé Beauregard.</p>\n      <a href=\"/rhinoplastie-marseille/\">Cabinet Marseillais →</a>",
+              "link": "/rhinoplastie-marseille/"
+            },
+            {
+              "className": "mesh-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<p>Nice</p>\n      <p>Consultations pré-opératoires et suivi complet au cœur des Alpes-Maritimes.</p>\n      <a href=\"/rhinoplastie-nice/\">Cabinet Niçois →</a>",
+              "link": "/rhinoplastie-nice/"
+            },
+            {
+              "className": "mesh-card",
+              "tag": "div",
+              "title": "",
+              "titleTag": null,
+              "titleClass": null,
+              "html": "<p>Draguignan</p>\n      <p>Une structure de proximité pour vos rendez-vous et votre suivi dans le Var.</p>\n      <a href=\"/rhinoplastie-draguignan/\">Cabinet Varois →</a>",
+              "link": "/rhinoplastie-draguignan/"
+            }
+          ],
+          "className": "mesh-grid"
+        }
+      ],
+      "wrappers": [],
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Consultation rhinoplastie",
+      "title": "Prendre rendez-vous avec<br><strong>le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation à Marseille, Nice ou Draguignan. Analyse morphologique, simulation préopératoire et devis détaillé remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "5044d5b06cf42e4b",
+    "date": "2026-09-18"
+  }
+}

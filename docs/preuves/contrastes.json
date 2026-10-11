@@ -1,0 +1,59 @@
+{
+  "method": "Formule de luminance sRGB WCAG ; couleurs pleines, hors photographie et \u00e9tats non list\u00e9s",
+  "pairs": [
+    {
+      "foreground": "#173e4c",
+      "background": "#fffefa",
+      "ratio": 11.37,
+      "textAA": true
+    },
+    {
+      "foreground": "#174d4b",
+      "background": "#fffefa",
+      "ratio": 9.46,
+      "textAA": true
+    },
+    {
+      "foreground": "#53665f",
+      "background": "#fffefa",
+      "ratio": 6.06,
+      "textAA": true
+    },
+    {
+      "foreground": "#53665f",
+      "background": "#edf4ef",
+      "ratio": 5.47,
+      "textAA": true
+    },
+    {
+      "foreground": "#53665f",
+      "background": "#f5eee3",
+      "ratio": 5.31,
+      "textAA": true
+    },
+    {
+      "foreground": "#ffffff",
+      "background": "#174d4b",
+      "ratio": 9.55,
+      "textAA": true
+    },
+    {
+      "foreground": "#e6ebbb",
+      "background": "#174d4b",
+      "ratio": 7.71,
+      "textAA": true
+    },
+    {
+      "foreground": "#e6ebbb",
+      "background": "#235955",
+      "ratio": 6.45,
+      "textAA": true
+    },
+    {
+      "foreground": "#a33f13",
+      "background": "#fffefa",
+      "ratio": 6.35,
+      "textAA": true
+    }
+  ]
+}

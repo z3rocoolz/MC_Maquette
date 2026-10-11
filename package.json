@@ -1,0 +1,29 @@
+{
+  "name": "drmattiacoda-newrelease",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Site HTML de Mattia Coda — refonte Horizon, contenu JSON et administration locale",
+  "engines": {
+    "node": ">=20.18.1"
+  },
+  "scripts": {
+    "build": "node tools/render.js",
+    "admin": "node admin/server.js",
+    "release": "node tools/render.js && node tools/package.js && node tools/preflight.js",
+    "render": "node tools/render.js",
+    "render:verbose": "node tools/render.js --verbose",
+    "package": "node tools/package.js",
+    "preflight": "node tools/preflight.js",
+    "admin:password": "node admin/tools/set-password.js",
+    "preview": "node tools/serve.js",
+    "deploy": "node tools/deploy.js",
+    "publier": "node tools/render.js && node tools/package.js && node tools/deploy.js",
+    "cms:test": "node tools/test-pages-cms.cjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^2.4.0"
+  }
+}

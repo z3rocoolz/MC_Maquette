@@ -1,0 +1,401 @@
+{
+  "slug": "rhinoplastie-pointe-nez",
+  "url": "/rhinoplastie-pointe-nez/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "e06770a450fb"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Pointe du Nez – Chirurgien Maxillo-Facial",
+    "description": "Correction de la pointe du nez à Marseille et Nice — pointe tombante, large ou asymétrique. Dr Mattia Coda, chirurgien maxillo-facial.",
+    "keywords": "rhinoplastie pointe nez, pointe nez tombante Marseille, corriger pointe nez large, rhinoplastie pointe Nice, correction pointe nasale, rhinoplastie pointe bulbeuse",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-pointe-nez/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie Pointe du Nez – Dr Mattia Coda Marseille Nice",
+        "description": "Correction de la pointe du nez à Marseille et Nice — pointe tombante, large, asymétrique, trop projetée. Dr Mattia Coda, chirurgien maxillo-facial. Techniques conservatrices et résultat naturel.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-pointe-nez/",
+        "lastReviewed": "2026-01",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Peut-on corriger une pointe du nez tombante ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. La ptose de la pointe est l'une des indications les plus fréquentes en rhinoplastie. Elle est corrigée par des sutures de repositionnement des cartilages alaires, parfois associées à une greffe de renforcement (strut graft). Le résultat est permanent."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La correction d'une pointe large laisse-t-elle des cicatrices ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En voie fermée, toutes les incisions sont internes — aucune cicatrice visible. En voie ouverte, une fine cicatrice sur la columelle s'estompe entre 6 et 12 mois et est invisible de face."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on corriger uniquement la pointe sans toucher au reste du nez ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Une rhinoplastie de la pointe isolée est possible si le reste du nez ne présente pas de défaut à corriger. Le chirurgien évalue lors de la consultation si une correction partielle suffit ou si une rhinoplastie globale est préférable pour un résultat harmonieux."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien coûte une rhinoplastie de la pointe ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Une rhinoplastie de la pointe isolée est généralement moins coûteuse qu'une rhinoplastie globale. Les tarifs varient selon la complexité. Un devis personnalisé est remis après consultation avec le Dr Coda à Marseille ou Nice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La correction de la pointe du nez est-elle douloureuse ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "L'intervention est réalisée sous anesthésie générale. Les suites sont peu douloureuses — une sensation de pression et un œdème localisé de la pointe pendant 2 à 3 semaines. La pointe est la zone qui met le plus de temps à se stabiliser — jusqu'à 18 mois sur les peaux épaisses."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie de la Pointe du Nez",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-pointe-nez/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Pointe tombante · Pointe large · Asymétrie",
+    "title": "Rhinoplastie de la Pointe du Nez",
+    "lead": "La correction de la pointe nasale est l'aspect le plus délicat de la rhinoplastie. Pointe tombante, bulbeuse, asymétrique ou mal projetée : chaque défaut est traité avec des techniques adaptées à l'anatomie du patient.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie de la Pointe du Nez",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Chirurgie de la pointe nasale",
+      "title": "La pointe du nez — anatomie et défauts fréquents",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>pointe du nez</strong> est la zone anatomiquement la plus complexe à corriger en rhinoplastie. Elle est formée par deux cartilages alaires (cartilages latéraux inférieurs) dont la forme, la taille, la résistance et la symétrie déterminent l'aspect de la pointe nasale. La qualité et l'épaisseur de la peau sus-jacente jouent également un rôle déterminant dans le résultat final.</p>\n      <p>L'ensemble des corrections de la pointe nasale est pris en charge à <a href=\"/rhinoplastie-marseille/\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\">Nice</a> — pointe tombante, pointe trop large ou bulbeuse, pointe asymétrique, pointe trop ou insuffisamment projetée.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "defauts",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Les défauts de pointe les plus fréquents",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"ibox\">\n        <span class=\"ibox-title\">Défauts de pointe traités en consultation</span>\n        <ul class=\"liste\">\n          <li><strong>Pointe tombante (ptose de la pointe)</strong> — la pointe s'abaisse lors du sourire ou est naturellement trop basse par rapport au dorsum nasal. Très fréquent, souvent associé à un nez trop long.</li>\n          <li><strong>Pointe bulbeuse ou trop large</strong> — cartilages alaires trop volumineux ou trop écartés, donnant une pointe ronde et mal définie. Fréquent sur les peaux épaisses.</li>\n          <li><strong>Pointe asymétrique</strong> — différence de forme, de taille ou de position entre les deux cartilages alaires. Peut être congénitale ou post-traumatique.</li>\n          <li><strong>Pointe trop projetée</strong> — nez trop proéminent par rapport au reste du visage, avec une pointe qui avance excessivement.</li>\n          <li><strong>Pointe insuffisamment projetée</strong> — nez \"écrasé\" avec une pointe qui manque de relief, fréquent dans certains profils ethniques.</li>\n          <li><strong>Pointe biffide</strong> — division visible de la pointe en deux parties, liée à un écartement excessif des dômes cartilagineux.</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "techniques",
+      "variant": null,
+      "eyebrow": "Techniques chirurgicales",
+      "title": "Comment corriger la pointe du nez ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La correction de la pointe est l'aspect le plus délicat de la rhinoplastie. Elle nécessite une maîtrise chirurgicale précise et une planification préopératoire rigoureuse. Plusieurs techniques peuvent être combinées selon le défaut à corriger.</p>\n      <h3>Techniques de définition de la pointe</h3>\n      <ul class=\"liste\">\n        <li><strong>Sutures interdomales et transdomales</strong> — rapprochement et repositionnement des cartilages alaires par sutures sans résection. Technique de première intention, conservatrice.</li>\n        <li><strong>Résection partielle des cartilages alaires</strong> — réduction du volume des cartilages trop larges. Doit être dosée avec précision pour éviter un affaissement secondaire.</li>\n        <li><strong>Greffe de columelle (strut graft)</strong> — renforcement de la base de la pointe par un greffon cartilagineux, pour augmenter la projection ou corriger une ptose.</li>\n        <li><strong>Greffe en bouclier (shield graft)</strong> — ajout d'un greffon cartilagineux en avant de la pointe pour améliorer sa définition et sa projection.</li>\n      </ul>\n      <div class=\"note-med\">\n        <strong>Peau épaisse et pointe :</strong> Sur les peaux épaisses, la définition de la pointe est plus limitée car la peau masque les détails cartilagineux. L'épaisseur cutanée est systématiquement évaluée lors de la consultation pour proposer des objectifs chirurgicaux réalistes.\n      </div>\n      <h3>Voie d'abord</h3>\n      <p>La correction de la pointe peut être réalisée par voie fermée (endonasale, sans cicatrice visible) ou par voie ouverte (incision columellaire) pour les cas complexes nécessitant une exposition maximale des cartilages. <a href=\"/rhinoplastie/\" style=\"color:var(--gold);\">En savoir plus sur les voies d'abord →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "association",
+      "variant": null,
+      "eyebrow": "Correction combinée",
+      "title": "Corriger la pointe et la bosse simultanément",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Dans la majorité des cas, les patients présentent à la fois une bosse dorsale et un défaut de pointe. Ces deux corrections sont réalisées dans le même temps opératoire, ce qui permet d'obtenir un résultat harmonieux sur l'ensemble du profil nasal. La <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">rhinoplastie ultrasonique</a> est particulièrement adaptée à cette association, permettant une correction osseuse précise du dorsum et un travail cartilagineux minutieux de la pointe dans la même intervention.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur Rhinoplastie de la Pointe du Nez",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Peut-on corriger une pointe du nez tombante ?",
+              "answer": "Oui. La ptose de la pointe est l'une des indications les plus fréquentes en rhinoplastie. Elle est corrigée par des sutures de repositionnement des cartilages alaires, parfois associées à une greffe de renforcement (strut graft). Le résultat est permanent."
+            },
+            {
+              "question": "La correction d'une pointe large laisse-t-elle des cicatrices ?",
+              "answer": "En voie fermée, toutes les incisions sont internes — aucune cicatrice visible. En voie ouverte, une fine cicatrice sur la columelle s'estompe entre 6 et 12 mois et est invisible de face."
+            },
+            {
+              "question": "Peut-on corriger uniquement la pointe sans toucher au reste du nez ?",
+              "answer": "Oui. Une rhinoplastie de la pointe isolée est possible si le reste du nez ne présente pas de défaut à corriger. Le chirurgien évalue lors de la consultation si une correction partielle suffit ou si une rhinoplastie globale est préférable pour un résultat harmonieux."
+            },
+            {
+              "question": "Combien coûte une rhinoplastie de la pointe ?",
+              "answer": "Une rhinoplastie de la pointe isolée est généralement moins coûteuse qu'une rhinoplastie globale. Les tarifs varient selon la complexité. Un devis personnalisé est remis après consultation, à Marseille ou à Nice."
+            },
+            {
+              "question": "La correction de la pointe du nez est-elle douloureuse ?",
+              "answer": "L'intervention est réalisée sous anesthésie générale. Les suites sont peu douloureuses — une sensation de pression et un œdème localisé de la pointe pendant 2 à 3 semaines. La pointe est la zone qui met le plus de temps à se stabiliser — jusqu'à 18 mois sur les peaux épaisses."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Prendre rendez-vous",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Consultations à Marseille, Nice et Draguignan. Devis personnalisé remis après consultation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Chirurgien Maxillo-Facial",
+      "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle avec simulation préopératoire et devis personnalisé.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "84fcf69cb5757e71",
+    "date": "2026-09-18"
+  }
+}

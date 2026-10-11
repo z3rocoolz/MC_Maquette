@@ -1,0 +1,8 @@
+{
+  "dialogShiftTab": true,
+  "dialogTab": true,
+  "escapeReturnsToOpener": true,
+  "mobileMenuOpenAndEscape": true,
+  "faqEnter": true,
+  "skipLinkFocusesMain": true
+}

@@ -1,0 +1,123 @@
+{
+  "slug": "dents-de-sagesse",
+  "url": "/dents-de-sagesse/",
+  "template": "standard",
+  "style": "style-c66c1b4d32fd.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "8dc08281cb64",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "b481c433d44b"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Dents de sagesse : comprendre l’indication. | Dr Mattia Coda",
+    "description": "Pourquoi envisager une extraction, comment préparer le rendez-vous et quels points discuter pour les suites.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Dents de sagesse : comprendre l’indication.",
+    "lead": "Pourquoi envisager une extraction, comment préparer le rendez-vous et quels points discuter pour les suites.",
+    "eyebrow": "Repères sur l’intervention"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "retenir",
+      "title": "L’essentiel, en quelques repères",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Une extraction se décide à partir d’une indication individuelle.</li><li>Apportez vos examens et les informations sur vos traitements.</li><li>Les modalités d’anesthésie et les suites sont discutées avec le chirurgien.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Pourquoi consulter ? Quelles alternatives ?",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Une dent en mauvaise position, une infection ou une dent qui ne peut plus être soignée peut conduire à envisager son extraction. Le bilan sert à discuter l’intérêt du geste et, lorsque la situation le permet, une surveillance ou une autre prise en charge.</p>"
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "title": "Le déroulement expliqué",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>L’anesthésie et l’organisation dépendent des dents concernées et de votre situation. Le chirurgien vous explique les gestes, les examens utiles et les consignes à respecter. Ne modifiez pas seul un traitement habituel.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Les risques et les limites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Saignement, infection, alvéolite, atteinte d’une dent voisine ou modification de sensibilité peuvent survenir. Selon la dent, une communication avec le sinus est possible. La proximité des nerfs et les particularités du cas se discutent à partir de l’imagerie.</p>"
+        }
+      ]
+    },
+    {
+      "id": "suites",
+      "title": "Alimentation, soins et récupération",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Douleur, gonflement et limitation temporaire de l’ouverture de bouche sont possibles. Suivez les indications personnalisées sur l’alimentation, l’hygiène et les médicaments. Demandez quels signes doivent conduire à recontacter l’équipe.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Pourquoi retirer cette dent plutôt que la surveiller ?</li><li>Quels risques particuliers montre mon examen ?</li><li>Quelles consignes et quel contact dois-je garder après l’extraction ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "Références pour approfondir",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li><a href=\"https://www.sfscmfco.com/fiches-information/avulsion-des-dents-de-sagesse/\">SFSCMFCO · Avulsion des dents de sagesse</a></li></ul><p>Références consultées le 10 octobre 2026. Elles complètent l’information remise en consultation. La validation médicale de cette version de travail reste à réaliser.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "d2adc6f7e5408fb9",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

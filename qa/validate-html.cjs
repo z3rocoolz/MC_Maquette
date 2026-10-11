@@ -1,0 +1,10 @@
+const fs=require('node:fs'),path=require('node:path'),{spawnSync}=require('node:child_process');
+const dir=path.resolve(__dirname,'../dist');
+const files=fs.readdirSync(dir).filter(f=>f.endsWith('.html')).map(f=>path.join(dir,f));
+const jar=require.resolve('vnu-jar/build/dist/vnu.jar');
+const r=spawnSync('java',['-jar',jar,'--format','json',...files],{encoding:'utf8',maxBuffer:10*1024*1024});
+fs.mkdirSync(path.join(__dirname,'reports'),{recursive:true});
+fs.writeFileSync(path.join(__dirname,'reports/nu.json'),r.stderr||JSON.stringify({error:r.error?.message}));
+if(r.error)console.error(r.error.message);
+else console.log(files.length+' fichiers HTML ; statut Nu : '+r.status);
+process.exit(r.status??1);

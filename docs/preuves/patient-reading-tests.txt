@@ -1,0 +1,17 @@
+✔ La fiche de préparation reste utilisable sans JavaScript, puis annonce les cases cochées et imprime (44.272639ms)
+✔ Les nouvelles pages de lieu utilisent leur adresse de consultation canonique (11.296628ms)
+✔ Les liens pratiques conservent leur regroupement et les boutons leur présentation (20.605969ms)
+✔ Une adresse de lieu conserve sa sémantique après enregistrement administratif (4.07178ms)
+✔ Le guide garde tous ses textes dans des rubriques HTML natives, accessibles sans script (45.196029ms)
+✔ Une URL ciblant les risques ouvre la rubrique sans déplacer le focus initial (30.379993ms)
+✔ Tout afficher, tout replier, puis retour à une ancre avec focus clavier (18.530093ms)
+✔ Imprimer ouvre aussi les FAQ puis rétablit exactement la sélection de lecture (15.985485ms)
+✔ Une ancre mal formée ne casse pas les commandes de lecture (18.885848ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 410.215654

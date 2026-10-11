@@ -1,0 +1,103 @@
+{
+  "slug": "feminisation-faciale",
+  "url": "/feminisation-faciale/",
+  "template": "standard",
+  "style": "style-5b0c4b190412.css",
+  "scripts": [
+    "script-e5101a43df57.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "d17a86d03277",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "79c4a8fa686a"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Féminisation faciale | Dr Mattia Coda",
+    "description": "Une réflexion personnelle sur les traits du visage.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Féminisation faciale",
+    "lead": "Une réflexion personnelle sur les traits du visage.",
+    "eyebrow": "Votre information"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "Comprendre la demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Les attentes sont propres à chaque personne. Une discussion attentive permet de préciser les traits concernés, les limites des gestes et les éventuels besoins de coordination. Le périmètre de prise en charge est à confirmer auprès du praticien.</p>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Possibilités et alternatives",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La consultation met en regard votre attente et les constatations de l’examen. Demandez ce qui est possible, ce qui ne l’est pas et quelles autres options existent, y compris ne pas intervenir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Risques, limites et suites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le profil de risque dépend des gestes ou produits envisagés. Il doit être expliqué précisément, avec les limites du traitement et les modalités de suivi.</p><p>Le calendrier de récupération et les précautions sont individuels. Une technique, un appareil ou une simulation ne garantit pas le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quels gestes seraient pertinents pour mes attentes, et avec quelles limites ?</li><li>Quels risques sont spécifiques à ma situation ?</li><li>Comment se déroulerait le suivi ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "approfondir",
+      "title": "Pour aller plus loin",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"competences.html\">Retrouver les domaines d’intervention</a> et <a href=\"consultation.html\">le déroulement d’une consultation</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "35f97266eca88009",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-11T04:06:12.564Z",
+  "pages": 45,
+  "errors": 0,
+  "results": [
+    {
+      "page": "404.html",
+      "h1": "Retrouvons votre chemin.",
+      "images": 2,
+      "links": 25,
+      "errors": []
+    },
+    {
+      "page": "accessibilite.html",
+      "h1": "Accessibilité du site.",
+      "images": 2,
+      "links": 26,
+      "errors": []
+    },
+    {
+      "page": "apres-intervention.html",
+      "h1": "Anticiper votre retour.",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "article-du-mois.html",
+      "h1": "Des repères pour votre réflexion.",
+      "images": 2,
+      "links": 28,
+      "errors": []
+    },
+    {
+      "page": "avant-apres.html",
+      "h1": "Avant / Après",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "blepharoplastie.html",
+      "h1": "Blépharoplastie : la chirurgie des paupières.",
+      "images": 2,
+      "links": 35,
+      "errors": []
+    },
+    {
+      "page": "chirurgie-orthognathique.html",
+      "h1": "Chirurgie des mâchoires : comprendre le parcours.",
+      "images": 2,
+      "links": 35,
+      "errors": []
+    },
+    {
+      "page": "competences.html",
+      "h1": "Le visage, dans toutes ses dimensions.",
+      "images": 3,
+      "links": 30,
+      "errors": []
+    },
+    {
+      "page": "confidentialite.html",
+      "h1": "Confidentialité",
+      "images": 2,
+      "links": 25,
+      "errors": []
+    },
+    {
+      "page": "consultation-draguignan.html",
+      "h1": "Consulter à Draguignan",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "consultation-marseille.html",
+      "h1": "Consulter à Marseille",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "consultation-nice.html",
+      "h1": "Consulter à Nice",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "consultation.html",
+      "h1": "Votre projet commence par une rencontre.",
+      "images": 2,
+      "links": 25,
+      "errors": []
+    },
+    {
+      "page": "correction-bosse-nez.html",
+      "h1": "Une demande concernant la bosse du nez",
+      "images": 2,
+      "links": 36,
+      "errors": []
+    },
+    {
+      "page": "dents-de-sagesse.html",
+      "h1": "Dents de sagesse : comprendre l’indication.",
+      "images": 2,
+      "links": 34,
+      "errors": []
+    },
+    {
+      "page": "deviation-cloison-nasale.html",
+      "h1": "La déviation de la cloison nasale",
+      "images": 2,
+      "links": 37,
+      "errors": []
+    },
+    {
+      "page": "dr-mattia-coda.html",
+      "h1": "Dr Mattia Coda",
+      "images": 3,
+      "links": 35,
+      "errors": []
+    },
+    {
+      "page": "drmattiacoda_v8.html",
+      "h1": "La rhinoplastie.À votre image.",
+      "images": 4,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "feminisation-faciale.html",
+      "h1": "Féminisation faciale",
+      "images": 2,
+      "links": 38,
+      "errors": []
+    },
+    {
+      "page": "horizon.html",
+      "h1": "La rhinoplastie.À votre image.",
+      "images": 4,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "index.html",
+      "h1": "La rhinoplastie.À votre image.",
+      "images": 4,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "informations-pratiques.html",
+      "h1": "Les repères pratiques.",
+      "images": 2,
+      "links": 32,
+      "errors": []
+    },
+    {
+      "page": "informations.html",
+      "h1": "À propos de ce site.",
+      "images": 2,
+      "links": 31,
+      "errors": []
+    },
+    {
+      "page": "lifting-cervico-facial.html",
+      "h1": "Chirurgie du visage et du cou",
+      "images": 2,
+      "links": 33,
+      "errors": []
+    },
+    {
+      "page": "lifting-sourcilier.html",
+      "h1": "La position des sourcils",
+      "images": 2,
+      "links": 40,
+      "errors": []
+    },
+    {
+      "page": "medecine-esthetique.html",
+      "h1": "Médecine esthétique du visage",
+      "images": 2,
+      "links": 34,
+      "errors": []
+    },
+    {
+      "page": "mentions-legales.html",
+      "h1": "Mentions légales",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "motifs-consultation.html",
+      "h1": "Qu’est-ce qui vous amène ?",
+      "images": 2,
+      "links": 35,
+      "errors": []
+    },
+    {
+      "page": "parcours-patient.html",
+      "h1": "Avancer à votre rythme.",
+      "images": 2,
+      "links": 34,
+      "errors": []
+    },
+    {
+      "page": "preparer-consultation.html",
+      "h1": "Préparer votre consultation.",
+      "images": 2,
+      "links": 24,
+      "errors": []
+    },
+    {
+      "page": "prix-rhinoplastie.html",
+      "h1": "Comprendre les honoraires",
+      "images": 2,
+      "links": 29,
+      "errors": []
+    },
+    {
+      "page": "profiloplastie.html",
+      "h1": "Comprendre la profiloplastie",
+      "images": 2,
+      "links": 38,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-draguignan.html",
+      "h1": "Consulter à Draguignan",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-fonctionnelle.html",
+      "h1": "Nez et respiration",
+      "images": 2,
+      "links": 38,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-homme.html",
+      "h1": "Rhinoplastie chez l’homme",
+      "images": 2,
+      "links": 39,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-marseille.html",
+      "h1": "Consulter à Marseille",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-nice.html",
+      "h1": "Consulter à Nice",
+      "images": 2,
+      "links": 27,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-pointe-nez.html",
+      "h1": "La pointe du nez",
+      "images": 2,
+      "links": 36,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-preservation.html",
+      "h1": "Rhinoplastie de préservation",
+      "images": 2,
+      "links": 38,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-primaire.html",
+      "h1": "Une première rhinoplastie",
+      "images": 2,
+      "links": 42,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-secondaire.html",
+      "h1": "Rhinoplastie secondaire",
+      "images": 2,
+      "links": 37,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie-ultrasonique.html",
+      "h1": "Rhinoplastie ultrasonique",
+      "images": 2,
+      "links": 38,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie.html",
+      "h1": "Rhinoplastie : comprendre la chirurgie du nez.",
+      "images": 2,
+      "links": 68,
+      "errors": []
+    },
+    {
+      "page": "rhinoplastie_v3.html",
+      "h1": "Rhinoplastie : comprendre la chirurgie du nez.",
+      "images": 2,
+      "links": 68,
+      "errors": []
+    },
+    {
+      "page": "sources-et-engagements.html",
+      "h1": "Une information claire et documentée.",
+      "images": 2,
+      "links": 29,
+      "errors": []
+    }
+  ]
+}

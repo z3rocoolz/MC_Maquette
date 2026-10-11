@@ -1,0 +1,96 @@
+/* ═══════════════════════════════════════════════════════════════════
+   Page d'accueil — bandeau d'ouverture
+
+   Le grand titre « Rhinoplastie / Chirurgie du Visage » et le bouton de
+   rendez-vous sont retirés de l'affichage ; ne restent que les étiquettes
+   de spécialités et les villes, centrées.
+
+   Le titre n'est pas supprimé du code, seulement de l'écran : c'est le
+   `h1` de la page la plus importante du site, celui sur lequel Google
+   s'appuie pour comprendre de quoi elle parle, et le premier repère d'un
+   lecteur d'écran. L'effacer coûterait cher en référencement.
+   ═══════════════════════════════════════════════════════════════════ */
+
+.hero .hero-content > .hero-t2 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.hero .hero-content > .hero-t1,
+.hero .hero-content > .hero-btns {
+  display: none;
+}
+
+/* Étiquettes de spécialités et villes : centrées dans le bandeau. */
+.hero .hero-content > div:not([class]),
+.hero .hero-content > .hero-villes {
+  justify-content: center;
+  text-align: center;
+}
+
+/* Le bloc d'ouverture est large de 780 px et calé à gauche : centrer son
+   contenu ne suffisait pas, il se centrait dans une colonne elle-même
+   décalée. Le bloc entier est donc ramené au milieu de la page. */
+.hero .hero-content {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+}
+
+/* ── Portrait sous le bandeau ──────────────────────────────────────
+   Carré de 200 px, recadré au centre : la photo d'origine est en portrait
+   (1000 × 1333) et serait déformée sans `object-fit`. */
+.portrait-accueil {
+  display: flex;
+  justify-content: center;
+  /* Le bandeau est fixe : sans ce retrait, la photo passerait dessous. */
+  padding: 124px 24px 0;
+  background: #0a0a0a;
+}
+
+.portrait-accueil img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 22%; /* le visage plutôt que le buste */
+  border-radius: 50%;
+  border: 1px solid rgba(201, 169, 110, 0.35);
+}
+
+@media (max-width: 620px) {
+  .portrait-accueil {
+    padding-top: 92px; /* bandeau réduit à 68 px sur petit écran */
+  }
+
+  .portrait-accueil img {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+/* ── Hauteur du bandeau d'ouverture ────────────────────────────────
+   Il occupait toute la hauteur de l'écran (768 px) pour porter le grand
+   titre ; celui-ci retiré, il ne restait qu'un vide de près de 400 px
+   entre la photo et les étiquettes. Sa hauteur suit désormais son
+   contenu.
+
+   Le retrait du haut disparaît aussi : il compensait le bandeau fixe, ce
+   dont la photo se charge maintenant, puisqu'elle passe avant. */
+.hero {
+  min-height: 0;
+  height: auto;
+  padding-top: 0;
+}
+
+.hero .hero-content {
+  padding-top: 0;
+  padding-bottom: 56px;
+}

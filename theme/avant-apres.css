@@ -1,0 +1,148 @@
+/* ─── Diaporama avant/après ──────────────────────────────────────────
+   Alimenté depuis l'administration (medias/avant-apres.json). Posé dans
+   theme/ pour être disponible sur toute page qui porte le bloc, quel que
+   soit son style-XXXX.css propre — comme navigation.css ou accueil.css. */
+
+.aa-diaporama {
+  position: relative;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.aa-diapo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2px;
+  background: var(--border, #e8e2d9);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Le navigateur masque nativement les éléments avec l'attribut [hidden],
+   mais une règle d'auteur (ici display:grid ci-dessus) l'emporte toujours
+   sur la feuille de style par défaut du navigateur, quelle que soit sa
+   spécificité — sans cette règle, tous les cas restent visibles en même
+   temps au lieu d'un seul à la fois. */
+.aa-diapo[hidden] {
+  display: none;
+}
+
+.aa-photo {
+  position: relative;
+  aspect-ratio: 4 / 5;
+  background: var(--creme, #f8f6f2);
+  overflow: hidden;
+}
+
+.aa-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.aa-etiquette {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 2;
+  background: var(--noir, #0a0a0a);
+  color: var(--blanc, #fff);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 2px;
+}
+
+.aa-legende {
+  grid-column: 1 / -1;
+  background: var(--noir, #0a0a0a);
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.78rem;
+  padding: 14px 18px;
+  margin: 0;
+}
+
+.aa-vide {
+  text-align: center;
+  padding: 48px 24px;
+  border: 1px dashed var(--border, #e8e2d9);
+  border-radius: 4px;
+  color: var(--muted, #888);
+}
+
+.aa-commandes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.aa-prec,
+.aa-suiv {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 1px solid var(--gold, #c9a96e);
+  background: transparent;
+  color: var(--gold, #c9a96e);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+.aa-prec:hover,
+.aa-suiv:hover {
+  background: var(--gold, #c9a96e);
+  color: var(--noir, #0a0a0a);
+}
+
+.aa-puces {
+  display: flex;
+  gap: 8px;
+}
+
+.aa-puce {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  padding: 0;
+  background: var(--border, #e8e2d9);
+  cursor: pointer;
+  transition: background 0.25s ease, transform 0.25s ease;
+}
+
+.aa-puce.aa-active {
+  background: var(--gold, #c9a96e);
+  transform: scale(1.3);
+}
+
+@media (max-width: 620px) {
+  .aa-diapo {
+    grid-template-columns: 1fr;
+  }
+
+  .aa-photo {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+/* ─── Bandeau du haut de la page « Avant/Après » ─────────────────────
+   Le grand titre est centré, et le fil d'Ariane (retiré du contenu) ne
+   laisse pas de place vide à combler ici. */
+.aa-hero-centre {
+  text-align: center;
+}
+
+.aa-hero-centre .hero-eyebrow {
+  justify-content: center;
+}
+
+.aa-hero-centre .hero-btns {
+  justify-content: center;
+}

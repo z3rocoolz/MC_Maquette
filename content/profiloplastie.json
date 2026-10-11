@@ -1,0 +1,103 @@
+{
+  "slug": "profiloplastie",
+  "url": "/profiloplastie/",
+  "template": "standard",
+  "style": "style-5b0c4b190412.css",
+  "scripts": [
+    "script-e5101a43df57.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "2b77d0e67522",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "fe6708cffaae"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Comprendre la profiloplastie | Dr Mattia Coda",
+    "description": "Examiner les relations entre les différentes parties du profil.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Comprendre la profiloplastie",
+    "lead": "Examiner les relations entre les différentes parties du profil.",
+    "eyebrow": "Votre information"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "Comprendre la demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le terme décrit une réflexion sur l’équilibre du profil, notamment entre nez et menton. Il ne correspond pas à un geste unique. Une demande peut relever de plusieurs options, à discuter séparément.</p>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Possibilités et alternatives",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La consultation met en regard votre attente et les constatations de l’examen. Demandez ce qui est possible, ce qui ne l’est pas et quelles autres options existent, y compris ne pas intervenir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Risques, limites et suites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le profil de risque dépend des gestes ou produits envisagés. Il doit être expliqué précisément, avec les limites du traitement et les modalités de suivi.</p><p>Le calendrier de récupération et les précautions sont individuels. Une technique, un appareil ou une simulation ne garantit pas le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Faut-il réellement envisager plusieurs gestes pour ma demande ?</li><li>Quels risques sont spécifiques à ma situation ?</li><li>Comment se déroulerait le suivi ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "approfondir",
+      "title": "Pour aller plus loin",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"competences.html\">Retrouver les domaines d’intervention</a> et <a href=\"consultation.html\">le déroulement d’une consultation</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "b48c91d81d8eb9c5",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

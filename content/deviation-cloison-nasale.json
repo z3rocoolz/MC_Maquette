@@ -1,0 +1,103 @@
+{
+  "slug": "deviation-cloison-nasale",
+  "url": "/deviation-cloison-nasale/",
+  "template": "standard",
+  "style": "style-a077fb0d5838.css",
+  "scripts": [
+    "script-f47ec67f0ae7.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "e278f0574b1a",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "9d86a7534f7f"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "La déviation de la cloison nasale | Dr Mattia Coda",
+    "description": "Une anomalie anatomique à mettre en relation avec votre gêne.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "La déviation de la cloison nasale",
+    "lead": "Une anomalie anatomique à mettre en relation avec votre gêne.",
+    "eyebrow": "Votre information"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "Comprendre la demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La cloison sépare les fosses nasales. Sa forme peut participer à une obstruction, sans être nécessairement l’unique cause. Une septoplastie agit sur cette cloison ; l’indication dépend du bilan.</p>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Possibilités et alternatives",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La consultation met en regard votre attente et les constatations de l’examen. Demandez ce qui est possible, ce qui ne l’est pas et quelles autres options existent, y compris ne pas intervenir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Risques, limites et suites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Saignement, infection, troubles de cicatrisation, irrégularités, gêne respiratoire ou résultat insatisfaisant sont notamment à discuter.</p><p>Le calendrier de récupération et les précautions sont individuels. Une technique, un appareil ou une simulation ne garantit pas le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quels bénéfices et quelles limites peut-on attendre sur la respiration ?</li><li>Quels risques sont spécifiques à ma situation ?</li><li>Comment se déroulerait le suivi ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "approfondir",
+      "title": "Pour aller plus loin",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"rhinoplastie.html\">Lire les repères complets sur la rhinoplastie</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "219a9432d70b85ff",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

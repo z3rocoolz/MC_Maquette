@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "informations.html",
+    "index.html"
+  ],
+  "local_links_assets_and_fragments": "pass",
+  "errors": [],
+  "language": "fr",
+  "one_h1_each": true,
+  "structured_data": "valid JSON"
+}

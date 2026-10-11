@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-11T03:31:02.361436+00:00",
+  "scope": "Couleurs pleines effectivement utilisées pour textes et contrôles. Hors photographie, antialiasing et rendu navigateur. Champagne réservé aux décorations.",
+  "pairs": [
+    {
+      "usage": "Texte graphite sur crème",
+      "foreground": "#252927",
+      "background": "#F8F6F2",
+      "ratio": 13.652,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Texte graphite sur sauge",
+      "foreground": "#252927",
+      "background": "#DDE6DF",
+      "ratio": 11.549,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Texte graphite sur blanc",
+      "foreground": "#252927",
+      "background": "#FFFFFF",
+      "ratio": 14.735,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Texte secondaire sur crème",
+      "foreground": "#535B56",
+      "background": "#F8F6F2",
+      "ratio": 6.488,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Texte secondaire sur sauge",
+      "foreground": "#535B56",
+      "background": "#DDE6DF",
+      "ratio": 5.489,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Texte secondaire sur blanc",
+      "foreground": "#535B56",
+      "background": "#FFFFFF",
+      "ratio": 7.003,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Accent et focus sur crème",
+      "foreground": "#816037",
+      "background": "#F8F6F2",
+      "ratio": 5.313,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Indicateur de dépliage et focus sur sauge — texte courant en graphite",
+      "foreground": "#816037",
+      "background": "#DDE6DF",
+      "ratio": 4.495,
+      "threshold": 3,
+      "passes": true
+    },
+    {
+      "usage": "Accent et focus sur blanc",
+      "foreground": "#816037",
+      "background": "#FFFFFF",
+      "ratio": 5.735,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Bouton principal",
+      "foreground": "#FFFFFF",
+      "background": "#252927",
+      "ratio": 14.735,
+      "threshold": 4.5,
+      "passes": true
+    },
+    {
+      "usage": "Bouton survol",
+      "foreground": "#FFFFFF",
+      "background": "#816037",
+      "ratio": 5.735,
+      "threshold": 4.5,
+      "passes": true
+    }
+  ],
+  "minimum_normal_text": 5.313
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "accessibilite",
+  "template": "standard",
+  "style": null,
+  "scripts": [],
+  "chrome": {},
+  "images": [],
+  "layout": [],
+  "url": "/accessibilite/",
+  "seo": {
+    "title": "Accessibilité du site. | Dr Mattia Coda",
+    "description": "Une démarche de conception et de vérification, avec des résultats distingués des contrôles restant à réaliser.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Accessibilité du site.",
+    "lead": "Une démarche de conception et de vérification, avec des résultats distingués des contrôles restant à réaliser.",
+    "eyebrow": "Information et transparence"
+  },
+  "sections": [
+    {
+      "id": "utiliser",
+      "title": "Naviguer et lire",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Un lien « Aller au contenu » est disponible au clavier en début de page.</li><li>Les pages sont structurées avec des titres, des régions et des liens explicites.</li><li>Les informations principales restent accessibles sans JavaScript.</li><li>Le menu mobile se ferme avec Échap ; le focus revient au bouton Menu.</li><li>Les préférences de réduction des animations sont prises en compte.</li><li>La fiche de préparation utilise des cases natives étiquetées et une impression adaptée.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "objectif",
+      "title": "L’objectif et les limites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La conception vise les WCAG 2.2 niveau AA et prend en compte le RGAA. Un audit complet de conformité n’a pas été réalisé : aucun taux de conformité ni certification n’est annoncé.</p><p>Les contrôles automatiques du HTML, des liens et du comportement simulé sont complétés par une grille de recette. Les essais dans un navigateur réel à 320 pixels, avec zoom à 200 % et 400 %, ainsi que NVDA et VoiceOver, restent à exécuter.</p>"
+        }
+      ]
+    },
+    {
+      "id": "aide",
+      "title": "Besoin d’une autre façon d’accéder à l’information ?",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Si la navigation vous pose une difficulté, vous pouvez passer par la <a href=\"https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda\">fiche de rendez-vous du Dr Coda sur Doctolib</a>. Les modalités de contact dédiées aux retours d’accessibilité seront précisées avant l’ouverture publique.</p>"
+        }
+      ]
+    }
+  ],
+  "medical": false
+}

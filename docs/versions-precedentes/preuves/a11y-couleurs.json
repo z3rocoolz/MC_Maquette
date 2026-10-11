@@ -1,0 +1,110 @@
+[
+  {
+    "page": "index.html",
+    "width": 1280,
+    "viewport": 1265,
+    "scrollWidth": 1265,
+    "violations": [],
+    "passes": 41,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          [
+            ".hero-copy > .eyebrow"
+          ],
+          [
+            "#titre-principal"
+          ],
+          [
+            "#titre-principal > em"
+          ],
+          [
+            ".hero-description"
+          ],
+          [
+            ".text-link[href$=\"#approche\"]"
+          ],
+          [
+            ".hero-number"
+          ],
+          [
+            ".hero-bottom > span:nth-child(2)"
+          ],
+          [
+            ".round-link > span[aria-hidden=\"true\"]"
+          ],
+          [
+            ".photo-mark"
+          ],
+          [
+            ".back-top > span[aria-hidden=\"true\"]"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": "informations.html",
+    "width": 1280,
+    "viewport": 1265,
+    "scrollWidth": 1265,
+    "violations": [],
+    "passes": 38,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          [
+            ".back-top > span[aria-hidden=\"true\"]"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "page": "index.html",
+    "width": 320,
+    "viewport": 305,
+    "scrollWidth": 305,
+    "violations": [],
+    "passes": 42,
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "nodes": [
+          [
+            ".hero-copy > .eyebrow"
+          ],
+          [
+            "#titre-principal"
+          ],
+          [
+            "#titre-principal > em"
+          ],
+          [
+            ".hero-description"
+          ],
+          [
+            ".text-link[href$=\"#approche\"]"
+          ],
+          [
+            ".hero-number"
+          ],
+          [
+            ".hero-bottom > span:nth-child(2)"
+          ],
+          [
+            ".round-link > span[aria-hidden=\"true\"]"
+          ],
+          [
+            ".photo-mark"
+          ],
+          [
+            ".back-top > span[aria-hidden=\"true\"]"
+          ]
+        ]
+      }
+    ]
+  }
+]

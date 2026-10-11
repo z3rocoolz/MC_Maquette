@@ -1,0 +1,350 @@
+{
+  "slug": "rhinoplastie-nice",
+  "url": "/rhinoplastie-nice/",
+  "template": "standard",
+  "style": "style-52f7e740ebbe.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "95e1c0db48b5",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "0d1ed28e7d20"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Nice – Dr Mattia Coda, Chirurgien Maxillo-Facial",
+    "description": "Consultation de rhinoplastie à Nice avec le Dr Mattia Coda, chirurgien maxillo-facial. Cabinet Médical, 4 Avenue Georges Clemenceau.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-nice/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Physician",
+        "name": "Dr Mattia Coda",
+        "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+        "description": "Consultation de rhinoplastie à Nice.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4 Avenue Georges Clemenceau",
+          "addressLocality": "Nice",
+          "postalCode": "06000",
+          "addressCountry": "FR"
+        },
+        "telephone": "06 42 76 26 12",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-nice/"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Où se trouve le cabinet de rhinoplastie à Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Au 4 avenue Georges Clemenceau, 06000 Nice, dans le centre-ville. Accessible tramway T1 arrêt Masséna. Contact : 06 42 76 26 12."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Les opérations de rhinoplastie sont-elles réalisées à la Clinique Saint-François de Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Les interventions chirurgicales sont réalisées à la Clinique Saint-François de Nice et à Marseille. Les consultations préopératoires et le suivi sont organisés à Nice."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Le Dr Coda reçoit-il les patients de Monaco à Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Les patients de Monaco, Menton et de l'est des Alpes-Maritimes consultent à Nice, à 20-30 minutes en train ou en voiture."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Comment prendre rendez-vous à Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Par téléphone au 06 42 76 26 12 ou via Doctolib. Précisez qu'il s'agit d'une consultation de rhinoplastie."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Nice",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-nice/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Consultation rhinoplastie · Nice",
+    "title": "Consultation à <em>Nice</em>",
+    "lead": "Le Dr Mattia Coda consulte à Nice pour la rhinoplastie au 4 avenue Georges Clemenceau, dans le centre-ville. Il reçoit les patients des Alpes-Maritimes et de Monaco.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous à Nice",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Nice",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Le cabinet de Nice",
+      "title": "Consultation rhinoplastie à Nice",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le cabinet de consultation est situé au 4 avenue Georges Clemenceau, en plein centre de Nice, à deux pas de la Place Masséna. La consultation suit un protocole rigoureux : entretien médical approfondi, examen morphologique du nez, simulation numérique sur photographies de profil et remise d'un devis détaillé. Les consultations sont disponibles rapidement.</p>\n      <p>Les interventions chirurgicales sont réalisées à la <strong>Clinique Saint-François de Nice</strong> ou à l'<strong>Hôpital Privé Beauregard de Marseille</strong> selon l'indication. La consultation se tient toujours au cabinet de ville — le patient ne se rend à la clinique que le jour de l'intervention.</p>\n      <p>Les consultations et échanges peuvent se dérouler en <strong>français, italien ou anglais</strong> selon la préférence du patient.</p>\n    <p>Pour les indications les plus fréquentes — <a href=\"/correction-bosse-nez/\" style=\"color:var(--gold);\">bosse du nez</a>, <a href=\"/rhinoplastie-pointe-nez/\" style=\"color:var(--gold);\">pointe du nez</a> — ou les techniques disponibles — <a href=\"/rhinoplastie-homme/\" style=\"color:var(--gold);\">rhinoplastie homme</a>, <a href=\"/profiloplastie/\" style=\"color:var(--gold);\">profiloplastie</a>, <a href=\"/feminisation-faciale/\" style=\"color:var(--gold);\">féminisation faciale</a>, <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">primaire</a>, <a href=\"/rhinoplastie-ultrasonique/\" style=\"color:var(--gold);\">ultrasonique</a>, <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">de préservation</a>, <a href=\"/rhinoplastie-secondaire/\" style=\"color:var(--gold);\">secondaire</a>, <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">fonctionnelle</a> — voir le <a href=\"/rhinoplastie/\" style=\"color:var(--gold);\">guide médical complet</a> — notamment la <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">section techniques</a>, les <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">suites opératoires</a> et les <a href=\"/rhinoplastie/#prix\" style=\"color:var(--gold);\">tarifs indicatifs</a>.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Informations pratiques — Nice</span>\n        <ul class=\"liste\">\n          <li><strong>Consultations :</strong> Cabinet Médical, 4 Avenue Georges Clemenceau, 06000 Nice</li>\n          <li><strong>Interventions :</strong> Clinique Saint-François de Nice et Hôpital Privé Beauregard de Marseille</li>\n          <li><strong>Téléphone :</strong> <a href=\"tel:0642762612\" style=\"color:var(--gold);\">06 42 76 26 12</a></li>\n          <li><strong>Rendez-vous :</strong> Doctolib ou par téléphone</li>\n          <li><strong>Langues :</strong> Français, Italien, Anglais</li>\n          <li><strong>Délai légal :</strong> 15 jours de réflexion entre la consultation et l'intervention</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "local",
+      "variant": null,
+      "eyebrow": "Pourquoi Nice ?",
+      "title": "Une patientèle régionale et internationale",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Le cabinet de Nice accueille des patients de Nice et de toute la Côte d'Azur — Cannes, Antibes, Menton, Grasse, Vence — mais aussi une patientèle internationale significative. Sa situation géographique à la frontière italienne, associée à la maîtrise de l'italien, du français et de l'anglais, attire régulièrement des patients en provenance de <strong>Monaco, d'Italie, du Royaume-Uni et des États-Unis</strong>.</p>\n      <p>Pour les patients italiens et monégasques, Nice représente une alternative sérieuse à Milan ou Paris — avec l'avantage d'une consultation dans leur langue, un suivi post-opératoire accessible et un chirurgien formé dans le système médical européen. Les consultations peuvent se tenir en italien ou en anglais selon la préférence du patient.</p>\n      <p>Une question revient souvent : pourquoi choisir Nice plutôt qu'un chirurgien parisien ? La réponse tient au suivi. Après une <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">rhinoplastie primaire</a> ou une <a href=\"/rhinoplastie-secondaire/\" style=\"color:var(--gold);\">rhinoplastie secondaire</a>, les <a href=\"/rhinoplastie/#suites\" style=\"color:var(--gold);\">consultations de suivi</a> s'étalent sur 12 à 18 mois. Avoir un chirurgien joignable dans la région simplifie considérablement cette période. Pour les patients du Var, un cabinet est également disponible à <a href=\"/rhinoplastie-draguignan/#consultation\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "acces",
+      "variant": null,
+      "eyebrow": "Accès au cabinet",
+      "title": "Comment venir au cabinet de Nice",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p><strong>4 avenue Georges Clemenceau, 06000 Nice</strong></p>\n    <h3>En tramway</h3>\n    <p>Tramway T1 : arrêt Masséna, à 3 minutes à pied. Tramway T2 : arrêt Jean Médecin. Le réseau de tramway de Nice dessert efficacement le centre-ville depuis la gare et depuis l'aéroport.</p>\n    <h3>En voiture</h3>\n    <p>L'avenue Georges Clemenceau est en plein centre de Nice. Depuis l'autoroute A8, prendre la sortie Nice Centre. Parkings Masséna et Casino à proximité immédiate.</p>\n    <h3>Depuis la Gare de Nice-Ville</h3>\n    <p>10 minutes à pied ou 5 minutes en tramway T1 (arrêt Masséna). La gare est desservie depuis Cannes, Antibes, Menton et Monaco par train régional.</p>\n    <h3>Depuis l'aéroport Nice-Côte d'Azur</h3>\n    <p>Tramway T2 direction Jean Médecin, environ 20 minutes. Taxi ou VTC disponibles à la sortie des terminaux, compter 20 à 30 minutes selon le trafic.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions",
+      "title": "Questions fréquentes — Nice",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Où se trouve le cabinet à Nice ?",
+              "answer": "Au 4 avenue Georges Clemenceau, 06000 Nice, dans le centre-ville à deux pas de la Place Masséna. Accessible en tramway (arrêt Masséna, ligne T1) et à pied depuis la gare de Nice-Ville."
+            },
+            {
+              "question": "Les opérations sont-elles réalisées à la Clinique Saint-François de Nice ?",
+              "answer": "Les interventions chirurgicales sont réalisées à la Clinique Saint-François de Nice et à Marseille. Les consultations préopératoires et le suivi post-opératoire sont assurés à Nice."
+            },
+            {
+              "question": "Je viens de Monaco ou d'Italie — est-ce que Nice est la bonne option ?",
+              "answer": "Oui. Les patients de Monaco sont à 20-30 minutes en train ou en voiture. Les patients italiens (Vintimille, Gênes, Turin) trouvent à Nice une solution proche et accessible. Les consultations peuvent se tenir en italien ou en anglais. Les interventions sont réalisées à la Clinique Saint-François de Nice ou à l'Hôpital Privé Beauregard de Marseille selon l'indication."
+            },
+            {
+              "question": "Les consultations sont-elles disponibles en anglais ou en italien ?",
+              "answer": "Oui. Les consultations peuvent se dérouler en français, en italien ou en anglais selon la préférence du patient. Cette disponibilité linguistique est particulièrement appréciée des patients italiens, monégasques, britanniques et américains qui consultent régulièrement à Nice."
+            },
+            {
+              "question": "Comment prendre rendez-vous à Nice ?",
+              "answer": "Par téléphone au 06 42 76 26 12 ou via Doctolib. Mentionnez qu'il s'agit d'une consultation de rhinoplastie pour qu'un créneau de durée suffisante soit réservé."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres",
+      "variant": null,
+      "eyebrow": "Autres consultations",
+      "title": "Le Dr Coda consulte également",
+      "blocks": [
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012 Marseille",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/#rhinoplasties-marseille",
+              "linkLabel": "Rhinoplasties à Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Draguignan",
+              "address": "64 Av. Lazare Carnot, 83300 Draguignan",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Rhinoplastie Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "autres-villes"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Nice",
+      "title": "Prendre rendez-vous<br><strong>à Nice</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Un devis personnalisé est remis après consultation conformément à la réglementation en vigueur.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "06 42 76 26 12",
+              "href": "tel:0642762612",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "243dfd28a41ff6f3",
+    "date": "2026-09-18"
+  }
+}

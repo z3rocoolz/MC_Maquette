@@ -1,0 +1,605 @@
+{
+  "date": "2026-10-11T03:57:59.707492+00:00",
+  "source_archive": "projetWeb.zip — dépôt initial fourni par l’utilisateur",
+  "source_sha256": "830015a69e2baa5444583bc76c60644f666ae7445c7cc055c1f05f4e346706c1",
+  "files": [
+    {
+      "file": "article-du-mois.json",
+      "archive_entry": "projetWeb/content/article-du-mois.json",
+      "sha256": "4c01ef67dc640813632aa476375a67c98f32a33616dc984d3a04b27b6ce28600"
+    },
+    {
+      "file": "avant-apres.json",
+      "archive_entry": "projetWeb/content/avant-apres.json",
+      "sha256": "fc66e1b961652c9fe001794211cfacba1289abb068a3784afec1ab5a0eb836df"
+    },
+    {
+      "file": "blepharoplastie.json",
+      "archive_entry": "projetWeb/content/blepharoplastie.json",
+      "sha256": "fc7619b07d097b92c166012cec01a25418ae6c0ca7df9d698b2a5b047be8cd4e"
+    },
+    {
+      "file": "chirurgie-orthognathique.json",
+      "archive_entry": "projetWeb/content/chirurgie-orthognathique.json",
+      "sha256": "a78f8cfc07b22fb79ea367a84fd4894337d36451b634b0a4b6f9ec8d1d38cb4b"
+    },
+    {
+      "file": "confidentialite.json",
+      "archive_entry": "projetWeb/content/confidentialite.json",
+      "sha256": "3146b06b718c0c7f53734ae706b44c08315bf862bca92e835e00a4c01f84426d"
+    },
+    {
+      "file": "correction-bosse-nez.json",
+      "archive_entry": "projetWeb/content/correction-bosse-nez.json",
+      "sha256": "74508c410154147d58e14e86b45e30b3406b17f49898938a2c980328508ae4a8"
+    },
+    {
+      "file": "dents-de-sagesse.json",
+      "archive_entry": "projetWeb/content/dents-de-sagesse.json",
+      "sha256": "a53d537eda13ddfddaa0ea9f638cd09c656a551b2f6ba5029f550f23643d32f6"
+    },
+    {
+      "file": "deviation-cloison-nasale.json",
+      "archive_entry": "projetWeb/content/deviation-cloison-nasale.json",
+      "sha256": "a3aab67e14ae2a79312d1dc7bf5432f52fd88757fc752d8f03a0eadb6b6892de"
+    },
+    {
+      "file": "dr-mattia-coda.json",
+      "archive_entry": "projetWeb/content/dr-mattia-coda.json",
+      "sha256": "27fd2cd84d11fd7a558cc61f564072f2d2b9dfefedb284b92f68c91f198ff861"
+    },
+    {
+      "file": "drmattiacoda_v8.json",
+      "archive_entry": "projetWeb/content/drmattiacoda_v8.json",
+      "sha256": "bc38c0b0bd146d3c5092cd989106bbaba7fd02b3e6eb74d9704efa70525cd4bd"
+    },
+    {
+      "file": "feminisation-faciale.json",
+      "archive_entry": "projetWeb/content/feminisation-faciale.json",
+      "sha256": "43fe4fed7969e0ec258e3c16ab65f9be20f6acd6559504dee190093b922d3e0f"
+    },
+    {
+      "file": "lifting-cervico-facial.json",
+      "archive_entry": "projetWeb/content/lifting-cervico-facial.json",
+      "sha256": "bdbca8f0526a7c0fd9f8af7433f751415b2d13c0a4d3256b87a30050ea8cff94"
+    },
+    {
+      "file": "lifting-sourcilier.json",
+      "archive_entry": "projetWeb/content/lifting-sourcilier.json",
+      "sha256": "b86f36743d99cb84484358c107797679de7b46230afdf32473bc94b20c7bf3d2"
+    },
+    {
+      "file": "medecine-esthetique.json",
+      "archive_entry": "projetWeb/content/medecine-esthetique.json",
+      "sha256": "1266e83efb63773692cdd5498c35d307f4c7b1d862cdf501054e8f5cf8e7c2cd"
+    },
+    {
+      "file": "mentions-legales.json",
+      "archive_entry": "projetWeb/content/mentions-legales.json",
+      "sha256": "79a87e1526ac5c97bb511e1ddfc6d8d4546c541102aa327f6b49592a1f16b5ed"
+    },
+    {
+      "file": "prix-rhinoplastie.json",
+      "archive_entry": "projetWeb/content/prix-rhinoplastie.json",
+      "sha256": "0585b45052d886cd027406da83f83cb971f9ddd634e3c9ac1d770a702d90e595"
+    },
+    {
+      "file": "profiloplastie.json",
+      "archive_entry": "projetWeb/content/profiloplastie.json",
+      "sha256": "621cbde3722d644ad2b857fe4af2ca3746c5bb2d7dd9ef8dd997ad16032991ea"
+    },
+    {
+      "file": "rhinoplastie-draguignan.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-draguignan.json",
+      "sha256": "af065f4cadf5663571927bfc82dd37be4e7d0d0f4d20d74d61983ee7dcd4c233"
+    },
+    {
+      "file": "rhinoplastie-fonctionnelle.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-fonctionnelle.json",
+      "sha256": "3d91c468e182d5123546c9052a9ce2c1decbf4a6a510b43ab52c400e81cfd413"
+    },
+    {
+      "file": "rhinoplastie-homme.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-homme.json",
+      "sha256": "e1a4daa864fc7e2aa0c6ae2dac88e543dcf69a27f24c00c33c905faefa5c2148"
+    },
+    {
+      "file": "rhinoplastie-marseille.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-marseille.json",
+      "sha256": "38cfd19250f20493ecb54ff16b187846ab1d78a5a95a28315f7dbc3adef83055"
+    },
+    {
+      "file": "rhinoplastie-nice.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-nice.json",
+      "sha256": "eca975eca202fae3cf5d85c90b82ab4775a85b3282d4d5da8bf944c5bf2fb3d7"
+    },
+    {
+      "file": "rhinoplastie-pointe-nez.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-pointe-nez.json",
+      "sha256": "64646bd573c03342bacc9fe93841463fbe0611bcd45414cb567ab6feed812a76"
+    },
+    {
+      "file": "rhinoplastie-preservation.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-preservation.json",
+      "sha256": "8759fb0208abeb970498c970ceb3ef062e5006bbb4e8813d9662c19f6ef1cedd"
+    },
+    {
+      "file": "rhinoplastie-primaire.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-primaire.json",
+      "sha256": "d19a8d1f0984385cb89916d8d65f38b7fd3fca15195c07792f959c0c5e99bee4"
+    },
+    {
+      "file": "rhinoplastie-secondaire.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-secondaire.json",
+      "sha256": "c0886089a0a9e1367869306cf9e8d75b5422277a139f5356e2e8c41daa348e31"
+    },
+    {
+      "file": "rhinoplastie-ultrasonique.json",
+      "archive_entry": "projetWeb/content/rhinoplastie-ultrasonique.json",
+      "sha256": "827feb5a4b89bf3e675f54a3ab48fb7cc8888bbb7d1bb95a049b91c4c0dfa439"
+    },
+    {
+      "file": "rhinoplastie_v3.json",
+      "archive_entry": "projetWeb/content/rhinoplastie_v3.json",
+      "sha256": "86c3f541bffebe6837b5f2cc54efccac13677cef3a11d36b7e495bc0fdc8f246"
+    }
+  ],
+  "technicalPages": {
+    "blepharoplastie": {
+      "file": "blepharoplastie.json",
+      "sections": [
+        "definition",
+        "indications",
+        "transconjonctivale",
+        "association",
+        "suites",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 7,
+          "id": null,
+          "title": "Consultation blépharoplastie<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "chirurgie-orthognathique": {
+      "file": "chirurgie-orthognathique.json",
+      "sections": [
+        "definition",
+        "indications",
+        "techniques",
+        "intervention",
+        "suites",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 7,
+          "id": "pages-liees",
+          "title": "Voir aussi",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 8,
+          "id": null,
+          "title": "Consultation chirurgie orthognathique<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "correction-bosse-nez": {
+      "file": "correction-bosse-nez.json",
+      "sections": [
+        "definition",
+        "anatomie",
+        "techniques",
+        "sans-chirurgie",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "dents-de-sagesse": {
+      "file": "dents-de-sagesse.json",
+      "sections": [
+        "definition",
+        "indications",
+        "intervention",
+        "suites",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "pages-liees",
+          "title": "Voir aussi",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Consultation dents de sagesse<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "deviation-cloison-nasale": {
+      "file": "deviation-cloison-nasale.json",
+      "sections": [
+        "definition",
+        "symptomes",
+        "septoplastie",
+        "cornets",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "feminisation-faciale": {
+      "file": "feminisation-faciale.json",
+      "sections": [
+        "definition",
+        "differences",
+        "interventions",
+        "parcours",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "pages-liees",
+          "title": "Interventions associées",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "lifting-cervico-facial": {
+      "file": "lifting-cervico-facial.json",
+      "sections": [
+        "definition",
+        "techniques",
+        "cicatrices",
+        "suites",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "pages-liees",
+          "title": "Autres interventions du visage",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Consultation lifting<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "lifting-sourcilier": {
+      "file": "lifting-sourcilier.json",
+      "sections": [
+        "definition",
+        "techniques",
+        "association",
+        "suites",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "pages-liees",
+          "title": "Voir aussi",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Consultation lifting sourcilier<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "medecine-esthetique": {
+      "file": "medecine-esthetique.json",
+      "sections": [
+        "approche",
+        "botox",
+        "acide-hyaluronique",
+        "rhinoplastie-medicale",
+        "mesotherapie",
+        "consultation",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 7,
+          "id": "pages-liees",
+          "title": "Voir aussi",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 8,
+          "id": null,
+          "title": "Consultation médecine esthétique<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "profiloplastie": {
+      "file": "profiloplastie.json",
+      "sections": [
+        "definition",
+        "indications",
+        "genioplastie",
+        "avantages",
+        "deroulement",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 7,
+          "id": "pages-liees",
+          "title": "Interventions associées",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 8,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-fonctionnelle": {
+      "file": "rhinoplastie-fonctionnelle.json",
+      "sections": [
+        "definition",
+        "gestes",
+        "rhinoplastie-mixte",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 5,
+          "id": "autres-techniques",
+          "title": "Autres techniques de rhinoplastie",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-homme": {
+      "file": "rhinoplastie-homme.json",
+      "sections": [
+        "specificites",
+        "differences-anatomiques",
+        "indications",
+        "techniques",
+        "consultation",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 7,
+          "id": "pages-liees",
+          "title": "Interventions associées",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 8,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-pointe-nez": {
+      "file": "rhinoplastie-pointe-nez.json",
+      "sections": [
+        "definition",
+        "defauts",
+        "techniques",
+        "association",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>à Marseille, Nice ou Draguignan</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-preservation": {
+      "file": "rhinoplastie-preservation.json",
+      "sections": [
+        "definition",
+        "techniques",
+        "indications",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 5,
+          "id": "autres-techniques",
+          "title": "Autres techniques de rhinoplastie",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-primaire": {
+      "file": "rhinoplastie-primaire.json",
+      "sections": [
+        "definition",
+        "indications",
+        "techniques",
+        "deroulement",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "autres-techniques",
+          "title": "Autres techniques de rhinoplastie",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-secondaire": {
+      "file": "rhinoplastie-secondaire.json",
+      "sections": [
+        "definition",
+        "indications",
+        "complexite",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 5,
+          "id": "autres-techniques",
+          "title": "Autres techniques de rhinoplastie",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 6,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie-ultrasonique": {
+      "file": "rhinoplastie-ultrasonique.json",
+      "sections": [
+        "definition",
+        "avantages",
+        "indications",
+        "technique",
+        "faq",
+        "consultations"
+      ],
+      "excluded_sections": [
+        {
+          "index": 6,
+          "id": "autres-techniques",
+          "title": "Autres techniques de rhinoplastie",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 7,
+          "id": null,
+          "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    },
+    "rhinoplastie_v3": {
+      "file": "rhinoplastie_v3.json",
+      "sections": [
+        "definition",
+        "anatomie",
+        "indications",
+        "techniques",
+        "voies",
+        "bilan",
+        "intervention",
+        "suites",
+        "risques",
+        "prix",
+        "faq"
+      ],
+      "excluded_sections": [
+        {
+          "index": 0,
+          "id": null,
+          "title": "",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 12,
+          "id": "villes",
+          "title": "Rhinoplastie à Marseille, Nice &amp; Draguignan",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 13,
+          "id": null,
+          "title": "",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 14,
+          "id": null,
+          "title": "Vos consultations de rhinoplastie en région PACA",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        },
+        {
+          "index": 15,
+          "id": null,
+          "title": "Prendre rendez-vous avec<br><strong>le Dr Mattia Coda</strong>",
+          "reason": "Navigation, sommaire, bloc de lieux ou appel à rendez-vous"
+        }
+      ]
+    }
+  },
+  "excluded_modules": [
+    "villes",
+    "buttons"
+  ],
+  "scope": "Les 28 JSON actifs d’origine sont conservés à l’octet. Les rubriques cliniques des 18 pages d’intervention sont affichées ; les blocs de rendez-vous, de liens associés et de coordonnées ne sont pas répétés dans le niveau technique."
+}

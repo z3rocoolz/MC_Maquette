@@ -1,0 +1,396 @@
+{
+  "slug": "dents-de-sagesse",
+  "url": "/dents-de-sagesse/",
+  "template": "standard",
+  "style": "style-c66c1b4d32fd.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "8dc08281cb64",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "b481c433d44b"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Extraction Dents de Sagesse Marseille Nice – Dr Mattia Coda",
+    "description": "Extraction des dents de sagesse à Marseille et Nice avec le Dr Mattia Coda, chirurgien maxillo-facial et stomatologue. Sous anesthésie locale ou générale.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/dents-de-sagesse/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Extraction Dents de Sagesse Marseille Nice",
+        "description": "Extraction des dents de sagesse à Marseille, Nice et Draguignan avec le Dr Mattia Coda, chirurgien maxillo-facial et stomatologue.",
+        "url": "https://www.drmattiacoda.fr/dents-de-sagesse/",
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          }
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Dents de Sagesse",
+            "item": "https://www.drmattiacoda.fr/dents-de-sagesse/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Chirurgie Maxillo-Faciale · Stomatologie",
+    "title": "Extraction des Dents de Sagesse",
+    "lead": "Extraction chirurgicale des dents de sagesse incluses ou semi-incluses, sous anesthésie locale ou générale. Consultations à Marseille, Nice et Draguignan — interventions à Marseille et Nice.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Le Chirurgien",
+        "href": "/dr-mattia-coda/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Dents de Sagesse",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Chirurgie maxillo-faciale et stomatologie",
+      "title": "Extraction des dents de sagesse",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les <strong>dents de sagesse</strong> — troisièmes molaires — sont les dernières dents à faire leur éruption, généralement entre 17 et 25 ans. Faute de place suffisante dans la mâchoire, elles restent fréquemment incluses (entièrement dans l'os) ou semi-incluses (partiellement sortie), ce qui peut entraîner des complications infectieuses, douloureuses ou mécaniques.</p>\n      <p>Leur extraction relève de la compétence du <strong>chirurgien maxillo-facial et stomatologue</strong>. Le Dr Mattia Coda, titulaire du DES en Chirurgie Maxillo-Faciale et Stomatologie, prend en charge ces interventions à Marseille et à Nice, en ambulatoire.</p>\n      <div class=\"note-med\">\n        <strong>Remboursement Sécurité Sociale :</strong> L'extraction des dents de sagesse est prise en charge par l'Assurance maladie selon les conditions d'indication médicale (inclusion, accidents d'éruption, infections à répétition). Les modalités de remboursement sont précisées lors de la consultation. RPPS 10100805174.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Quand extraire ?",
+      "title": "Indications d'extraction",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'extraction n'est pas systématique — elle est indiquée lorsque la dent de sagesse cause ou risque de causer des problèmes.</p>\n      <div class=\"ibox\">\n        <span class=\"ibox-title\">Principales indications</span>\n        <ul class=\"liste\">\n          <li><strong>Péricoronarite</strong> — infection récidivante autour d'une dent semi-incluse, avec douleur, gonflement et parfois trismus</li>\n          <li><strong>Inclusion et manque de place</strong> — dent complètement incluse dans l'os sans possibilité d'éruption, pouvant comprimer les dents voisines</li>\n          <li><strong>Kyste dentigère</strong> — formation d'un kyste autour de la couronne de la dent incluse</li>\n          <li><strong>Carie de la dent de sagesse ou de la dent adjacente</strong> — inaccessibilité à l'hygiène dentaire</li>\n          <li><strong>Douleurs et accidents d'éruption</strong> — pression sur les dents voisines lors de l'éruption</li>\n          <li><strong>Indication orthodontique</strong> — sur prescription d'un orthodontiste avant un traitement d'alignement</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "intervention",
+      "variant": null,
+      "eyebrow": "Déroulement",
+      "title": "Comment se déroule l'intervention ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>L'extraction des dents de sagesse est réalisée en <strong>ambulatoire</strong> — le patient entre et sort le même jour. L'intervention peut être effectuée sous <strong>anesthésie locale</strong> pour les cas simples, ou sous <strong>anesthésie générale</strong> lorsque plusieurs dents sont extraites simultanément, ou selon la préférence du patient.</p>\n      <p>L'extraction d'une dent incluse nécessite une incision gingivale et parfois un dégagement osseux pour accéder à la dent. La durée de l'intervention varie selon le nombre de dents extraites et leur degré d'inclusion — de 20 minutes pour une extraction simple à 1h30 pour l'extraction des quatre dents sous anesthésie générale.</p>\n      <div class=\"note-warn\">\n        <strong>Bilan préopératoire :</strong> Un panoramique dentaire (radiographie) est indispensable avant toute extraction pour évaluer la position des dents, leur rapport avec le nerf alvéolaire inférieur et planifier l'intervention. Un scanner peut être prescrit pour les cas complexes.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "suites",
+      "variant": null,
+      "eyebrow": "Suites opératoires",
+      "title": "Convalescence après extraction",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les suites d'une extraction de dents de sagesse sont généralement simples. Un œdème de la joue et des douleurs modérées sont habituels les premiers jours, traités par des antalgiques simples.</p>\n      <ul class=\"liste\">\n        <li><strong>J0 à J2</strong> — Œdème maximal, douleurs traitées par antalgiques. Alimentation molle froide ou tiède. Éviter l'effort physique.</li>\n        <li><strong>J3 à J5</strong> — Résorption progressive de l'œdème. Brossage doux possible dès J1 en évitant la zone opérée.</li>\n        <li><strong>J7</strong> — Contrôle postopératoire si nécessaire. Ablation des fils résorbables non obligatoire.</li>\n        <li><strong>2 à 3 semaines</strong> — Reprise complète de l'alimentation normale. Cicatrisation gingivale complète en 3 à 4 semaines.</li>\n      </ul>\n      <div class=\"note-med\">\n        <strong>Bains de bouche :</strong> Des bains de bouche à la chlorhexidine sont recommandés à partir de J1, après le brossage, pour prévenir l'infection de la plaie opératoire. Les modalités précises sont indiquées lors de l'intervention.\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultation",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consultation à Marseille, Nice et Draguignan",
+      "blocks": [
+        {
+          "type": "group",
+          "tag": "div",
+          "className": "txt",
+          "id": null,
+          "blocks": [
+            {
+              "type": "text",
+              "enveloppe": false,
+              "html": "<p>La consultation préopératoire comprend l'examen clinique, l'analyse du panoramique dentaire et la définition du plan de traitement. Le Dr Mattia Coda est accessible sur <strong>Doctolib</strong> pour les consultations de chirurgie maxillo-faciale et de stomatologie, en plus des consultations de chirurgie esthétique.</p>"
+            },
+            {
+              "type": "villes",
+              "items": [
+                {
+                  "name": "Marseille",
+                  "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations + Interventions</span>",
+                  "phone": "04 91 12 11 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-marseille/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Nice",
+                  "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations — Interventions à la Clinique Saint-François</span>",
+                  "phone": "06 42 76 26 12",
+                  "badge": "",
+                  "link": "/rhinoplastie-nice/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                },
+                {
+                  "name": "Draguignan",
+                  "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300<br><span style=\"color:var(--gold);font-size:.74rem;\">Consultations</span>",
+                  "phone": "04 94 39 57 72",
+                  "badge": "",
+                  "link": "/rhinoplastie-draguignan/",
+                  "linkLabel": "En savoir plus →",
+                  "extra": ""
+                }
+              ],
+              "className": "villes-grid"
+            }
+          ]
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "FAQ — Dents de Sagesse",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "L'extraction des dents de sagesse est-elle remboursée ?",
+              "answer": "Oui, sous conditions. L'extraction est prise en charge par l'Assurance maladie lorsqu'elle est médicalement indiquée — inclusion, accidents d'éruption répétés, infection, kyste. Les modalités exactes de remboursement sont précisées lors de la consultation. RPPS 10100805174."
+            },
+            {
+              "question": "Faut-il extraire les quatre dents de sagesse en même temps ?",
+              "answer": "Pas nécessairement. L'extraction simultanée des quatre dents en une seule séance sous anesthésie générale évite plusieurs interventions et anesthésies. Elle est souvent préférée par les patients. L'extraction des dents du haut et du bas peut aussi être réalisée en deux séances séparées sous anesthésie locale. Le choix dépend de l'indication, du degré d'inclusion et de la préférence du patient."
+            },
+            {
+              "question": "L'extraction sous anesthésie générale est-elle plus sûre ?",
+              "answer": "L'anesthésie générale n'est pas plus ou moins sûre que l'anesthésie locale — les deux sont des options valides selon l'indication et la préférence du patient. Elle est indiquée pour les extractions multiples, les cas complexes ou les patients anxieux. Elle nécessite une consultation préanesthésique et un jeûne préopératoire."
+            },
+            {
+              "question": "Combien de jours d'arrêt de travail après une extraction ?",
+              "answer": "Pour une extraction simple sous anesthésie locale, 1 à 2 jours suffisent généralement. Pour une extraction de dents incluses ou une intervention sous anesthésie générale, 3 à 5 jours d'arrêt sont habituellement nécessaires. Pour les professions nécessitant un effort physique important, ce délai peut être prolongé."
+            },
+            {
+              "question": "Pourquoi consulter un chirurgien maxillo-facial plutôt qu'un dentiste ?",
+              "answer": "Pour les dents de sagesse simples, un chirurgien-dentiste peut réaliser l'extraction. Pour les dents incluses profondes, les cas complexes — notamment lorsque la dent est proche du nerf alvéolaire inférieur — la compétence d'un chirurgien maxillo-facial est indiquée. La chirurgie maxillo-faciale forme spécifiquement à ces interventions et à la gestion des complications éventuelles."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "pages-liees",
+      "variant": null,
+      "eyebrow": "Pages associées",
+      "title": "Voir aussi",
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null,
+      "blocks": [
+        {
+          "type": "cards",
+          "variant": "pages-liees",
+          "items": [
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Chirurgie Orthognathique",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/chirurgie-orthognathique/",
+              "html": "<div class=\"page-card-icon\">🦴</div>\n        <div>\n          \n          <p>Correction chirurgicale des malpositions de la mâchoire.</p>\n          <a href=\"/chirurgie-orthognathique/\">En savoir plus →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Le Dr Mattia Coda",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/dr-mattia-coda/",
+              "html": "<div class=\"page-card-icon\">👨‍⚕️</div>\n        <div>\n          \n          <p>Chirurgien maxillo-facial — parcours, expertise, consultation trilingue.</p>\n          <a href=\"/dr-mattia-coda/\">Découvrir →</a>\n        </div>"
+            },
+            {
+              "className": "page-card",
+              "tag": "div",
+              "title": "Avant / Après",
+              "titleTag": "h4",
+              "titleClass": null,
+              "link": "/avant-apres/",
+              "html": "<div class=\"page-card-icon\">📸</div>\n        <div>\n          \n          <p>Résultats concrets présentés avec l'accord de chaque patient.</p>\n          <a href=\"/avant-apres/\">Voir les résultats →</a>\n        </div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Dr Mattia Coda — Chirurgien Maxillo-Facial & Stomatologue",
+      "title": "Consultation dents de sagesse<br><strong>à Marseille, Nice ou Draguignan</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Examen clinique, analyse du panoramique et plan de traitement personnalisé lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "d2adc6f7e5408fb9",
+    "date": "2026-09-18"
+  }
+}

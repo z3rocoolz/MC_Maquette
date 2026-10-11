@@ -1,0 +1,54 @@
+name: Qualité du site Coda
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Repérer le dossier source
+        run: |
+          if [ -f projetWeb/package.json ]; then
+            echo "CODA_SOURCE=projetWeb" >> "$GITHUB_ENV"
+          else
+            echo "CODA_SOURCE=." >> "$GITHUB_ENV"
+          fi
+      - name: Installer et générer le site
+        working-directory: ${{ env.CODA_SOURCE }}
+        run: |
+          npm ci
+          npm run release
+          npm ci --prefix qa
+      - name: Vérifier le HTML et les interactions simulées
+        working-directory: ${{ env.CODA_SOURCE }}
+        run: |
+          node qa/validate-html.cjs
+          export NODE_PATH="$PWD/qa/node_modules:$PWD/node_modules"
+          node --test docs/verification/check-patient.cjs docs/verification/check-reading.cjs docs/verification/check-technical.cjs
+          node docs/verification/check-behaviour.cjs
+      - name: Installer Chromium pour la recette
+        working-directory: ${{ env.CODA_SOURCE }}/qa
+        run: npx playwright install --with-deps chromium
+      - name: Contrôler les parcours et axe
+        working-directory: ${{ env.CODA_SOURCE }}/qa
+        run: npm run browser
+      - name: Contrôler les performances Lighthouse
+        working-directory: ${{ env.CODA_SOURCE }}/qa
+        run: |
+          export CHROME_PATH="$(node -p 'require("@playwright/test").chromium.executablePath()')"
+          npm run lighthouse
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: recette-coda
+          path: |
+            ${{ env.CODA_SOURCE }}/qa/reports
+            ${{ env.CODA_SOURCE }}/docs/preuves

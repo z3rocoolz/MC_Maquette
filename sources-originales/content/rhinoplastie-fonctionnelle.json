@@ -1,0 +1,408 @@
+{
+  "slug": "rhinoplastie-fonctionnelle",
+  "url": "/rhinoplastie-fonctionnelle/",
+  "template": "standard",
+  "style": "style-2915072916e2.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "6598e58dc498",
+    "overlay": "dd9d72dc74d3",
+    "menu": "3bc93c016ef5",
+    "footer": "c0a910ef8064"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Fonctionnelle | Dr Mattia Coda, Marseille",
+    "description": "Rhinoplastie fonctionnelle et septorhinoplastie à Marseille et Nice avec le Dr Mattia Coda. Septoplastie, turbinoplastie, correction valvulaire.",
+    "keywords": "rhinoplastie fonctionnelle, septorhinoplastie, septorhinoplastie Marseille, septoplastie Marseille, septoplastie Nice, déviation cloison nasale Marseille, rhinoplastie fonctionnelle remboursée",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-fonctionnelle/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie Fonctionnelle",
+        "description": "Rhinoplastie fonctionnelle et septorhinoplastie à Marseille et Nice avec le Dr Mattia Coda. Septoplastie, turbinoplastie, correction valvulaire. Prise en charge Sécurité Sociale possible. Consultations à Marseille, Nice, Draguignan.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-fonctionnelle/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie Fonctionnelle",
+          "bodyLocation": "Nez"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie fonctionnelle est-elle remboursée par la Sécurité Sociale ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, sous conditions. La septoplastie fonctionnelle (correction d'une déviation de cloison entraînant une obstruction respiratoire documentée) peut faire l'objet d'une prise en charge partielle ou totale. Le Dr Coda évalue cette possibilité lors de la consultation et rédige si nécessaire une demande d'entente préalable. RPPS 10100805174."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on combiner rhinoplastie esthétique et fonctionnelle dans la même opération ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. L'association d'une rhinoplastie esthétique et fonctionnelle — appelée septorhinoplastie — dans le même temps opératoire est courante. Elle présente l'avantage d'une seule anesthésie et d'une seule convalescence, avec prise en charge partielle possible de la composante fonctionnelle."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Combien de temps dure la convalescence après une septoplastie ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La convalescence sociale après une septoplastie isolée est d'environ 5 à 7 jours. En cas d'association avec une rhinoplastie esthétique, elle est de 7 à 10 jours avec la rhinoplastie ultrasonique."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La déviation de cloison peut-elle être corrigée sans modifier l'aspect esthétique du nez ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui. Une septoplastie isolée corrige la déviation de cloison par voie endonasale sans modifier la forme externe du nez. Si une correction esthétique est également souhaitée, elle peut être associée dans le même temps opératoire."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où consulter pour une rhinoplastie fonctionnelle à Marseille ou Nice ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultations à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12), à Nice (Clinique Saint-François, 06 42 76 26 12) et à Draguignan (04 94 39 57 72). Prise de rendez-vous également disponible sur Doctolib."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Fonctionnelle",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-fonctionnelle/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Septoplastie · Obstruction nasale",
+    "title": "Rhinoplastie Fonctionnelle",
+    "lead": "La rhinoplastie fonctionnelle — également appelée septorhinoplastie lorsqu'elle est associée à une rhinoplastie esthétique — corrige les anomalies anatomiques responsables d'une obstruction nasale : déviation de cloison, hypertrophie des cornets, dysfonction valvulaire. Prise en charge Sécurité Sociale possible.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Fonctionnelle",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la rhinoplastie fonctionnelle ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie fonctionnelle</strong> désigne l'ensemble des gestes chirurgicaux visant à corriger les anomalies anatomiques responsables d'une <strong>obstruction nasale chronique</strong>. Elle s'oppose à la rhinoplastie esthétique par sa finalité médicale — améliorer la respiration nasale — mais peut être réalisée simultanément dans le même temps opératoire. Lorsqu'elle est associée à une rhinoplastie esthétique, on parle de <strong>septorhinoplastie</strong>.</p>\n      <p>Les pathologies traitées incluent la déviation de la cloison nasale (septum), l'hypertrophie des cornets inférieurs et les dysfonctions des valves nasales. Ces anomalies peuvent entraîner une gêne respiratoire chronique, des ronflements, des troubles du sommeil et une diminution de la qualité de vie.</p>\n      <p>Le Dr Mattia Coda, chirurgien maxillo-facial, évalue ces indications à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a>, <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a> et <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "gestes",
+      "variant": null,
+      "eyebrow": "Gestes chirurgicaux",
+      "title": "Les gestes de la rhinoplastie fonctionnelle",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<a href=\"/deviation-cloison-nasale/\" style=\"color:var(--gold);\">Voir la page dédiée à la déviation de cloison nasale →</a>\n<h3>Septoplastie</h3>\n      <p>La <strong>septoplastie</strong> corrige la déviation de la cloison nasale (cartilage quadrangulaire et/ou structures osseuses septales). Elle consiste à réséquer et repositionner les portions déviées par voie endonasale, en préservant au maximum le capital cartilagineux qui peut servir de source de greffons. C'est le geste fonctionnel le plus fréquemment réalisé.</p>\n      <h3>Turbinoplastie (réduction des cornets)</h3>\n      <p>La <strong>turbinoplastie</strong> réduit le volume des cornets inférieurs hypertrophiés par voie sous-muqueuse, en préservant la muqueuse fonctionnelle. Elle améliore le flux d'air nasal tout en maintenant les fonctions de réchauffement et d'humidification de l'air inspiré.</p>\n      <h3>Correction valvulaire</h3>\n      <ul class=\"liste\">\n        <li><strong>Valve nasale interne</strong> — élargissement de l'angle septal par greffe d'écarteur (spreader graft) ou sutures d'élargissement</li>\n        <li><strong>Valve nasale externe</strong> — renforcement de la crus latérale par greffe de support (alar batten graft) ou sutures de repositionnement</li>\n      </ul>\n      <div class=\"note-med\">\n        <strong>Remboursement :</strong> La rhinoplastie fonctionnelle peut faire l'objet d'une prise en charge partielle ou totale par l'Assurance maladie si une obstruction nasale d'origine anatomique est documentée cliniquement. Le Dr Coda rédige si nécessaire une demande d'entente préalable (RPPS 10100805174).\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "rhinoplastie-mixte",
+      "variant": null,
+      "eyebrow": "Rhinoplastie mixte",
+      "title": "Association esthétique et fonctionnelle",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie fonctionnelle peut être réalisée de manière isolée ou associée à une rhinoplastie esthétique (<a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">primaire</a> ou secondaire) dans le même temps opératoire — on parle alors de <strong>septorhinoplastie</strong> ou de rhinoplastie mixte. C'est la situation la plus fréquente en pratique clinique.</p>\n      <p>La <strong>septorhinoplastie</strong> présente plusieurs avantages par rapport à deux interventions séparées : une seule anesthésie générale, une seule période de convalescence, et une prise en charge partielle possible par l'Assurance maladie pour la composante fonctionnelle.</p>\n      <p>Pour les informations complètes sur les techniques associées, consultez le <a href=\"/rhinoplastie/#techniques\" style=\"color:var(--gold);\">guide médical complet →</a></p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Rhinoplastie Fonctionnelle",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "La rhinoplastie fonctionnelle est-elle remboursée par la Sécurité Sociale ?",
+              "answer": "Oui, sous conditions. La septoplastie fonctionnelle (correction d'une déviation de cloison entraînant une obstruction respiratoire documentée) peut faire l'objet d'une prise en charge partielle ou totale. Le Dr Coda évalue cette possibilité lors de la consultation et rédige si nécessaire une demande d'entente préalable. RPPS 10100805174."
+            },
+            {
+              "question": "Peut-on combiner rhinoplastie esthétique et fonctionnelle dans la même opération ?",
+              "answer": "Oui. L'association d'une rhinoplastie esthétique et fonctionnelle (septorhinoplastie) dans le même temps opératoire est courante. Elle présente l'avantage d'une seule anesthésie et d'une seule convalescence, avec prise en charge partielle possible de la composante fonctionnelle."
+            },
+            {
+              "question": "Combien de temps dure la convalescence après une septoplastie ?",
+              "answer": "La convalescence sociale après une septoplastie isolée est d'environ 5 à 7 jours. En cas d'association avec une rhinoplastie esthétique, elle est de 7 à 10 jours avec la rhinoplastie ultrasonique."
+            },
+            {
+              "question": "La déviation de cloison peut-elle être corrigée sans modifier l'aspect esthétique du nez ?",
+              "answer": "Oui. Une septoplastie isolée corrige la déviation de cloison par voie endonasale sans modifier la forme externe du nez. Si une correction esthétique est également souhaitée, elle peut être associée dans le même temps opératoire."
+            },
+            {
+              "question": "Où consulter pour une rhinoplastie fonctionnelle à Marseille ou Nice ?",
+              "answer": "Consultations à Marseille (Hôpital Privé Beauregard, 04 91 12 11 12), à Nice (Clinique Saint-François, 06 42 76 26 12) et à Draguignan (04 94 39 57 72). Prise de rendez-vous également disponible sur Doctolib."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda évalue votre indication lors d'une consultation à Marseille, Nice ou Draguignan. Un devis personnalisé vous est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000 Nice",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": "<p style=\"font-size:.68rem;color:var(--muted);margin-top:8px;\">Interventions à la Clinique Saint-François</p>"
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres-techniques",
+      "variant": null,
+      "eyebrow": "Techniques associées",
+      "title": "Autres techniques de rhinoplastie",
+      "blocks": [
+        {
+          "type": "note",
+          "variant": "complement",
+          "title": "",
+          "html": "<div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Primaire</h4>\n        <p>Première intervention chirurgicale sur le nez — correction esthétique ou fonctionnelle.</p>\n        <a href=\"/rhinoplastie-primaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Ultrasonique</h4>\n        <p>Remodelage osseux par instruments piézoélectriques — précision maximale, suites légères.</p>\n        <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie de Préservation</h4>\n        <p>Technique Push-Down ou Let-Down — repositionnement sans résection des structures nasales.</p>\n        <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Secondaire</h4>\n        <p>Révision d'une rhinoplastie antérieure — correction d'un résultat insatisfaisant.</p>\n        <a href=\"/rhinoplastie-secondaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Fonctionnelle</h4>\n        <p>Septoplastie et turbinoplastie — correction des anomalies respiratoires.</p>\n        <a href=\"/rhinoplastie-fonctionnelle/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Guide Rhinoplastie Complet</h4>\n        <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie en un seul guide.</p>\n        <a href=\"/rhinoplastie/\">Voir le guide →</a>\n      </div>",
+          "className": "techniques-autres"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Fonctionnelle",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "2c84c1532e24a776",
+    "date": "2026-09-18"
+  }
+}

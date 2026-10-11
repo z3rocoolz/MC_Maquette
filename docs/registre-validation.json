@@ -1,0 +1,364 @@
+{
+  "release": "technique-2026-10-11",
+  "clinical_approval": false,
+  "pages": [
+    {
+      "file": "accessibilite.json",
+      "title": "Accessibilité du site.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "apres-intervention.json",
+      "title": "Anticiper votre retour.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "article-du-mois.json",
+      "title": "Des repères pour votre réflexion.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "avant-apres.json",
+      "title": "Avant <em>/ Après</em>",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "blepharoplastie.json",
+      "title": "Blépharoplastie : la chirurgie des paupières.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/blepharoplastie.json",
+      "technical_sections": 7,
+      "technical_approval": false
+    },
+    {
+      "file": "chirurgie-orthognathique.json",
+      "title": "Chirurgie des mâchoires : comprendre le parcours.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/chirurgie-orthognathique.json",
+      "technical_sections": 7,
+      "technical_approval": false
+    },
+    {
+      "file": "competences.json",
+      "title": "Le visage, dans toutes ses dimensions.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "confidentialite.json",
+      "title": "Confidentialité",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "consultation.json",
+      "title": "Votre projet commence par une rencontre.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "correction-bosse-nez.json",
+      "title": "Une demande concernant la bosse du nez",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/correction-bosse-nez.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "dents-de-sagesse.json",
+      "title": "Dents de sagesse : comprendre l’indication.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/dents-de-sagesse.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "deviation-cloison-nasale.json",
+      "title": "La déviation de la cloison nasale",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/deviation-cloison-nasale.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "dr-mattia-coda.json",
+      "title": "Dr Mattia Coda",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "drmattiacoda_v8.json",
+      "title": "Rhinoplastie.<br>Comprendre,<br><em>puis décider.</em>",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "feminisation-faciale.json",
+      "title": "Féminisation faciale",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/feminisation-faciale.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "informations-pratiques.json",
+      "title": "Les repères pratiques.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "informations.json",
+      "title": "À propos de ce site.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "lifting-cervico-facial.json",
+      "title": "Chirurgie du visage et du cou",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/lifting-cervico-facial.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "lifting-sourcilier.json",
+      "title": "La position des sourcils",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/lifting-sourcilier.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "medecine-esthetique.json",
+      "title": "Médecine esthétique du visage",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/medecine-esthetique.json",
+      "technical_sections": 7,
+      "technical_approval": false
+    },
+    {
+      "file": "mentions-legales.json",
+      "title": "Mentions légales",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "motifs-consultation.json",
+      "title": "Qu’est-ce qui vous amène ?",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "parcours-patient.json",
+      "title": "Avancer à votre rythme.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "preparer-consultation.json",
+      "title": "Préparer votre consultation.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "prix-rhinoplastie.json",
+      "title": "Comprendre les honoraires",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "profiloplastie.json",
+      "title": "Comprendre la profiloplastie",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/profiloplastie.json",
+      "technical_sections": 7,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-draguignan.json",
+      "title": "Consulter à Draguignan",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "rhinoplastie-fonctionnelle.json",
+      "title": "Nez et respiration",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-fonctionnelle.json",
+      "technical_sections": 5,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-homme.json",
+      "title": "Rhinoplastie chez l’homme",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-homme.json",
+      "technical_sections": 7,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-marseille.json",
+      "title": "Consulter à Marseille",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "rhinoplastie-nice.json",
+      "title": "Consulter à Nice",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    },
+    {
+      "file": "rhinoplastie-pointe-nez.json",
+      "title": "La pointe du nez",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-pointe-nez.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-preservation.json",
+      "title": "Rhinoplastie de préservation",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-preservation.json",
+      "technical_sections": 5,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-primaire.json",
+      "title": "Une première rhinoplastie",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-primaire.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-secondaire.json",
+      "title": "Rhinoplastie secondaire",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-secondaire.json",
+      "technical_sections": 5,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie-ultrasonique.json",
+      "title": "Rhinoplastie ultrasonique",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie-ultrasonique.json",
+      "technical_sections": 6,
+      "technical_approval": false
+    },
+    {
+      "file": "rhinoplastie_v3.json",
+      "title": "Rhinoplastie : comprendre la chirurgie du nez.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null,
+      "technical_source": "sources-originales/content/rhinoplastie_v3.json",
+      "technical_sections": 11,
+      "technical_approval": false
+    },
+    {
+      "file": "sources-et-engagements.json",
+      "title": "Une information claire et documentée.",
+      "status": "À relire et approuver par le praticien",
+      "reviewer": null,
+      "approval_date": null,
+      "next_review": null
+    }
+  ]
+}

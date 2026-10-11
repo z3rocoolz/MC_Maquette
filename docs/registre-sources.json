@@ -1,0 +1,101 @@
+{
+  "consulted": "2026-10-10",
+  "sources": [
+    {
+      "id": "IDENTITE",
+      "url": "https://www.doctolib.fr/chirurgien-maxillo-facial-et-stomatologiste/marseille/mattia-coda",
+      "usage": "Spécialité, RPPS, langues, formations, lieux",
+      "status": "Vérifié sur la fiche publique ; confirmation par le praticien attendue"
+    },
+    {
+      "id": "NEZ",
+      "url": "https://www.sfscmfco.com/fiches-information/chirurgie-du-nez-et-des-fosses-nasales/",
+      "usage": "Rhinoplastie, fonction, risques et suites",
+      "status": "Référence consultée ; relecture du texte produit attendue"
+    },
+    {
+      "id": "PAUPIERES",
+      "url": "https://www.sfscmfco.com/fiches-information/chirurgie-des-paupieres-blepharoplastie/",
+      "usage": "Repères de blépharoplastie",
+      "status": "Référence consultée ; relecture du texte produit attendue"
+    },
+    {
+      "id": "MACHOIRES-SUP",
+      "url": "https://www.sfscmfco.com/fiches-information/osteotomie-des-maxillaires/",
+      "usage": "Chirurgie orthognathique",
+      "status": "Référence consultée ; relecture du texte produit attendue"
+    },
+    {
+      "id": "MACHOIRES-INF",
+      "url": "https://www.sfscmfco.com/fiches-information/osteotomie-mandibulaire/",
+      "usage": "Chirurgie orthognathique",
+      "status": "Référence consultée ; relecture du texte produit attendue"
+    },
+    {
+      "id": "DENTS",
+      "url": "https://www.sfscmfco.com/fiches-information/avulsion-des-dents-de-sagesse/",
+      "usage": "Indications et risques, pas de protocole personnel",
+      "status": "Référence consultée ; relecture du texte produit attendue"
+    },
+    {
+      "id": "DECISION",
+      "url": "https://www.has-sante.fr/jcms/c_1671523/fr/patient-et-professionnels-de-sante-decider-ensemble",
+      "usage": "Conception du parcours et place des préférences",
+      "status": "Principes adaptés, sans prétendre être une aide à la décision validée"
+    },
+    {
+      "id": "DEVIS",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006919322",
+      "usage": "D6322-30 : délai après remise du devis",
+      "status": "Extrait officiel retrouvé ; ouverture directe limitée par accès 403"
+    },
+    {
+      "id": "PUBLICITE2026",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000054896420/2026-09-26",
+      "usage": "R6322-49 à R6322-51 issus du décret 2026-891",
+      "status": "Texte consulté ; application au site individuel à examiner selon activité"
+    },
+    {
+      "id": "SEO",
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies#doorway-abuse",
+      "usage": "Éviter les pages satellites locales sans valeur propre",
+      "status": "Pages lieux orientées accès et rendez-vous"
+    },
+    {
+      "id": "A11Y",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "usage": "Seuils de contraste et couleurs",
+      "status": "Mesures numériques, pas certification"
+    },
+    {
+      "id": "REFLOW",
+      "url": "https://www.w3.org/WAI/WCAG21/Understanding/reflow",
+      "usage": "Recette à 320 pixels CSS",
+      "status": "Essais navigateur restant à réaliser"
+    },
+    {
+      "id": "AXE",
+      "url": "https://playwright.dev/docs/accessibility-testing",
+      "usage": "Préparation CI axe et Playwright",
+      "status": "Scripts préparés, navigateur non exécuté"
+    },
+    {
+      "id": "LIGHTHOUSE",
+      "url": "https://googlechrome.github.io/lighthouse-ci/docs/configuration.html",
+      "usage": "Préparation CI de performance",
+      "status": "Scripts préparés, scores non mesurés"
+    },
+    {
+      "id": "COOKIES",
+      "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs/que-dit-la-loi",
+      "usage": "Absence de traceurs ajoutés, services tiers par liens",
+      "status": "Pas d’analyse juridique complète du futur hébergement"
+    },
+    {
+      "id": "ORIGINAUX-CODA",
+      "file": "sources-originales/manifest.json",
+      "usage": "Textes techniques d’origine des 18 pages de prise en charge, issus du ZIP initial fourni par l’utilisateur ; 28 JSON sources préservés sans modification.",
+      "status": "Fidélité textuelle contrôlée ; conservation ne valant pas approbation médicale de la nouvelle publication."
+    }
+  ]
+}

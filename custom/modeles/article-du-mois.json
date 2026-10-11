@@ -1,0 +1,144 @@
+{
+  "slug": "article-du-mois",
+  "url": "/article-du-mois/",
+  "template": "standard",
+  "style": "style-52f7e740ebbe.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "95e1c0db48b5",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "0d1ed28e7d20"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "images": [],
+  "seo": {
+    "title": "L'article du mois — Dr Mattia Coda, Chirurgien Maxillo-Facial",
+    "description": "Le point du mois du Dr Mattia Coda sur la chirurgie du visage : techniques, suites opératoires et conseils aux patients.",
+    "keywords": "",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/article-du-mois/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": []
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Le point du mois",
+    "title": "L'article <em>du mois</em>",
+    "lead": "Chaque mois, le Dr Mattia Coda revient sur une question que lui posent souvent ses patients.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "L'article du mois",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "sections": [
+    {
+      "id": "article",
+      "variant": null,
+      "eyebrow": "Janvier 2026",
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "title": "Titre de l'article",
+      "titleTag": "h2",
+      "titleClass": null,
+      "wrappers": [],
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "className": "txt",
+          "html": "<p>Le contenu de l'article se rédige depuis l'administration. Ce paragraphe sert de point de départ : remplacez-le par le texte du mois.</p>\n<p>La mise en forme disponible est la même que sur le reste du site : gras, italique et liens internes.</p>"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Votre projet",
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "titleTag": "h2",
+      "titleClass": null,
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation à Marseille, Nice ou Draguignan.</p>"
+        },
+        {
+          "type": "buttons",
+          "className": "cta-btns",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

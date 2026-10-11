@@ -1,0 +1,104 @@
+{
+  "_lisezmoi": "Entrées ajoutées aux menus du site. Le chrome extrait de front/ est régénéré à chaque extraction : ces ajouts sont réappliqués au moment du rendu, et survivent donc aux réextractions. colonneFooter accepte un titre de colonne ou son rang (1, 2, 3).",
+  "entrees": [
+    {
+      "libelle": "L'article du mois",
+      "url": "/article-du-mois/",
+      "nav": true,
+      "menuMobile": true,
+      "colonneFooter": 2
+    },
+    {
+      "libelle": "Avant/Après",
+      "url": "/avant-apres/",
+      "nav": true,
+      "menuMobile": true,
+      "colonneFooter": 2
+    }
+  ],
+  "navigation": {
+    "_aide": "Barre du haut, identique sur toutes les pages. Le bloc logo n'est pas touché : la moitié des feuilles de style ne connaissent que .nav-logo, l'autre moitié que .logo-wrap. masquerPageCourante retire de la barre l'entrée qui mène à la page affichée.",
+    "harmoniser": true,
+    "liens": [
+      {
+        "libelle": "Accueil",
+        "url": "/"
+      },
+      {
+        "libelle": "Rhinoplastie",
+        "url": "/rhinoplastie/"
+      },
+      {
+        "libelle": "Avant/Après",
+        "url": "/avant-apres/"
+      },
+      {
+        "libelle": "Le Chirurgien",
+        "url": "/dr-mattia-coda/"
+      },
+      {
+        "libelle": "Marseille",
+        "url": "/rhinoplastie-marseille/"
+      },
+      {
+        "libelle": "Nice",
+        "url": "/rhinoplastie-nice/"
+      },
+      {
+        "libelle": "Draguignan",
+        "url": "/rhinoplastie-draguignan/"
+      },
+      {
+        "libelle": "L'article du mois",
+        "url": "/article-du-mois/"
+      }
+    ],
+    "bouton": {
+      "libelle": "Prendre RDV",
+      "url": "https://www.doctolib.fr",
+      "classe": "nav-rdv",
+      "externe": true
+    },
+    "masquerPageCourante": true,
+    "lienPermanent": {
+      "_aide": "Lien toujours visible dans le bandeau, à gauche après le logo. L'adresse vaut « doctolib » pour reprendre celle de custom/liens.json.",
+      "libelle": "Doctolib",
+      "url": "doctolib",
+      "classe": "nav-doctolib",
+      "image": "/assets/img/doctolib-logo.png"
+    }
+  },
+  "filAriane": {
+    "_aide": "Fil d'Ariane des pages. masquerAccueil retire l'entrée « Accueil » : le logo et le menu y mènent déjà, et elle allongeait le fil sans rien apprendre.",
+    "masquerAccueil": true
+  },
+  "hero": {
+    "_aide": "En-tête des pages. reduireAuTitre ne garde que le titre : fil d'Ariane, surtitre, accroche et boutons disparaissent. S'applique aux pages dont le fil passe par quandFilPassePar, et à celles listées dans pages. titreMasqueVisuellement retire en plus le titre de l'affichage tout en le laissant dans le code, pour les moteurs et les lecteurs d'écran.",
+    "reduireAuTitre": {
+      "quandFilPassePar": "/rhinoplastie/",
+      "garderSurtitre": false,
+      "pages": [
+        "blepharoplastie",
+        "rhinoplastie_v3",
+        "dr-mattia-coda",
+        "lifting-cervico-facial",
+        "lifting-sourcilier",
+        "dents-de-sagesse",
+        "chirurgie-orthognathique",
+        "medecine-esthetique",
+        "article-du-mois"
+      ],
+      "titreMasqueVisuellement": [
+        "dr-mattia-coda"
+      ]
+    }
+  },
+  "accueil": {
+    "_aide": "Photo affichée sous le bandeau sur la page d'accueil. Le fichier vit dans medias/ et se remplace depuis l'administration, onglet Réglages.",
+    "photo": {
+      "fichier": "portrait-b65baa3ddb.jpg",
+      "alt": "Dr Mattia Coda, chirurgien maxillo-facial",
+      "taille": 200
+    }
+  }
+}

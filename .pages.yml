@@ -1,0 +1,75 @@
+# Pages CMS : connecter ce dépôt GitHub sur https://pagescms.org/
+# Les contenus médicaux sont des brouillons tant que le Dr Coda ne les approuve pas.
+media:
+  input: assets/uploads
+  output: /assets/uploads
+
+content:
+  - name: articles
+    label: Articles et actualités
+    type: collection
+    path: content/articles
+    format: json
+    filename: "{primary}.json"
+    view:
+      fields: [titre, date, publie]
+      primary: titre
+    fields:
+      - name: titre
+        label: Titre de l'article
+        type: string
+        required: true
+      - name: date
+        label: Date de publication (AAAA-MM-JJ)
+        type: date
+        required: true
+      - name: resume
+        label: Résumé pour la liste des articles
+        type: text
+      - name: titre_seo
+        label: Titre pour Google (SEO)
+        type: string
+      - name: description_seo
+        label: Description pour Google (SEO)
+        type: text
+      - name: image
+        label: Image de couverture
+        type: image
+      - name: alt_image
+        label: Description de l'image (accessibilité)
+        type: string
+      - name: publie
+        label: Publication approuvée par le Dr Coda
+        type: boolean
+        default: false
+      - name: contenu
+        label: Texte de l'article
+        type: rich-text
+
+  - name: pages
+    label: Pages existantes (titres, accroches, SEO)
+    type: collection
+    path: content/cms-pages
+    format: json
+    view:
+      fields: [titre, accroche]
+      primary: titre
+    fields:
+      - name: titre
+        label: Titre principal (conserver le HTML décoratif sur l'accueil)
+        type: string
+      - name: surtitre
+        label: Surtitre
+        type: string
+      - name: accroche
+        label: Texte d'introduction sous le titre
+        type: text
+      - name: titre_seo
+        label: Titre SEO
+        type: string
+      - name: description_seo
+        label: Description SEO
+        type: text
+      - name: introduction
+        label: Nouveau bloc d'introduction facultatif
+        type: rich-text

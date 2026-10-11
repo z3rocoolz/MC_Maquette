@@ -1,0 +1,103 @@
+{
+  "slug": "lifting-cervico-facial",
+  "url": "/lifting-cervico-facial/",
+  "template": "standard",
+  "style": "style-fdbf75cc48a4.css",
+  "scripts": [
+    "script-ba586054a1c8.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "c6a673f1fa33",
+    "overlay": "dd9d72dc74d3",
+    "menu": "8bc3c4c03113",
+    "footer": "39e3aedf3c75"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Chirurgie du visage et du cou | Dr Mattia Coda",
+    "description": "Comprendre les possibilités et les limites d’un lifting.",
+    "lang": "fr"
+  },
+  "hero": {
+    "title": "Chirurgie du visage et du cou",
+    "lead": "Comprendre les possibilités et les limites d’un lifting.",
+    "eyebrow": "Votre information"
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "comprendre",
+      "title": "Comprendre la demande",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Un lifting agit sur certains effets du relâchement des tissus. Il ne modifie pas tous les aspects du vieillissement et n’en arrête pas l’évolution. Le bilan précise les zones, les cicatrices et les gestes éventuellement associés.</p>"
+        }
+      ]
+    },
+    {
+      "id": "indications",
+      "title": "Possibilités et alternatives",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>La consultation met en regard votre attente et les constatations de l’examen. Demandez ce qui est possible, ce qui ne l’est pas et quelles autres options existent, y compris ne pas intervenir.</p>"
+        }
+      ]
+    },
+    {
+      "id": "risques",
+      "title": "Risques, limites et suites",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p>Le profil de risque dépend des gestes ou produits envisagés. Il doit être expliqué précisément, avec les limites du traitement et les modalités de suivi.</p><p>Le calendrier de récupération et les précautions sont individuels. Une technique, un appareil ou une simulation ne garantit pas le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Les questions à poser",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<ul><li>Quels aspects de ma demande cette intervention ne modifierait-elle pas ?</li><li>Quels risques sont spécifiques à ma situation ?</li><li>Comment se déroulerait le suivi ?</li></ul><p><a href=\"preparer-consultation.html\">Préparer et imprimer ma fiche de consultation →</a></p>"
+        }
+      ]
+    },
+    {
+      "id": "approfondir",
+      "title": "Pour aller plus loin",
+      "blocks": [
+        {
+          "type": "html",
+          "html": "<p><a href=\"competences.html\">Retrouver les domaines d’intervention</a> et <a href=\"consultation.html\">le déroulement d’une consultation</a>.</p>"
+        }
+      ]
+    }
+  ],
+  "_extraction": {
+    "empreinte": "e2b182a0be4992c4",
+    "date": "2026-09-18"
+  },
+  "medical": true,
+  "editorial": {
+    "status": "validation-praticien-requise",
+    "updated": "2026-10-10",
+    "reviewedBy": null
+  }
+}

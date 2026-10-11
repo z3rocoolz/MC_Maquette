@@ -1,0 +1,416 @@
+{
+  "slug": "rhinoplastie-ultrasonique",
+  "url": "/rhinoplastie-ultrasonique/",
+  "template": "standard",
+  "style": "style-2915072916e2.css",
+  "scripts": [
+    "script-e24bae7fd33f.js",
+    "script-94af354012a5.js"
+  ],
+  "chrome": {
+    "nav": "6598e58dc498",
+    "overlay": "dd9d72dc74d3",
+    "menu": "3bc93c016ef5",
+    "footer": "e938422a31d8"
+  },
+  "images": [
+    "img-79b1e66c8733.jpg"
+  ],
+  "seo": {
+    "title": "Rhinoplastie Ultrasonique | Dr Mattia Coda, Marseille",
+    "description": "Rhinoplastie ultrasonique à Marseille et Nice avec le Dr Mattia Coda. Technique piézoélectrique pour un remodelage osseux précis, moins d'ecchymoses.",
+    "keywords": "rhinoplastie ultrasonique, rhinoplastie ultrasonique Marseille, rhinoplastie piézoélectrique, rhinoplastie ultrasonique Nice, chirurgie nez ultrason",
+    "robots": "index, follow",
+    "canonical": "https://www.drmattiacoda.fr/rhinoplastie-ultrasonique/",
+    "lang": "fr",
+    "openGraph": {
+      "title": "",
+      "description": "",
+      "image": "",
+      "type": ""
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Rhinoplastie Ultrasonique",
+        "description": "Rhinoplastie ultrasonique à Marseille et Nice avec le Dr Mattia Coda. Technique piézoélectrique pour un remodelage osseux précis avec moins d'ecchymoses. Consultations à Marseille, Nice et Draguignan.",
+        "url": "https://www.drmattiacoda.fr/rhinoplastie-ultrasonique/",
+        "lastReviewed": "2026-01",
+        "about": {
+          "@type": "MedicalProcedure",
+          "name": "Rhinoplastie Ultrasonique",
+          "bodyLocation": "Nez"
+        },
+        "author": {
+          "@type": "Physician",
+          "name": "Dr Mattia Coda",
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "RPPS",
+            "value": "10100805174"
+          },
+          "medicalSpecialty": "Chirurgie Maxillo-Faciale",
+          "url": "https://www.drmattiacoda.fr"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Qu'est-ce qui différencie la rhinoplastie ultrasonique de la rhinoplastie classique ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La rhinoplastie classique utilise des ostéotomes (ciseaux à os) frappés au maillet pour fracturer les os nasaux. La rhinoplastie ultrasonique utilise des instruments piézoélectriques qui sculptent l'os par vibrations sélectives, sans traumatiser les tissus mous environnants. Le résultat est une réduction des ecchymoses, un œdème moindre et une récupération accélérée."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "La rhinoplastie ultrasonique coûte-t-elle plus cher ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le tarif de la rhinoplastie ultrasonique est légèrement supérieur à la rhinoplastie conventionnelle, entre 5 000 € et 9 000 €, en raison de l'équipement spécialisé. Un devis personnalisé est remis après consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Peut-on faire une rhinoplastie ultrasonique pour une révision ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Oui, la rhinoplastie ultrasonique peut être utilisée dans le cadre d'une rhinoplastie secondaire, bien que les cas de révision soient techniquement plus complexes. Le Dr Coda évalue l'indication lors de la consultation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Où le Dr Coda pratique-t-il la rhinoplastie ultrasonique ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Le Dr Mattia Coda pratique la rhinoplastie ultrasonique à Marseille (Hôpital Privé Beauregard) et à Nice (Clinique Saint-François). Les consultations préopératoires sont également disponibles à Draguignan."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Accueil",
+            "item": "https://www.drmattiacoda.fr/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Rhinoplastie",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Rhinoplastie Ultrasonique",
+            "item": "https://www.drmattiacoda.fr/rhinoplastie-ultrasonique/"
+          }
+        ]
+      }
+    ]
+  },
+  "hero": {
+    "tag": "header",
+    "className": "hero",
+    "id": null,
+    "blocks": [],
+    "eyebrow": "Technique piézoélectrique · Chirurgie du nez",
+    "title": "Rhinoplastie Ultrasonique",
+    "lead": "La rhinoplastie ultrasonique utilise des instruments piézoélectriques pour sculpter les os nasaux avec précision, sans traumatiser les tissus mous. Moins d'ecchymoses, récupération accélérée.",
+    "buttons": [
+      {
+        "label": "📅 Prendre rendez-vous",
+        "href": "https://www.doctolib.fr",
+        "style": "btn-gold",
+        "external": true
+      },
+      {
+        "label": "Guide complet rhinoplastie",
+        "href": "/rhinoplastie/",
+        "style": "btn-outline",
+        "external": false
+      }
+    ],
+    "breadcrumb": [
+      {
+        "label": "Accueil",
+        "href": "/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie",
+        "href": "/rhinoplastie/",
+        "className": null
+      },
+      {
+        "label": "Rhinoplastie Ultrasonique",
+        "href": null,
+        "className": "cur"
+      }
+    ],
+    "separateurClass": null
+  },
+  "layout": [
+    {
+      "tag": "main",
+      "className": null,
+      "id": "main-content"
+    },
+    {
+      "tag": "div",
+      "className": "wrap",
+      "id": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "definition",
+      "variant": null,
+      "eyebrow": "Définition",
+      "title": "Qu'est-ce que la rhinoplastie ultrasonique ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La <strong>rhinoplastie ultrasonique</strong>, également appelée rhinoplastie piézoélectrique, est une technique chirurgicale qui utilise des instruments à ultrasons vibrant entre 25 et 29 kHz pour sculpter les structures osseuses nasales. Contrairement aux techniques conventionnelles utilisant des ostéotomes et un maillet, ces instruments agissent <strong>sélectivement sur l'os</strong> sans traumatiser les tissus mous environnants — vaisseaux, périoste, muqueuse nasale.</p>\n      <p>Cette approche représente une avancée significative dans le remodelage osseux nasal. Le Dr Mattia Coda pratique la rhinoplastie ultrasonique à <a href=\"/rhinoplastie-marseille/\" style=\"color:var(--gold);\">Marseille</a> et à <a href=\"/rhinoplastie-nice/\" style=\"color:var(--gold);\">Nice</a>, avec des consultations également disponibles à <a href=\"/rhinoplastie-draguignan/\" style=\"color:var(--gold);\">Draguignan</a>.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "avantages",
+      "variant": null,
+      "eyebrow": "Avantages cliniques",
+      "title": "Avantages de la rhinoplastie ultrasonique",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<div class=\"ibox\">\n        <span class=\"ibox-title\">Bénéfices par rapport aux techniques conventionnelles</span>\n        <ul class=\"liste\">\n          <li><strong>Réduction significative des ecchymoses</strong> — le périoste est préservé, limitant les saignements péri-osseux</li>\n          <li><strong>Œdème post-opératoire moindre</strong> — les tissus mous ne sont pas traumatisés par les vibrations mécaniques</li>\n          <li><strong>Convalescence accélérée</strong> — retour à la vie sociale en 7 à 10 jours au lieu de 10 à 15 jours</li>\n          <li><strong>Précision de sculpture supérieure</strong> — possibilité de réaliser des ostéotomies complexes avec un contrôle millimétrique</li>\n          <li><strong>Moins de fractures incontrôlées</strong> — la coupe est progressive et maîtrisée, non percussive</li>\n          <li><strong>Préservation des structures vasculaires</strong> — meilleure vascularisation des fragments osseux pendant la cicatrisation</li>\n        </ul>\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "indications",
+      "variant": null,
+      "eyebrow": "Indications",
+      "title": "Quand choisir la rhinoplastie ultrasonique ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>La rhinoplastie ultrasonique est particulièrement indiquée dans les situations suivantes :</p>\n      <ul class=\"liste\">\n        <li>Correction d'une gibbosité naso-dorsale nécessitant une résection osseuse précise</li>\n        <li>Ostéotomies de fermeture après abaissement du dorsum</li>\n        <li>Rhinoplasties <a href=\"/rhinoplastie-primaire/\" style=\"color:var(--gold);\">primaires</a> sur des nez à peau fine où la précision est primordiale</li>\n        <li>Patients souhaitant une reprise rapide de leur activité professionnelle</li>\n        <li>Cas nécessitant des ostéotomies multiples ou complexes</li>\n      </ul>\n      <p>Elle peut être combinée avec la <a href=\"/rhinoplastie-preservation/\" style=\"color:var(--gold);\">technique de préservation (Push-Down)</a> ou avec une composante <a href=\"/rhinoplastie-fonctionnelle/\" style=\"color:var(--gold);\">fonctionnelle (septoplastie)</a> dans le même temps opératoire.</p>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "technique",
+      "variant": null,
+      "eyebrow": "Mécanisme",
+      "title": "Comment fonctionne la technique ultrasonique ?",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "<p>Les instruments piézoélectriques génèrent des vibrations à haute fréquence qui créent une <strong>abrasion sélective</strong> au contact de l'os minéralisé. L'énergie ultrasonique ne se transmet pas aux tissus mous — cartilages, muqueuse, vaisseaux, nerfs — qui restent intacts lors de la dissection osseuse.</p>\n      <p>Cette sélectivité tissulaire permet de sculpter progressivement les os nasaux avec une précision que les instruments conventionnels ne peuvent pas atteindre, notamment pour les ostéotomies transversales, obliques ou courbes.</p>\n      <div class=\"note-med\">\n        <strong>Note technique :</strong> La rhinoplastie ultrasonique n'élimine pas totalement les ecchymoses, mais les réduit significativement. L'importance des suites post-opératoires dépend également de la complexité de l'intervention et de la technique d'abord utilisée (voie ouverte ou fermée).\n      </div>",
+          "className": "txt"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "faq",
+      "variant": null,
+      "eyebrow": "Questions fréquentes",
+      "title": "Questions sur la Rhinoplastie Ultrasonique",
+      "blocks": [
+        {
+          "type": "faq",
+          "questionTag": "button",
+          "questionClass": "faq-btn",
+          "answerClass": "faq-body",
+          "items": [
+            {
+              "question": "Qu'est-ce qui différencie la rhinoplastie ultrasonique de la rhinoplastie classique ?",
+              "answer": "La rhinoplastie classique utilise des ostéotomes (ciseaux à os) frappés au maillet pour fracturer les os nasaux. La rhinoplastie ultrasonique utilise des instruments piézoélectriques qui sculptent l'os par vibrations sélectives, sans traumatiser les tissus mous environnants. Le résultat est une réduction des ecchymoses, un œdème moindre et une récupération accélérée."
+            },
+            {
+              "question": "La rhinoplastie ultrasonique coûte-t-elle plus cher ?",
+              "answer": "Le tarif de la rhinoplastie ultrasonique est légèrement supérieur à la rhinoplastie conventionnelle, entre 5 000 € et 9 000 €, en raison de l'équipement spécialisé. Un devis personnalisé est remis après consultation."
+            },
+            {
+              "question": "Peut-on faire une rhinoplastie ultrasonique pour une révision ?",
+              "answer": "Oui, la rhinoplastie ultrasonique peut être utilisée dans le cadre d'une rhinoplastie secondaire, bien que les cas de révision soient techniquement plus complexes. Le Dr Coda évalue l'indication lors de la consultation."
+            },
+            {
+              "question": "Où le Dr Coda pratique-t-il la rhinoplastie ultrasonique ?",
+              "answer": "Le Dr Mattia Coda pratique la rhinoplastie ultrasonique à Marseille (Hôpital Privé Beauregard) et à Nice (Clinique Saint-François). Les consultations préopératoires sont également disponibles à Draguignan."
+            }
+          ],
+          "className": "faq-list"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "consultations",
+      "variant": null,
+      "eyebrow": "Prendre rendez-vous",
+      "title": "Consulter le Dr Coda",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": true,
+          "html": "Le Dr Mattia Coda évalue votre indication lors d'une consultation à Marseille, Nice ou Draguignan. Un devis personnalisé vous est remis conformément à la réglementation.",
+          "className": "txt"
+        },
+        {
+          "type": "villes",
+          "items": [
+            {
+              "name": "Marseille",
+              "address": "Hôpital Privé Beauregard<br>23 rue des Linots, 13012",
+              "phone": "04 91 12 11 12",
+              "badge": "",
+              "link": "/rhinoplastie-marseille/",
+              "linkLabel": "Consultation Marseille →",
+              "extra": ""
+            },
+            {
+              "name": "Nice",
+              "address": "Cabinet Médical<br>4 Av. Georges Clemenceau, 06000 Nice",
+              "phone": "06 42 76 26 12",
+              "badge": "",
+              "link": "/rhinoplastie-nice/",
+              "linkLabel": "Consultation Nice →",
+              "extra": "<p style=\"font-size:.68rem;color:var(--muted);margin-top:8px;\">Interventions à la Clinique Saint-François</p>"
+            },
+            {
+              "name": "Draguignan",
+              "address": "Centre Médical<br>64 Av. Lazare Carnot, 83300",
+              "phone": "04 94 39 57 72",
+              "badge": "",
+              "link": "/rhinoplastie-draguignan/",
+              "linkLabel": "Consultation Draguignan →",
+              "extra": ""
+            }
+          ],
+          "className": "villes-grid"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": "autres-techniques",
+      "variant": null,
+      "eyebrow": "Techniques associées",
+      "title": "Autres techniques de rhinoplastie",
+      "blocks": [
+        {
+          "type": "note",
+          "variant": "complement",
+          "title": "",
+          "html": "<div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Primaire</h4>\n        <p>Première intervention chirurgicale sur le nez — correction esthétique ou fonctionnelle.</p>\n        <a href=\"/rhinoplastie-primaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Ultrasonique</h4>\n        <p>Remodelage osseux par instruments piézoélectriques — précision maximale, suites légères.</p>\n        <a href=\"/rhinoplastie-ultrasonique/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie de Préservation</h4>\n        <p>Technique Push-Down ou Let-Down — repositionnement sans résection des structures nasales.</p>\n        <a href=\"/rhinoplastie-preservation/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Secondaire</h4>\n        <p>Révision d'une rhinoplastie antérieure — correction d'un résultat insatisfaisant.</p>\n        <a href=\"/rhinoplastie-secondaire/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Rhinoplastie Fonctionnelle</h4>\n        <p>Septoplastie et turbinoplastie — correction des anomalies respiratoires.</p>\n        <a href=\"/rhinoplastie-fonctionnelle/\">En savoir plus →</a>\n      </div>\n      <div class=\"tech-card-mini\">\n        <h4>Guide Rhinoplastie Complet</h4>\n        <p>Anatomie, techniques, suites, tarifs — tout sur la rhinoplastie en un seul guide.</p>\n        <a href=\"/rhinoplastie/\">Voir le guide →</a>\n      </div>",
+          "className": "techniques-autres"
+        }
+      ],
+      "wrappers": [],
+      "eyebrowTag": "span",
+      "eyebrowClass": "eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    },
+    {
+      "id": null,
+      "variant": "cta",
+      "eyebrow": "Rhinoplastie Ultrasonique",
+      "title": "Prendre rendez-vous<br><strong>avec le Dr Mattia Coda</strong>",
+      "blocks": [
+        {
+          "type": "text",
+          "enveloppe": false,
+          "html": "<p>Consultation individuelle à Marseille, Nice ou Draguignan. Simulation préopératoire et devis remis lors de la consultation.</p>"
+        },
+        {
+          "type": "buttons",
+          "items": [
+            {
+              "label": "📅 Prendre RDV sur Doctolib",
+              "href": "https://www.doctolib.fr",
+              "style": "btn-gold",
+              "external": true
+            },
+            {
+              "label": "04 91 12 11 12",
+              "href": "tel:0491121112",
+              "style": "btn-outline",
+              "external": false
+            }
+          ],
+          "className": "cta-btns"
+        }
+      ],
+      "wrappers": [
+        {
+          "tag": "div",
+          "className": "cta-inner",
+          "id": null
+        }
+      ],
+      "eyebrowTag": "span",
+      "eyebrowClass": "cta-eyebrow",
+      "eyebrowStyle": null,
+      "titleTag": "h2",
+      "titleClass": null
+    }
+  ],
+  "_extraction": {
+    "empreinte": "b758f951709e3797",
+    "date": "2026-09-18"
+  }
+}
